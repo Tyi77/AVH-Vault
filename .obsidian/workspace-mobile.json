@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "9a60859e2b3fb2e0",
+    "id": "5db56afa84d6b120",
     "type": "split",
     "children": [
       {
-        "id": "0624f047b2be44ab",
+        "id": "4a86d68dc666c4d0",
         "type": "tabs",
         "children": [
           {
-            "id": "203fb17c17bcbd5c",
+            "id": "67fa20ab938dcbc6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -27,11 +27,11 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "927d80c93cfb2f9b",
+    "id": "753c836ef5c7a6c6",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "3086de42aedc854f",
+        "id": "acfc08232a32b9b1",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -43,7 +43,7 @@
         }
       },
       {
-        "id": "4e1b00e7fac48120",
+        "id": "97305881c87bce68",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -60,7 +60,7 @@
         }
       },
       {
-        "id": "c2d112c573950e72",
+        "id": "c562393e5b8e30a6",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -73,7 +73,7 @@
         }
       },
       {
-        "id": "fac6dcee641ad9f1",
+        "id": "d05caf1b08837b9d",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -86,11 +86,11 @@
     "currentTab": 0
   },
   "right": {
-    "id": "ad89e2d1989fbd18",
+    "id": "6ef41e0829eb0bb7",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "4368aff8c89225f4",
+        "id": "c93a605497068c28",
         "type": "leaf",
         "state": {
           "type": "backlink",
@@ -109,11 +109,12 @@
         }
       },
       {
-        "id": "f9c6fdb959e2bf2e",
+        "id": "ed4f5fafbad5ea55",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Paper/Notes/Modeling the Impact of Head-Body Rotations on Audio-Visual Spatial Perception for Virtual Reality Applications.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -122,17 +123,19 @@
         }
       },
       {
-        "id": "d23a1b26385f826c",
+        "id": "a5b0aae45da33e3a",
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {},
+          "state": {
+            "file": "Paper/Notes/Modeling the Impact of Head-Body Rotations on Audio-Visual Spatial Perception for Virtual Reality Applications.md"
+          },
           "icon": "lucide-list",
           "title": "Outline"
         }
       },
       {
-        "id": "279d074dc7d16f57",
+        "id": "f61c9d8ea349d0a7",
         "type": "leaf",
         "state": {
           "type": "git-view",
@@ -155,41 +158,6 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "279d074dc7d16f57",
-  "lastOpenFiles": [
-    "Paper/Notes/Crossmodal influences on visual perception.md",
-    "Paper/Notes/Modeling the Impact of Head-Body Rotations on Audio-Visual Spatial Perception for Virtual Reality Applications.md",
-    "Paper/Notes/Studying the Effects of Congruence of Auditory and Visual Stimuli on Virtual Reality Experiences.md",
-    "Modeling the Impact of Head-Body Rotations on Audio-Visual Spatial Perception for Virtual Reality Applications.md",
-    "Paper/Notes/Imperceptible manipulation of lateral camera motion for improved virtual reality applications.md",
-    "Template/Paper Template.md",
-    "Template/Knowledge Template.md",
-    "Paper/Notes/Auptimize Optimal Placement of Spatial Audio Cues for Extended Reality.md",
-    "Untitled.md",
-    "Cool.md",
-    "Knowledge/Notes/2AFC (two-alternative forced choice).md",
-    "Knowledge/Maps/Knowledge List.md",
-    "Knowledge/Maps/Knowledge Clarification List.md",
-    "Paper/Maps/Map=Paper.md",
-    "Paper/Maps/Paper List.md",
-    "Paper/Maps/Papers I deep in.md",
-    "Knowledge/Maps/Map=Knowledge.md",
-    "Knowledge/Notes/Resources/Pasted image 20250109233414.png",
-    "Knowledge/Notes/Psychophysics.md",
-    "Paper/Notes/Resources/Pasted image 20250110000748.png",
-    "Knowledge/Else/Terms.md",
-    "Knowledge/Notes/Psychometric Function.md",
-    "Paper/Notes/Resources/Pasted image 20250109234409.png",
-    "Knowledge/Notes/Psychometric.md",
-    "Knowledge/Notes/Resources",
-    "Paper/Notes/Resources",
-    "Paper/Drafts",
-    "Knowledge/Else",
-    "Paper/Maps",
-    "Knowledge/Maps",
-    "Paper/Notes",
-    "Knowledge/Notes",
-    "Knowledge",
-    "Paper"
-  ]
+  "active": "67fa20ab938dcbc6",
+  "lastOpenFiles": []
 }
