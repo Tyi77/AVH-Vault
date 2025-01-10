@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "832f297c216def56",
+    "id": "5db56afa84d6b120",
     "type": "split",
     "children": [
       {
-        "id": "144805d45a717ffd",
+        "id": "4a86d68dc666c4d0",
         "type": "tabs",
         "children": [
           {
-            "id": "6445f1370113d7b5",
+            "id": "67fa20ab938dcbc6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -27,11 +27,11 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "8f981eebe70a7bf2",
+    "id": "753c836ef5c7a6c6",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "1ed334f95869787d",
+        "id": "acfc08232a32b9b1",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -43,7 +43,7 @@
         }
       },
       {
-        "id": "8db232a4d3cbaa71",
+        "id": "97305881c87bce68",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -60,7 +60,7 @@
         }
       },
       {
-        "id": "eb6051a8781a3850",
+        "id": "c562393e5b8e30a6",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -73,7 +73,7 @@
         }
       },
       {
-        "id": "51a5b3fed32e4052",
+        "id": "d05caf1b08837b9d",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -86,15 +86,16 @@
     "currentTab": 0
   },
   "right": {
-    "id": "73156d578f32ccc8",
+    "id": "6ef41e0829eb0bb7",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "3d575ea934496ee6",
+        "id": "c93a605497068c28",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Paper/Notes/Auptimize Optimal Placement of Spatial Audio Cues for Extended Reality.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -108,11 +109,12 @@
         }
       },
       {
-        "id": "96e5b47f5c91323f",
+        "id": "ed4f5fafbad5ea55",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Paper/Notes/Auptimize Optimal Placement of Spatial Audio Cues for Extended Reality.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -121,17 +123,29 @@
         }
       },
       {
-        "id": "c1a47a5bd847df03",
+        "id": "a5b0aae45da33e3a",
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {},
+          "state": {
+            "file": "Paper/Notes/Auptimize Optimal Placement of Spatial Audio Cues for Extended Reality.md"
+          },
           "icon": "lucide-list",
           "title": "Outline"
         }
+      },
+      {
+        "id": "f61c9d8ea349d0a7",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {},
+          "icon": "git-pull-request",
+          "title": "Source Control"
+        }
       }
     ],
-    "currentTab": 0
+    "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -144,39 +158,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6445f1370113d7b5",
+  "active": "67fa20ab938dcbc6",
   "lastOpenFiles": [
-    "/Paper/Notes/Modeling the Impact of Head-Body Rotations on Audio-Visual Spatial Perception for Virtual Reality Applications.md",
-    "Template/Paper Template.md",
-    "Template/Knowledge Template.md",
-    "Paper/Notes/Studying the Effects of Congruence of Auditory and Visual Stimuli on Virtual Reality Experiences.md",
-    "Paper/Notes/Resources/Pasted image 20250110000748.png",
-    "Paper/Notes/Resources/Pasted image 20250109234409.png",
-    "Paper/Notes/Modeling the Impact of Head-Body Rotations on Audio-Visual Spatial Perception for Virtual Reality Applications.md",
     "Paper/Notes/Imperceptible manipulation of lateral camera motion for improved virtual reality applications.md",
-    "Paper/Notes/Crossmodal influences on visual perception.md",
+    "Paper/Notes/Modeling the Impact of Head-Body Rotations on Audio-Visual Spatial Perception for Virtual Reality Applications.md",
     "Paper/Notes/Auptimize Optimal Placement of Spatial Audio Cues for Extended Reality.md",
-    "Paper/Maps/Papers I deep in.md",
-    "Paper/Maps/Paper List.md",
-    "Paper/Maps/Map=Paper.md",
-    "Knowledge/Notes/Resources/Pasted image 20250109233414.png",
-    "Knowledge/Notes/Psychophysics.md",
-    "Knowledge/Notes/Psychometric.md",
-    "Knowledge/Notes/Psychometric Function.md",
-    "Knowledge/Notes/2AFC (two-alternative forced choice).md",
-    "Knowledge/Maps/Map=Knowledge.md",
-    "Knowledge/Maps/Knowledge List.md",
-    "Knowledge/Maps/Knowledge Clarification List.md",
-    "Knowledge/Else/Terms.md",
-    "Template",
-    "Paper/Notes/Resources",
-    "Paper/Notes",
-    "Paper/Maps",
-    "Paper",
-    "Knowledge/Notes/Resources",
-    "Knowledge/Notes",
-    "Knowledge/Maps",
-    "Knowledge/Else",
-    "Knowledge"
+    "/Paper/Notes/Modeling the Impact of Head-Body Rotations on Audio-Visual Spatial Perception for Virtual Reality Applications.md"
   ]
 }
