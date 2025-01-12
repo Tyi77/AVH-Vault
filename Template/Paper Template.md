@@ -8,7 +8,8 @@ tags:
   - Paper
 ---
 # Draft
-# Linked Paper/Knowledge
+# Linked Paper
+# Knowledge
 # Key Idea
 # What I learned
 ---

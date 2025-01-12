@@ -11,3 +11,4 @@
 - egocentrically: 自我為中心地
 - egocentric depth: 自我為中心的深度
 - inter-stimulus intervals: 刺激間隔
+- Endogenous（內生的） vs. Exogenous（外生的）
