@@ -11,8 +11,8 @@ tags:
 # Draft
 [[Draft=Crossmodal influences on visual perception]]
 # Linked Paper/Knowledge
-- 2.3 Attention - Experiment
-	- Spence C, Driver J. Audiovisual links in endogenous covert spatial attention. Journal of Experimental Psychology: Human Perception and Performance 1996;22:1005–30.
+- 2.3 Attention - Experiment ^298902
+	- Spence C, Driver J. [[Audiovisual links in endogenous covert spatial attention.]] Journal of Experimental Psychology: Human Perception and Performance 1996;22:1005–30. ^d90436
 # Key Idea
 - 大家都認為視覺主導其他的感官，但不然。此論文要用兩個視聽覺錯覺和一個視觸覺錯覺來證明此論點不一定適用所有場景
 # Knowledge
@@ -22,3 +22,6 @@ tags:
 ---
 # Q&A
 ---
+# 跟Spatial Localization有關的實驗
+- [[#^298902|分辨光是上還下的實驗]]
+- sound-induced flash illusion
