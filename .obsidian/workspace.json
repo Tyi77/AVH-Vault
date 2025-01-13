@@ -1,38 +1,24 @@
 {
   "main": {
-    "id": "c18346319c9347e2",
+    "id": "9d4ab03fa719d62a",
     "type": "split",
     "children": [
       {
-        "id": "9e08b1a8a2c07ec3",
+        "id": "a396263e1c28bee4",
         "type": "tabs",
         "children": [
           {
-            "id": "8f9b5d99d9bbcc6e",
+            "id": "7d875acbf9fac0f1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Paper/Notes/Crossmodal influences on visual perception.md",
+                "file": "Paper/Maps/Map=Paper.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Crossmodal influences on visual perception"
-            }
-          },
-          {
-            "id": "2b85cb680fe13682",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Paper/Drafts/Draft=Crossmodal influences on visual perception.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Draft=Crossmodal influences on visual perception"
+              "title": "Map=Paper"
             }
           }
         ]
@@ -41,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "c9d9fad5dced0a8c",
+    "id": "45dc898e1898ed3a",
     "type": "split",
     "children": [
       {
-        "id": "21c64170a9e7d752",
+        "id": "be4737eb37377b75",
         "type": "tabs",
         "children": [
           {
-            "id": "4bf5c361d4ab5e6a",
+            "id": "ffb95720fa0cf9f7",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -61,7 +47,7 @@
             }
           },
           {
-            "id": "c486172483aef5ed",
+            "id": "61e9dbb878d315be",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -78,7 +64,7 @@
             }
           },
           {
-            "id": "1d771c90ba7bdc84",
+            "id": "aecfe32a4b50ab16",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -91,24 +77,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
-    "id": "bb5c349994dd3e8d",
+    "id": "3a080c4d397117c2",
     "type": "split",
     "children": [
       {
-        "id": "69611c2b758f5149",
+        "id": "bf9a62e96d25ad9e",
         "type": "tabs",
         "children": [
           {
-            "id": "afc79a6b491b2aa7",
+            "id": "79a98ec2fe8e725d",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Paper/Notes/Modeling the Impact of Head-Body Rotations on Audio-Visual Spatial Perception for Virtual Reality Applications.md",
+                "file": "Paper/Maps/Map=Paper.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,74 +103,53 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Modeling the Impact of Head-Body Rotations on Audio-Visual Spatial Perception for Virtual Reality Applications"
+              "title": "Backlinks for Map=Paper"
             }
           },
           {
-            "id": "bfb1872105872fb3",
+            "id": "33689ba18369691f",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Paper/Notes/Modeling the Impact of Head-Body Rotations on Audio-Visual Spatial Perception for Virtual Reality Applications.md",
+                "file": "Paper/Maps/Map=Paper.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Modeling the Impact of Head-Body Rotations on Audio-Visual Spatial Perception for Virtual Reality Applications"
+              "title": "Outgoing links from Map=Paper"
             }
           },
           {
-            "id": "c87ec12366424a63",
+            "id": "35e73a5fb2bc97ff",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": false
+                "useHierarchy": true
               },
               "icon": "lucide-tags",
               "title": "Tags"
             }
           },
           {
-            "id": "217b2896267d56a1",
+            "id": "ca4cdc030d66f08a",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Paper/Notes/Modeling the Impact of Head-Body Rotations on Audio-Visual Spatial Perception for Virtual Reality Applications.md"
+                "file": "Paper/Maps/Map=Paper.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Modeling the Impact of Head-Body Rotations on Audio-Visual Spatial Perception for Virtual Reality Applications"
-            }
-          },
-          {
-            "id": "3f4c7c18470d0f07",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
-          },
-          {
-            "id": "ce64c95bae90e4c1",
-            "type": "leaf",
-            "state": {
-              "type": "git-history-view",
-              "state": {},
-              "icon": "history",
-              "title": "History"
+              "title": "Outline of Map=Paper"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 455.5,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
@@ -199,41 +163,40 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8f9b5d99d9bbcc6e",
+  "active": "7d875acbf9fac0f1",
   "lastOpenFiles": [
-    "Template/Paper Template.md",
-    "Paper/Notes/Crossmodal influences on visual perception.md",
-    "Paper/Drafts/Draft=Crossmodal influences on visual perception.md",
-    "Paper/Drafts",
-    "Knowledge/Notes/Response Bias.md",
-    "Template/Knowledge Template.md",
-    "Knowledge/Notes/Reversed Items.md",
-    "Knowledge/Else/Terms.md",
-    "Knowledge/Notes/Endogenous vs. Exogenous.md",
-    "Paper/Notes/Studying the Effects of Congruence of Auditory and Visual Stimuli on Virtual Reality Experiences.md",
     "Paper/Notes/Modeling the Impact of Head-Body Rotations on Audio-Visual Spatial Perception for Virtual Reality Applications.md",
-    "Paper/Notes/Imperceptible manipulation of lateral camera motion for improved virtual reality applications.md",
-    "Paper/Notes/Android.md",
+    "Template/Paper Template.md",
+    "Template/Knowledge Template.md",
     "Template",
-    "Paper/Notes/Resources/Pasted image 20250109234409.png",
     "Paper/Notes/Resources/Pasted image 20250110000748.png",
+    "Paper/Notes/Resources/Pasted image 20250109234409.png",
+    "Paper/Notes/Studying the Effects of Congruence of Auditory and Visual Stimuli on Virtual Reality Experiences.md",
     "Paper/Notes/Resources",
+    "Paper/Notes/Imperceptible manipulation of lateral camera motion for improved virtual reality applications.md",
+    "Paper/Notes/Crossmodal influences on visual perception.md",
     "Paper/Notes/Auptimize Optimal Placement of Spatial Audio Cues for Extended Reality.md",
-    "Paper/Maps/Papers I deep in.md",
     "Paper/Maps/Paper List.md",
+    "Paper/Maps/Papers I deep in.md",
     "Paper/Maps/Map=Paper.md",
+    "Paper/Drafts/Draft=Crossmodal influences on visual perception.md",
     "Paper/Notes",
     "Paper/Maps",
+    "Paper/Drafts",
     "Paper",
     "Knowledge/Notes/Resources/Pasted image 20250109233414.png",
     "Knowledge/Maps/Map=Knowledge.md",
     "Knowledge/Maps/Knowledge List.md",
     "Knowledge/Maps/Knowledge Clarification List.md",
+    "Knowledge/Notes/Reversed Items.md",
+    "Knowledge/Notes/Response Bias.md",
     "Knowledge/Notes/Resources",
     "Knowledge/Notes/Psychophysics.md",
     "Knowledge/Notes/Psychometric.md",
     "Knowledge/Notes/Psychometric Function.md",
+    "Knowledge/Notes/Endogenous vs. Exogenous.md",
     "Knowledge/Notes/2AFC (two-alternative forced choice).md",
+    "Knowledge/Else/Terms.md",
     "Knowledge/Maps",
     "Knowledge/Notes",
     "Knowledge/Else"
