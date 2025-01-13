@@ -13,15 +13,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Paper/Maps/Map=Paper.md",
+                "file": "Paper/Notes/Crossmodal influences on visual perception.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Map=Paper"
+              "title": "Crossmodal influences on visual perception"
+            }
+          },
+          {
+            "id": "a5fa815af5649ea5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Paper/Drafts/Draft=Crossmodal influences on visual perception.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Draft=Crossmodal influences on visual perception"
+            }
+          },
+          {
+            "id": "eae2a41ffc25ccb5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Knowledge/Notes/Extrastriate Visual Cortex.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Extrastriate Visual Cortex"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -163,23 +192,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7d875acbf9fac0f1",
+  "active": "a5fa815af5649ea5",
   "lastOpenFiles": [
+    "Knowledge/Notes/Extrastriate Visual Cortex.md",
+    "Paper/Drafts/Draft=Crossmodal influences on visual perception.md",
+    "Paper/Notes/Crossmodal influences on visual perception.md",
+    "Template/Knowledge Template.md",
+    "Paper/Maps/Papers I deep in.md",
+    "Paper/Maps/Map=Paper.md",
     "Paper/Notes/Modeling the Impact of Head-Body Rotations on Audio-Visual Spatial Perception for Virtual Reality Applications.md",
     "Template/Paper Template.md",
-    "Template/Knowledge Template.md",
     "Template",
     "Paper/Notes/Resources/Pasted image 20250110000748.png",
     "Paper/Notes/Resources/Pasted image 20250109234409.png",
     "Paper/Notes/Studying the Effects of Congruence of Auditory and Visual Stimuli on Virtual Reality Experiences.md",
     "Paper/Notes/Resources",
     "Paper/Notes/Imperceptible manipulation of lateral camera motion for improved virtual reality applications.md",
-    "Paper/Notes/Crossmodal influences on visual perception.md",
     "Paper/Notes/Auptimize Optimal Placement of Spatial Audio Cues for Extended Reality.md",
     "Paper/Maps/Paper List.md",
-    "Paper/Maps/Papers I deep in.md",
-    "Paper/Maps/Map=Paper.md",
-    "Paper/Drafts/Draft=Crossmodal influences on visual perception.md",
     "Paper/Notes",
     "Paper/Maps",
     "Paper/Drafts",
