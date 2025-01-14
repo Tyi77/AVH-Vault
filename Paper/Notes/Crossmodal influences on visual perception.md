@@ -13,7 +13,7 @@ tags:
 # Linked Paper/Knowledge
 - 2.3 Attention - Experiment ^298902
 	- Spence C, Driver J. [[Audiovisual links in endogenous covert spatial attention.]] Journal of Experimental Psychology: Human Perception and Performance 1996;22:1005–30. ^d90436
-- 與**視聽定位**有關的研究，說明大腦進行多感官知覺時會去主動去辨別是否由同個物體發出的訊息
+- 與**視聽定位**有關的研究，說明大腦進行多感官知覺時會去主動去辨別是否由同個物體發出的訊息 ^aychv8
 	- Körding K, Beierholm U, Ma WJ, Tenenbaum JM, Quartz S, Shams L. [[Causal inference in multisensory perception]]. PLoS ONE 2007;2:e943.
 # Key Idea
 - 大家都認為視覺主導其他的感官，但不然。此論文要用兩個視聽覺錯覺和一個視觸覺錯覺來證明此論點不一定適用所有場景

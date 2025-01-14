@@ -138,7 +138,7 @@
 	- 進行因果推論
 - 不同預測視覺聽覺整合的模型
 ![[Pasted image 20250114193924.png]]
-- 與視聽定位有關的研究 [[]]
+- 與視聽定位有關的研究 [[Crossmodal influences on visual perception#^aychv8|Link]]
 # 8. Discussion
 ## NotebookLM
 這部分主要在討論**傳統模組化感知觀點**與**視覺主導論**的缺陷，並總結了論文中提出的觀點和證據，說明視覺處理並非獨立運作，而是與其他感官訊息緊密互動。
