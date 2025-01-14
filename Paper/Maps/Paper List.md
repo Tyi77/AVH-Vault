@@ -2,8 +2,8 @@
 up: "[[Map=Paper]]"
 ---
 ```dataview
-TABLE date, publication, p-date
+TABLE p-date, publication, date
 FROM #Paper 
 WHERE file.name != "Paper Template"
-SORT file.name ASC
+SORT p-date ASC
 ```
