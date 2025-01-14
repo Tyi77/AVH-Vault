@@ -25,3 +25,5 @@ tags:
 # 跟Spatial Localization有關的實驗
 - [[#^298902|分辨光是上還下的實驗]]
 - sound-induced flash illusion
+# PPT 重點
+- 先說聽覺和觸覺可以影響視覺，再說除了attention以外，方向要一致才能達到增進的效果
