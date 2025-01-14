@@ -17,6 +17,7 @@ tags:
 - 大家都認為視覺主導其他的感官，但不然。此論文要用兩個視聽覺錯覺和一個視觸覺錯覺來證明此論點不一定適用所有場景
 # Knowledge
 - [[Response Bias]]
+- [[Extrastriate Visual Cortex]]
 # What I learned
 - 好多個實驗，有些實驗可以拿來分析
 ---

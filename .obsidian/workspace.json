@@ -1,28 +1,14 @@
 {
   "main": {
-    "id": "936525d48c46f285",
+    "id": "9d4ab03fa719d62a",
     "type": "split",
     "children": [
       {
-        "id": "8cebe91a8f15a52e",
+        "id": "a396263e1c28bee4",
         "type": "tabs",
         "children": [
           {
-            "id": "ce8b794e91c6c330",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Paper/Drafts/Draft=Crossmodal influences on visual perception.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Draft=Crossmodal influences on visual perception"
-            }
-          },
-          {
-            "id": "ec7cd3dfa869cd62",
+            "id": "7d875acbf9fac0f1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -34,22 +20,37 @@
               "icon": "lucide-file",
               "title": "Crossmodal influences on visual perception"
             }
+          },
+          {
+            "id": "fb06a43e31daa18d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Paper/Drafts/Draft=Crossmodal influences on visual perception.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Draft=Crossmodal influences on visual perception"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "0e93e167c9514516",
+    "id": "45dc898e1898ed3a",
     "type": "split",
     "children": [
       {
-        "id": "c1c45428fd80e70b",
+        "id": "be4737eb37377b75",
         "type": "tabs",
         "children": [
           {
-            "id": "b5b8940f84f570e4",
+            "id": "ffb95720fa0cf9f7",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -61,7 +62,7 @@
             }
           },
           {
-            "id": "74dd257a68e7d6be",
+            "id": "61e9dbb878d315be",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -78,7 +79,7 @@
             }
           },
           {
-            "id": "feb4862d7e8d4d71",
+            "id": "aecfe32a4b50ab16",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -94,21 +95,21 @@
     "width": 300
   },
   "right": {
-    "id": "b7a3fe65504a22c6",
+    "id": "3a080c4d397117c2",
     "type": "split",
     "children": [
       {
-        "id": "de2ac272802d7967",
+        "id": "bf9a62e96d25ad9e",
         "type": "tabs",
         "children": [
           {
-            "id": "bea8bfa8fafdeaaa",
+            "id": "79a98ec2fe8e725d",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Paper/Drafts/Draft=Crossmodal influences on visual perception.md",
-                "collapseAll": true,
+                "file": "Paper/Maps/Map=Paper.md",
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -117,24 +118,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Draft=Crossmodal influences on visual perception"
+              "title": "Backlinks for Map=Paper"
             }
           },
           {
-            "id": "140705b7b94fffac",
+            "id": "33689ba18369691f",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Paper/Maps/Map=Paper.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Map=Paper"
             }
           },
           {
-            "id": "eef6cec79f951d52",
+            "id": "35e73a5fb2bc97ff",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -147,23 +149,23 @@
             }
           },
           {
-            "id": "3b791a1120206273",
+            "id": "ca4cdc030d66f08a",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Paper/Drafts/Draft=Crossmodal influences on visual perception.md"
+                "file": "Paper/Maps/Map=Paper.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Draft=Crossmodal influences on visual perception"
+              "title": "Outline of Map=Paper"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,45 +178,45 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3b791a1120206273",
+  "active": "fb06a43e31daa18d",
   "lastOpenFiles": [
+    "Pasted image 20250114193924.png",
+    "Knowledge/Notes/Extrastriate Visual Cortex.md",
     "Paper/Notes/Crossmodal influences on visual perception.md",
     "Paper/Drafts/Draft=Crossmodal influences on visual perception.md",
     "Paper/Notes/Modeling the Impact of Head-Body Rotations on Audio-Visual Spatial Perception for Virtual Reality Applications.md",
+    "Paper/Drafts/Draft=Modeling the Impact of Head-Body Rotations on Audio-Visual Spatial Perception for Virtual Reality Applications.md",
+    "Template/Knowledge Template.md",
+    "Paper/Maps/Papers I deep in.md",
+    "Paper/Maps/Map=Paper.md",
+    "Template/Paper Template.md",
+    "Template",
+    "Paper/Notes/Resources/Pasted image 20250110000748.png",
+    "Paper/Notes/Resources/Pasted image 20250109234409.png",
+    "Paper/Notes/Studying the Effects of Congruence of Auditory and Visual Stimuli on Virtual Reality Experiences.md",
+    "Paper/Notes/Resources",
     "Paper/Notes/Imperceptible manipulation of lateral camera motion for improved virtual reality applications.md",
     "Paper/Notes/Auptimize Optimal Placement of Spatial Audio Cues for Extended Reality.md",
     "Paper/Maps/Paper List.md",
-    "Paper/Maps/Map=Paper.md",
-    "Paper/Maps/Papers I deep in.md",
-    "Paper/Drafts/Draft=Modeling the Impact of Head-Body Rotations on Audio-Visual Spatial Perception for Virtual Reality Applications.md",
-    "Template/Paper Template.md",
-    "Template/Knowledge Template.md",
-    "Template",
-    "Paper/Notes/Resources/Pasted image 20250109234409.png",
-    "Paper/Notes/Resources/Pasted image 20250110000748.png",
-    "Paper/Notes/Studying the Effects of Congruence of Auditory and Visual Stimuli on Virtual Reality Experiences.md",
-    "Paper/Notes/Resources",
-    "Paper/Maps",
     "Paper/Notes",
+    "Paper/Maps",
     "Paper/Drafts",
     "Paper",
     "Knowledge/Notes/Resources/Pasted image 20250109233414.png",
-    "Knowledge/Notes/Resources",
-    "Knowledge/Notes/Reversed Items.md",
-    "Knowledge/Notes/Response Bias.md",
-    "Knowledge/Notes/Psychophysics.md",
-    "Knowledge/Notes/Psychometric.md",
-    "Knowledge/Notes/Psychometric Function.md",
-    "Knowledge/Notes/Extrastriate Visual Cortex.md",
-    "Knowledge/Notes/Endogenous vs. Exogenous.md",
-    "Knowledge/Notes/2AFC (two-alternative forced choice).md",
     "Knowledge/Maps/Map=Knowledge.md",
     "Knowledge/Maps/Knowledge List.md",
     "Knowledge/Maps/Knowledge Clarification List.md",
+    "Knowledge/Notes/Reversed Items.md",
+    "Knowledge/Notes/Response Bias.md",
+    "Knowledge/Notes/Resources",
+    "Knowledge/Notes/Psychophysics.md",
+    "Knowledge/Notes/Psychometric.md",
+    "Knowledge/Notes/Psychometric Function.md",
+    "Knowledge/Notes/Endogenous vs. Exogenous.md",
+    "Knowledge/Notes/2AFC (two-alternative forced choice).md",
     "Knowledge/Else/Terms.md",
-    "Knowledge/Notes",
     "Knowledge/Maps",
-    "Knowledge/Else",
-    "Untitled.md"
+    "Knowledge/Notes",
+    "Knowledge/Else"
   ]
 }
