@@ -18,3 +18,17 @@ up:
 3. 心裡測量曲線
 	- 主觀相等點（PSE，即音訊和視覺刺激被感知為對齊的位置)
 	- 檢測閾值（DT，即參與者能夠可靠地檢測到音訊-視覺偏差的最小偏移量）
+# Introduction
+- We explore four headbody movements **(Stationary, Pursuit and Slow/Fast re-orientation)** and  different **audio-visual offsets.**
+- When the head is aligned relative to the visual stimulus (Stationary and Pursuit), users exhibit a **high degree of sensitivity** in discerning misalignments between auditory and visual cues.
+- when there is relative motion between the head and the visual stimulus (Re-orientation mode), our ability to detect audio-visual offsets is **notably compromised**
+- Some applications
+	- VR storytelling
+	- training and simulation
+# Related Work
+- Sound Localization Acuity
+	- head movements contribute to improved spatial localization [13].
+# 實驗流程
+- 四種不同的實驗方式：static, pursuit, fast和slow re-orientation
+- 使用者感知視覺和聽覺刺激兩秒後，要說聲音是從左方還是右方來的，只能二選一(2AFC)
+- 用psychometric function fit 資料點 

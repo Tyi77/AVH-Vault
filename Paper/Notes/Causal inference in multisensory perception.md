@@ -34,5 +34,3 @@ tags:
 ---
 # Q&A
 - spatial localization跟大腦的活動有什麼關係？
-
----

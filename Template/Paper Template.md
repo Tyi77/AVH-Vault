@@ -12,6 +12,4 @@ tags:
 # Knowledge
 # Key Idea
 # What I learned
----
 # Q&A
----
