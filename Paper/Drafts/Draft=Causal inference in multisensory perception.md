@@ -6,4 +6,3 @@
 	1. It predicts the circumstances under which subjects should perceive a common cause or independent causes. 
 	2. It predicts if the individual cues should be fused or if they should be processed separately.
 	3. It predicts how the cues are combined if they are combined. Here we test the predictions of the model and analyze how well it predicts human behavior.
-	4. 
