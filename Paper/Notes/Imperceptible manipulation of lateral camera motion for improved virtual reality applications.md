@@ -1,7 +1,6 @@
 ---
 up:
   - "[[Modeling the Impact of Head-Body Rotations on Audio-Visual Spatial Perception for Virtual Reality Applications]]"
-  - "[[Paper List]]"
 date: 2025-01
 publication: ACM TOG
 p-date: 2020-11
