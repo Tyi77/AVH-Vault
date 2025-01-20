@@ -5,3 +5,7 @@
 .theme-dark { 
     --bold-modifier: 300; 
 }
+
+body {
+	--file-line-width: 65rem;
+}
