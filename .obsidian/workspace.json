@@ -13,26 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Paper/Notes/Crossmodal influences on visual perception.md",
+                "file": "Paper/Notes/Modeling the Impact of Head-Body Rotations on Audio-Visual Spatial Perception for Virtual Reality Applications.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Crossmodal influences on visual perception"
+              "title": "Modeling the Impact of Head-Body Rotations on Audio-Visual Spatial Perception for Virtual Reality Applications"
             }
           },
           {
-            "id": "9792fcbae808c9c7",
+            "id": "41dacef5c72ec5e5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Paper/Drafts/Draft=Crossmodal influences on visual perception.md",
+                "file": "Paper/Notes/Modeling the Impact of Head-Body Rotations on Audio-Visual Spatial Perception for Virtual Reality Applications.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Draft=Crossmodal influences on visual perception"
+              "title": "Modeling the Impact of Head-Body Rotations on Audio-Visual Spatial Perception for Virtual Reality Applications"
             }
           }
         ],
@@ -196,14 +196,20 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9792fcbae808c9c7",
+  "active": "41dacef5c72ec5e5",
   "lastOpenFiles": [
-    "Paper/Notes/Crossmodal influences on visual perception.md",
-    "Paper/Notes/Detection Thresholds for Rotation and Translation Gains in 360  Video-based Telepresence Systems.md",
+    "Template/Paper Template.md",
+    "Template/Knowledge Template.md",
     "Paper/Notes/Modeling the Impact of Head-Body Rotations on Audio-Visual Spatial Perception for Virtual Reality Applications.md",
+    "Explore dynamically adjusting offsets based on head rotation velocity..md",
+    "Thought",
+    "Paper/Notes/Crossmodal influences on visual perception.md",
+    "Paper/Drafts/Draft=Crossmodal influences on visual perception.md",
+    "Paper/Notes/Detection Thresholds for Rotation and Translation Gains in 360  Video-based Telepresence Systems.md",
     "Paper/Notes/Imperceptible manipulation of lateral camera motion for improved virtual reality applications.md",
     "Paper/Notes/Studying the Effects of Congruence of Auditory and Visual Stimuli on Virtual Reality Experiences.md",
     "Paper/Notes/Causal inference in multisensory perception.md",
@@ -215,11 +221,8 @@
     "Knowledge/Notes/fMRI、PET、ERP比較.md",
     "Knowledge/Notes/Resources/Pasted image 20250115213621.png",
     "Knowledge/Notes/Extrastriate Visual Cortex.md",
-    "Paper/Drafts/Draft=Crossmodal influences on visual perception.md",
-    "Template/Paper Template.md",
     "Paper/Drafts",
     "Knowledge/Notes/Response Bias.md",
-    "Template/Knowledge Template.md",
     "Knowledge/Notes/Reversed Items.md",
     "Knowledge/Else/Terms.md",
     "Knowledge/Notes/Endogenous vs. Exogenous.md",
@@ -237,10 +240,8 @@
     "Knowledge/Notes/Resources/Pasted image 20250109233414.png",
     "Knowledge/Maps/Map=Knowledge.md",
     "Knowledge/Maps/Knowledge List.md",
-    "Knowledge/Maps/Knowledge Clarification List.md",
     "Knowledge/Notes/Resources",
     "Knowledge/Maps",
-    "Knowledge/Notes",
-    "Knowledge/Else"
+    "Knowledge/Notes"
   ]
 }

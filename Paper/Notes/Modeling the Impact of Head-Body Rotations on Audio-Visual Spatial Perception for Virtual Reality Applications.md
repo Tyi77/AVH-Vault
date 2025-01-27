@@ -31,8 +31,9 @@ p-date: 2024-05
 * Shift the audio stimuli to PSE, to make user perceive the correct visual stimuli.
 	* PSE (Point of subjective equality): The location that user perceive the visual and auditory stimuli are aligned.
 # What I learned
----
+- 頭部旋轉會影響視聽空間感知，例如快速的頭部運動會導致視聽空間的扭曲
 # Q&A
+---
 ## PSE和rotation direction/velocity的關係
 ![[Pasted image 20250109234409.png]]
 - PSE偏移方向會背對旋轉方向 (往右轉，PSE往左偏移)
