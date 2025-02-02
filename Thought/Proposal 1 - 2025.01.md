@@ -6,7 +6,11 @@
 - Stationary 不適用，因為 PSE 就是 0° 的地方
 - Pursuit 的設定是人跟隨著物體。物體和人都會旋轉，所以可以試試看找此兩因素相應的相對速率的PSE
 - Slow/fast re-orientation 只有人會旋轉。PSE只要考慮人旋轉這個因素就行
-# 準備看取的論文
+# 準備閱讀的論文
 - [Using the standard staircase to measure the point of subjective equality: A guide based on computer simulations](https://link.springer.com/content/pdf/10.3758/BF03213053.pdf)
 	- PSE有關的舊的論文
 	- 結論：不用看，因為此論文著重探討兩種與PSE相關的心理物理學分析方法，而不是PSE本身
+- [Disguising Rotational Gain for Redirected Walking in Virtual Reality: Effect of Visual Density](https://ieeexplore.ieee.org/abstract/document/7504752/)
+	- 使用者旋轉速率和虛擬人物旋轉速率不一致，用rotation gain調整兩者的關係，gain值
+	- 問題：如何使用PSE在他的work中
+		- 回答：...
