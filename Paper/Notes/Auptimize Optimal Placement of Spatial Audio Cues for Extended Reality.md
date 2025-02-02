@@ -12,7 +12,7 @@ tags:
 看到的問題點
 * 因為人身體的限制，我們本來就很難精確定位聲音來源。有的問題，譬如localization blur和cone of confusion。
 * 解釋ITD、ILD
-    * ITD： It is the difference in the sound arrival time of each ear.
+    * ITD: It is the difference in the sound arrival time of each ear.
     * ILD: It is the difference in the volume of the sound heard by each ear.
 * 再解釋兩個問題
 解法：建構一個系統，偵測目前的聲音提示，並優化和移動聲音的位置，讓使用者能更清楚的區分不同聲音提示的位置

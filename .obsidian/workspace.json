@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Thought/Proposal 1.md",
+                "file": "Paper/Notes/Auptimize Optimal Placement of Spatial Audio Cues for Extended Reality.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Proposal 1"
+              "title": "Auptimize Optimal Placement of Spatial Audio Cues for Extended Reality"
             }
           }
         ],
@@ -55,7 +55,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -203,7 +204,9 @@
   "active": "32f40f7d1852b75b",
   "lastOpenFiles": [
     "Paper/Notes/Modeling the Impact of Head-Body Rotations on Audio-Visual Spatial Perception for Virtual Reality Applications.md",
-    "Thought/Proposal 1.md",
+    "Paper/Notes/Auptimize Optimal Placement of Spatial Audio Cues for Extended Reality.md",
+    "Paper/Notes/Crossmodal influences on visual perception.md",
+    "Thought/Proposal 1 - 2025.01.md",
     "Thought/Resources/Pasted image 20250201194926.png",
     "Thought/Resources/Pasted image 20250201194841.png",
     "Thought/Resources",
@@ -214,13 +217,11 @@
     "Template/Paper Template.md",
     "Template/Knowledge Template.md",
     "Thought",
-    "Paper/Notes/Crossmodal influences on visual perception.md",
     "Paper/Drafts/Draft=Crossmodal influences on visual perception.md",
     "Paper/Notes/Detection Thresholds for Rotation and Translation Gains in 360  Video-based Telepresence Systems.md",
     "Paper/Notes/Imperceptible manipulation of lateral camera motion for improved virtual reality applications.md",
     "Paper/Notes/Studying the Effects of Congruence of Auditory and Visual Stimuli on Virtual Reality Experiences.md",
     "Paper/Notes/Causal inference in multisensory perception.md",
-    "Paper/Notes/Auptimize Optimal Placement of Spatial Audio Cues for Extended Reality.md",
     "conflict-files-obsidian-git.md",
     "Paper/Drafts/Draft=Causal inference in multisensory perception.md",
     "Knowledge/Notes/fMRI、PET、ERP比較.md",

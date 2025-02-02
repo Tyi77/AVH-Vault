@@ -8,4 +8,5 @@
 - Slow/fast re-orientation 只有人會旋轉。PSE只要考慮人旋轉這個因素就行
 # 準備看取的論文
 - [Using the standard staircase to measure the point of subjective equality: A guide based on computer simulations](https://link.springer.com/content/pdf/10.3758/BF03213053.pdf)
-	- 舊的論文
+	- PSE有關的舊的論文
+	- 結論：不用看，因為此論文著重探討兩種與PSE相關的心理物理學分析方法，而不是PSE本身
