@@ -10,7 +10,10 @@
 - [Using the standard staircase to measure the point of subjective equality: A guide based on computer simulations](https://link.springer.com/content/pdf/10.3758/BF03213053.pdf)
 	- PSE有關的舊的論文
 	- 結論：不用看，因為此論文著重探討兩種與PSE相關的心理物理學分析方法，而不是PSE本身
-- [Disguising Rotational Gain for Redirected Walking in Virtual Reality: Effect of Visual Density](https://ieeexplore.ieee.org/abstract/document/7504752/)
+- [Disguising Rotational Gain for Redirected Walking in Virtual Reality: Effect of Visual Density](https://ieeexplore.ieee.org/abstract/document/7504752/) (2016 VR)
 	- 使用者旋轉速率和虛擬人物旋轉速率不一致，用rotation gain調整兩者的關係，gain值
+	- 88 trials = 11 gain levels x 2 turning directions x 4 scenarios
+		- scenarios: control(bridge), 0, 4, 16 objects
+	- Use an pre-process to filter out the participants who feel uncomfortable with VR experience.
 	- 問題：如何使用PSE在他的work中
-		- 回答：...
+		- 回答：他用PSE的位置，偵測使用者感受 rotation gain 的狀況。結論是如果環境中有很多物品的話，會讓使用者覺得rotation gain變小了，也就是感知的旋轉幅度會比真正的旋轉幅度來的小。
