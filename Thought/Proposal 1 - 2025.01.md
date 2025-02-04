@@ -2,6 +2,8 @@
 - 原本論文 [[Modeling the Impact of Head-Body Rotations on Audio-Visual Spatial Perception for Virtual Reality Applications|-1-]]
 - 原本的論文是轉頭的時候，固定==物體聲音==的旋轉速率，而我希望==物體聲音==的旋轉速率可以隨時因應==轉頭的速率==而調整
 - 目的是讓物體聲音一直都在 ==PSE (Point of Subjective Equality)== 上
+# Secondary Idea
+- 兩個不同的物體要怎麼做分析
 # 不同情境
 ![[Pasted image 20250201194926.png]]
 - Stationary 不適用，因為 PSE 就是 0° 的地方
@@ -18,10 +20,28 @@
 	- Use an pre-process to filter out the participants who feel uncomfortable with VR experience.
 	- 問題：如何使用PSE在他的work中
 		- 回答：他用PSE的位置，偵測使用者感受 rotation gain 的狀況。結論是如果環境中有很多物品的話，會讓使用者覺得rotation gain變小了，也就是感知的旋轉幅度會比真正的旋轉幅度來的小。
+# Q & A
+- 如果物體在不同的azimuth，是否會有不同的 PSE ?
 # Comprehensive Proposal
 ## Main Idea
-## Study Design
-- Hypothesis
+- Adjust PSE dynamically when participants turning the head.
+## Inspiration
+- modeling ... : turning head
+- auptimize ... : multiple visual stimuli candidate.
+## Study Design I
+- Calculate Different PSE in Different Head Turning Velocity and Different Azimuths.
+- All are re-orientation
+- Metric
+	- confusion metric
+	- response time
+## Study Design II
+- Multiple visual and multiple auditory stimuli with different head turning velocities
+- Method
+	- Determine different locations of PSE basing on the location of different objects and different head turning velocities of the user.
 ## Experiment Design
+- 
 ## Analysis Method
 ## Conclusion
+# 打預防針的解釋
+- In the last meeting, I proposed an idea about comparing the difference between a single PSE shift and dynamically shifting the PSE. However, I realized that this approach is more engineering-oriented rather than an academic perspective. Therefore, I would like to read more papers to explore new ideas.
+- application 中有一段有說到，受試者的頭轉平均速率是115，而他們使用之前測量到的50的結果拿來當作PSE的位置。因此或許就算在實驗上增加了比50更高的速率的討論，有可能其結果跟50的結果的差距微乎其微
