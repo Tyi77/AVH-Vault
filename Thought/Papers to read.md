@@ -1,0 +1,2 @@
+* [Optimal Time Window for the Integration of Spatial Audio-Visual Information in Virtual Environments](https://ieeexplore.ieee.org/document/9417694)
+	* Comparing the short- and long- auditory stimuli on the audio-visual with respect to enhancing the experience in VR.

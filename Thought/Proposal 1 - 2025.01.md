@@ -1,4 +1,5 @@
 # Main Thought
+- 原本論文 [[Modeling the Impact of Head-Body Rotations on Audio-Visual Spatial Perception for Virtual Reality Applications|-1-]]
 - 原本的論文是轉頭的時候，固定==物體聲音==的旋轉速率，而我希望==物體聲音==的旋轉速率可以隨時因應==轉頭的速率==而調整
 - 目的是讓物體聲音一直都在 ==PSE (Point of Subjective Equality)== 上
 # 不同情境
@@ -17,3 +18,10 @@
 	- Use an pre-process to filter out the participants who feel uncomfortable with VR experience.
 	- 問題：如何使用PSE在他的work中
 		- 回答：他用PSE的位置，偵測使用者感受 rotation gain 的狀況。結論是如果環境中有很多物品的話，會讓使用者覺得rotation gain變小了，也就是感知的旋轉幅度會比真正的旋轉幅度來的小。
+# Comprehensive Proposal
+## Main Idea
+## Study Design
+- Hypothesis
+## Experiment Design
+## Analysis Method
+## Conclusion
