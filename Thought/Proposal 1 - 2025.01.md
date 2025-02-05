@@ -20,11 +20,13 @@
 	- Use an pre-process to filter out the participants who feel uncomfortable with VR experience.
 	- 問題：如何使用PSE在他的work中
 		- 回答：他用PSE的位置，偵測使用者感受 rotation gain 的狀況。結論是如果環境中有很多物品的話，會讓使用者覺得rotation gain變小了，也就是感知的旋轉幅度會比真正的旋轉幅度來的小。
-# Q & A
+# Q & A & P
 - 如果物體在不同的azimuth，是否會有不同的 PSE ?
+- 新增不同速度的研究內容有可能在今年被原本的團隊做走
 # Comprehensive Proposal
 ## Main Idea
-- Adjust PSE dynamically when participants turning the head.
+- (Adjust PSE dynamically when participants turning the head.)
+- 
 ## Inspiration
 - modeling ... : turning head
 - auptimize ... : multiple visual stimuli candidate.
@@ -45,3 +47,5 @@
 # 打預防針的解釋
 - In the last meeting, I proposed an idea about comparing the difference between a single PSE shift and dynamically shifting the PSE. However, I realized that this approach is more engineering-oriented rather than an academic perspective. Therefore, I would like to read more papers to explore new ideas.
 - application 中有一段有說到，受試者的頭轉平均速率是115，而他們使用之前測量到的50的結果拿來當作PSE的位置。因此或許就算在實驗上增加了比50更高的速率的討論，有可能其結果跟50的結果的差距微乎其微
+# 更多想法
+- 我未來的研究方向可以朝PSE發展看看，這是在XR中還未被好好開發的研究領域 (可能要再看更多的論文才能確定是否是真的未被開發)
