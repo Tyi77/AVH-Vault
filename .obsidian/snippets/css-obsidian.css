@@ -1,9 +1,9 @@
 .theme-light { 
-    --bold-modifier: 300; 
+    --bold-modifier: 350; 
 }
 
 .theme-dark { 
-    --bold-modifier: 300; 
+    --bold-modifier: 350; 
 }
 
 body {
