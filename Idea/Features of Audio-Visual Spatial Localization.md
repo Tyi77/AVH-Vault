@@ -9,3 +9,4 @@
 	- Synesthetic
 ## Analysis Metric
 - 定位誤差 Localization Error
+- 回應時間 Response Time
