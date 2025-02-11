@@ -13,77 +13,20 @@
             "dimension": 70.02314814814815,
             "children": [
               {
-                "id": "b090219e5fe7d438",
+                "id": "75bd126082169f42",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Thought/Point of Subjective Equality/⭐Challenges and Response.md",
+                    "file": "Idea/Features of Audio-Visual Spatial Localization.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "⭐Challenges and Response"
-                }
-              },
-              {
-                "id": "a07fdb02180916f6",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Thought/Point of Subjective Equality/Point of Subjective Equality - The ECPH Encyclopedia of Psychology.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Point of Subjective Equality - The ECPH Encyclopedia of Psychology"
-                }
-              },
-              {
-                "id": "55d65a0c7549691d",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Idea/Papers to read.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Papers to read"
-                }
-              },
-              {
-                "id": "3f8b896c9b2f9afe",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "如何寫出有效的研究計畫書.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "如何寫出有效的研究計畫書"
-                }
-              },
-              {
-                "id": "deba21aae10989be",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Thought/Point of Subjective Equality/Point of Subjective Equality.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Point of Subjective Equality"
+                  "title": "Features of Audio-Visual Spatial Localization"
                 }
               }
-            ],
-            "currentTab": 3
+            ]
           },
           {
             "id": "2867af9e9df08173",
@@ -96,12 +39,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Idea/Point of Subjective Equality/Point of Subjective Equality.md",
+                    "file": "Idea/Point of Subjective Equality/Collected Information.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Point of Subjective Equality"
+                  "title": "Collected Information"
                 }
               },
               {
@@ -286,16 +229,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3f8b896c9b2f9afe",
+  "active": "4bf5c361d4ab5e6a",
   "lastOpenFiles": [
-    "Idea/Point of Subjective Equality/Point of Subjective Equality - The ECPH Encyclopedia of Psychology.md",
-    "如何寫出有效的研究計畫書.md",
-    "Idea/Papers to read.md",
+    "Paper/Maps/Paper Information.md",
+    "Paper/Maps/Papers to read.md",
+    "Paper/Maps/Paper List.md",
+    "Paper/Maps/Map=Paper.md",
+    "Paper/Maps/Papers I deep in.md",
     "Idea/25-01 - Proposal 1.md",
-    "=Weekly Report/25-02-05 - PR - Proposal 1.md",
-    "=Weekly Report/25-02-11 - PR - PSE in MR.md",
-    "Idea/Point of Subjective Equality/Point of Subjective Equality.md",
+    "Idea/Point of Subjective Equality/Collected Information.md",
+    "Idea/Point of Subjective Equality/Point of Subjective Equality - The ECPH Encyclopedia of Psychology.md",
     "Idea/Point of Subjective Equality/⭐Challenges and Response.md",
+    "=Weekly Report/25-02-11 - PR - PSE in MR.md",
+    "Idea/Features of Audio-Visual Spatial Localization.md",
+    "如何寫出有效的研究計畫書.md",
+    "=Weekly Report/25-02-05 - PR - Proposal 1.md",
     "=Daily Record/25-02-09.md",
     "Paper/Notes/Modeling the Impact of Head-Body Rotations on Audio-Visual Spatial Perception for Virtual Reality Applications.md",
     "Google Scholar 查詢.md",
@@ -308,26 +256,21 @@
     "Paper/Notes/Studying the Effects of Congruence of Auditory and Visual Stimuli on Virtual Reality Experiences.md",
     "Paper/Notes/Auptimize Optimal Placement of Spatial Audio Cues for Extended Reality.md",
     "Paper/Notes/Crossmodal influences on visual perception.md",
-    "Idea/Resources/Pasted image 20250201194926.png",
+    "Idea/_Resources/Pasted image 20250201194926.png",
     "Thought/Resources/Pasted image 20250201194841.png",
-    "Idea/Resources",
-    "Paper/Notes/Resources/Pasted image 20250109234409.png",
-    "Paper/Notes/Resources/Pasted image 20250110000748.png",
-    "Paper/Notes/Resources/Pasted image 20250114193924.png",
+    "Idea/_Resources",
+    "Paper/Notes/_Resources/Pasted image 20250109234409.png",
+    "Paper/Notes/_Resources/Pasted image 20250110000748.png",
+    "Paper/Notes/_Resources/Pasted image 20250114193924.png",
     "Paper/Drafts/Draft=Modeling the Impact of Head-Body Rotations on Audio-Visual Spatial Perception for Virtual Reality Applications.md",
-    "Template/Paper Template.md",
-    "Template/Knowledge Template.md",
+    "_Template/Paper Template.md",
+    "_Template/Knowledge Template.md",
     "Idea",
     "Paper/Drafts/Draft=Crossmodal influences on visual perception.md",
-    "Paper/Notes/Causal inference in multisensory perception.md",
-    "conflict-files-obsidian-git.md",
-    "Paper/Drafts/Draft=Causal inference in multisensory perception.md",
-    "Knowledge/Notes/fMRI、PET、ERP比較.md",
-    "Knowledge/Notes/Resources/Pasted image 20250115213621.png",
-    "Knowledge/Notes/Extrastriate Visual Cortex.md",
+    "Knowledge/Notes/_Resources/Pasted image 20250115213621.png",
     "Paper/Drafts",
-    "Template",
-    "Paper/Notes/Resources",
+    "_Template",
+    "Paper/Notes/_Resources",
     "Paper/Notes",
     "Paper/Maps",
     "Knowledge/Notes/Resources/Pasted image 20250109233414.png"

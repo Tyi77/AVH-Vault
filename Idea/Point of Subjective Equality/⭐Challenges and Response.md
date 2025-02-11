@@ -17,7 +17,7 @@
 			- 探討在VR中，頭轉時，視覺刺激和聽覺刺激在感知位置上的一致性
 			- 在VR裡頭轉時，視覺刺激位置不變，聽覺刺激位置改變，找出在不同的聽覺刺激位置中，讓觀察者感覺視覺刺激和聽覺刺激在同個位置的聽覺刺激位置。那個位置就是此頭旋轉速度下的PSE位置。
 			- 頭轉時，將聽覺刺激移到PSE能提升觀察者 Audio-Visual Spatial Perception 的精準度
-		- Facial Emotion Perception
+		- Facial Emotion Perception [-1-](https://osf.io/preprints/psyarxiv/uyvm6_v1)
 			- 辨識人臉是開心還是生氣，而開心和生氣機率為一樣的人臉就是 PSE
 			- 發現男生的PSE比女生的PSE還偏向開心，也代表中性表情的男性臉會看起來比中性表情的女性臉凶狠
 - Modeling 的那些作者使用PSE還有在哪裡？

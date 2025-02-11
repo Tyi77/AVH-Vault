@@ -16,3 +16,8 @@
 	- 強制選擇：兩個選項二擇一(2AFC)
 - 重複試驗+取平均值
 - 紀錄每個數值下的點，並用一個曲線串聯起來。機率為50%所對應的刺激數值就是PSE的數值。
+---
+# 某教科書對PSE的說明
+> Link: https://link.springer.com/referenceworkentry/10.1007/978-981-99-6000-2_342-1
+- Definition: It is the stimulus intensity that subjects subjectively consider to be consistent with the standard stimulus.
+- In theory, the point of subjective equality should be equal to the standard stimulus, but in practice, **there is often a certain deviation which is known as the constant error.**
