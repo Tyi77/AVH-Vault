@@ -46,12 +46,26 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Weekly Report/25-02-11 - PR -.md",
+                    "file": "Idea/Papers to read.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "25-02-11 - PR -"
+                  "title": "Papers to read"
+                }
+              },
+              {
+                "id": "3f8b896c9b2f9afe",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "如何寫出有效的研究計畫書.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "如何寫出有效的研究計畫書"
                 }
               },
               {
@@ -69,7 +83,7 @@
                 }
               }
             ],
-            "currentTab": 2
+            "currentTab": 3
           },
           {
             "id": "2867af9e9df08173",
@@ -82,7 +96,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Thought/Point of Subjective Equality/Point of Subjective Equality.md",
+                    "file": "Idea/Point of Subjective Equality/Point of Subjective Equality.md",
                     "mode": "source",
                     "source": false
                   },
@@ -272,37 +286,38 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "55d65a0c7549691d",
+  "active": "3f8b896c9b2f9afe",
   "lastOpenFiles": [
-    "Thought/Point of Subjective Equality/Point of Subjective Equality.md",
-    "Weekly Report/25-02-11 - PR -.md",
-    "Thought/Point of Subjective Equality/Point of Subjective Equality - The ECPH Encyclopedia of Psychology.md",
-    "Thought/Point of Subjective Equality/⭐Challenges and Response.md",
-    "Daily Record/25-02-09.md",
-    "Weekly Report/25-02-05 - PR - Proposal 1.md",
+    "Idea/Point of Subjective Equality/Point of Subjective Equality - The ECPH Encyclopedia of Psychology.md",
+    "如何寫出有效的研究計畫書.md",
+    "Idea/Papers to read.md",
+    "Idea/25-01 - Proposal 1.md",
+    "=Weekly Report/25-02-05 - PR - Proposal 1.md",
+    "=Weekly Report/25-02-11 - PR - PSE in MR.md",
+    "Idea/Point of Subjective Equality/Point of Subjective Equality.md",
+    "Idea/Point of Subjective Equality/⭐Challenges and Response.md",
+    "=Daily Record/25-02-09.md",
     "Paper/Notes/Modeling the Impact of Head-Body Rotations on Audio-Visual Spatial Perception for Virtual Reality Applications.md",
     "Google Scholar 查詢.md",
-    "Thought/Proposal 1 - 2025.01.md",
-    "Daily Record/25-02-08.md",
-    "Daily Record",
-    "Thought/Papers to read.md",
-    "Thought/Point of Subjective Equality",
-    "Weekly Report",
+    "=Daily Record/25-02-08.md",
+    "=Daily Record",
+    "Idea/Point of Subjective Equality",
+    "=Weekly Report",
     "Paper/Notes/Detection Thresholds for Rotation and Translation Gains in 360  Video-based Telepresence Systems.md",
     "Paper/Notes/Imperceptible manipulation of lateral camera motion for improved virtual reality applications.md",
     "Paper/Notes/Studying the Effects of Congruence of Auditory and Visual Stimuli on Virtual Reality Experiences.md",
     "Paper/Notes/Auptimize Optimal Placement of Spatial Audio Cues for Extended Reality.md",
     "Paper/Notes/Crossmodal influences on visual perception.md",
-    "Thought/Resources/Pasted image 20250201194926.png",
+    "Idea/Resources/Pasted image 20250201194926.png",
     "Thought/Resources/Pasted image 20250201194841.png",
-    "Thought/Resources",
+    "Idea/Resources",
     "Paper/Notes/Resources/Pasted image 20250109234409.png",
     "Paper/Notes/Resources/Pasted image 20250110000748.png",
     "Paper/Notes/Resources/Pasted image 20250114193924.png",
     "Paper/Drafts/Draft=Modeling the Impact of Head-Body Rotations on Audio-Visual Spatial Perception for Virtual Reality Applications.md",
     "Template/Paper Template.md",
     "Template/Knowledge Template.md",
-    "Thought",
+    "Idea",
     "Paper/Drafts/Draft=Crossmodal influences on visual perception.md",
     "Paper/Notes/Causal inference in multisensory perception.md",
     "conflict-files-obsidian-git.md",
@@ -311,7 +326,6 @@
     "Knowledge/Notes/Resources/Pasted image 20250115213621.png",
     "Knowledge/Notes/Extrastriate Visual Cortex.md",
     "Paper/Drafts",
-    "Knowledge/Notes/Response Bias.md",
     "Template",
     "Paper/Notes/Resources",
     "Paper/Notes",
