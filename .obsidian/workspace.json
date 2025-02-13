@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Enhancing Existing Reality- A Theoretical Analysis of User-focused Mixed Reality Research.md",
+                "file": "Paper/Notes/Enhancing Existing Reality- A Theoretical Analysis of User-focused Mixed Reality Research.md",
                 "mode": "source",
                 "source": false
               },
@@ -63,7 +63,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Draft=Enhancing Existing Reality- A Theoretical Analysis of User-focused Mixed Reality Research.md",
+                "file": "Paper/Drafts/Draft=Enhancing Existing Reality- A Theoretical Analysis of User-focused Mixed Reality Research.md",
                 "mode": "source",
                 "source": false
               },
@@ -129,8 +129,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "b7a3fe65504a22c6",
@@ -216,10 +215,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "92f79cacd2029086",
+  "active": "1fa528417d678eda",
   "lastOpenFiles": [
-    "Enhancing Existing Reality- A Theoretical Analysis of User-focused Mixed Reality Research.md",
-    "Draft=Enhancing Existing Reality- A Theoretical Analysis of User-focused Mixed Reality Research.md",
+    "Paper/Drafts/Draft=Enhancing Existing Reality- A Theoretical Analysis of User-focused Mixed Reality Research.md",
+    "Paper/Notes/Enhancing Existing Reality- A Theoretical Analysis of User-focused Mixed Reality Research.md",
     "如何寫出有效的研究計畫書.md",
     "Idea/Visual-Audio Spatial Localization.md",
     "Idea/Q&A.md",
