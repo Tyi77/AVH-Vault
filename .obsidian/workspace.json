@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "統整今天發生的問題.md",
+                "file": "Knowledge/Notes/MRTK2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "統整今天發生的問題"
+              "title": "MRTK2"
             }
           }
         ],
@@ -207,15 +207,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c89cb24b4029c099",
+  "active": "b5b8940f84f570e4",
   "lastOpenFiles": [
+    "=Weekly Report/25-02-18 =PR= MR UX.md",
+    "Knowledge/Notes/MRTK2.md",
     "=Daily Record/25-02-W2.md",
-    "統整今天發生的問題.md",
     "Paper/Notes/Enhancing Existing Reality- A Theoretical Analysis of User-focused Mixed Reality Research.md",
     "_Template/Weekly Report Template.md",
     "Knowledge/Others/Terms.md",
     "Knowledge/Others",
-    "=Weekly Report/25-02-18 =PR= MR UX.md",
     "=Weekly Report/25-02-11 =PR= PSE in MR.md",
     "=Weekly Report/25-02-07 =Paper=.md",
     "=Weekly Report/25-02-05 =PR= Proposal 1.md",
