@@ -1,9 +1,9 @@
 ---
 up:
   - "[[Paper List]]"
-date: 
-publication: 
-p-date: 
+date: 2025-02
+publication: Archives of Disgin Research
+p-date: 2024-11
 tags:
   - Paper
 ---
@@ -42,7 +42,7 @@ tags:
 	- 從718篇論文中篩選出有代表性的論文，最終得出**65篇論文**
 - MR技術對於使用者來說較新，因此許多互動都是Cognitive Interaction
 - 44 項研究與「一次體驗」相關，可以被命名、具有開始和結束，並且會激發情感或行為改變。
-# 以UX要素為框架，統整Analysis
+# 以UX要素為框架，統整Analysis(NotebookLM)
 Analysis章節主要探討了現有使用者體驗設計框架如何應用於混合實境（MR）體驗，以及這些框架在MR環境中的適用性。
 - **MR的獨特挑戰**：
     - MR擴大了實體和數位體驗中的變數，使得使用者體驗的收集與理解變得非常複雜。
