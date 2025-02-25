@@ -10,6 +10,9 @@
 	- still reading the calibration part
 # To-do
 
+# Feedback
+- 在找論文時，要更符合我自己的方向，不要找太broad的論文
+
 ---
 - Why PSE...
 	- First, give you a direct answer. There is no explanation in the paper talking about why the value is negative here. Instead, there are two features you can found in the figure.
