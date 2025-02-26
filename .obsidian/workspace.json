@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Paper/Maps/Papers to read.md",
+                "file": "Search Terms in Google Scholar.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Papers to read"
+              "title": "Search Terms in Google Scholar"
             }
           },
           {
@@ -205,18 +205,19 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "8d6eb89eb0f71132",
   "lastOpenFiles": [
-    "Paper/Maps/Paper Information.md",
-    "Paper/Maps/Papers to read.md",
-    "Paper/Maps/Paper List.md",
+    "如何寫出有效的研究計畫書.md",
     "Search Terms in Google Scholar.md",
+    "Paper/Maps/Papers to read.md",
+    "Paper/Maps/Paper Information.md",
+    "Paper/Maps/Paper List.md",
     "Knowledge/Others/Academic search engine.md",
     "Paper/Maps/Papers I deep in.md",
-    "如何寫出有效的研究計畫書.md",
     "_Template/Weekly Report Template.md",
     "_Template/Paper Template.md",
     "_Template/Knowledge Template.md",
