@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "蒐集的論文.md",
+                "file": "Paper/Maps/Papers to read.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "蒐集的論文"
+              "title": "Papers to read"
             }
           },
           {
@@ -273,8 +273,10 @@
   },
   "active": "96c78b1ad10ff053",
   "lastOpenFiles": [
+    "Paper/Maps/Paper Information.md",
+    "Paper/Maps/Papers to read.md",
+    "Paper/Maps/蒐集的論文.md",
     "=Daily Record/25-02-W4.md",
-    "蒐集的論文.md",
     "Search Terms in Google Scholar.md",
     "=Daily Record/25-02-W3.md",
     "=Weekly Report/25-02-24 =PR= Focus on my task while searching for papers.md",
@@ -283,7 +285,6 @@
     "Paper/Notes/Enhancing Existing Reality- A Theoretical Analysis of User-focused Mixed Reality Research.md",
     "Paper/Drafts/Draft=Enhancing Existing Reality- A Theoretical Analysis of User-focused Mixed Reality Research.md",
     "Daily Path of Thinking/25-02-22.md",
-    "Paper/Maps/Paper Information.md",
     "conflict-files-obsidian-git.md",
     "_Template/Weekly Report Template.md",
     "_Template/Daily Record Template.md",
@@ -301,7 +302,6 @@
     "=Daily Record/25-02-W2.md",
     "=Daily Record/25-02-W1.md",
     "Idea/Point of Subjective Equality/Collected Information.md",
-    "Idea/Features of Audio-Visual Spatial Localization.md",
     "=Daily Record",
     "Idea/Point of Subjective Equality",
     "=Weekly Report",
