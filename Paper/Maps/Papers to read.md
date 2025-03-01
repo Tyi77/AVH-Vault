@@ -16,4 +16,5 @@
 - [Exploring Implicit and Explicit Stimuli of Virtual Agents with Increased Group Size in VR](https://ieeexplore.ieee.org/document/10765431/)
 - [Manipulating Immersion: The Impact of Perceptual Incongruence on Perceived Plausibility in VR](https://ieeexplore.ieee.org/document/10765435/)
 - [Enhancing Human Task Performance through Audiovisual Augmentation](https://ieeexplore.ieee.org/document/10765474/)
-- 
+## 2022-2024 TVCG
+### "Spatial"
