@@ -13,40 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Path of Thinking/25-02-22.md",
+                "file": "Daily Path of Thinking/25-03-02.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "25-02-22"
-            }
-          },
-          {
-            "id": "369fb5206c929786",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "=Daily Record/25-02-W3.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "25-02-W3"
-            }
-          },
-          {
-            "id": "9e6c21ec31d9555b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "=Daily Record/25-02-W4.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "25-02-W4"
+              "title": "25-03-02"
             }
           },
           {
@@ -55,16 +27,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Paper/Maps/Papers to read.md",
+                "file": "Searching/Conference or Journal.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Papers to read"
+              "title": "Conference or Journal"
             }
           },
           {
             "id": "eb5830ffd8d442cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Searching/Google Scholar - Alternatives to PSE.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Google Scholar - Alternatives to PSE"
+            }
+          },
+          {
+            "id": "519acb29c664a12c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -78,49 +64,35 @@
             }
           },
           {
-            "id": "899dfea9faff938d",
+            "id": "680ed8ae952ccabc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Paper/Notes/Enhancing Existing Reality- A Theoretical Analysis of User-focused Mixed Reality Research.md",
+                "file": "Searching/Conference or Journal.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Enhancing Existing Reality- A Theoretical Analysis of User-focused Mixed Reality Research"
+              "title": "Conference or Journal"
             }
           },
           {
-            "id": "e09f6e6012ba2724",
+            "id": "25e58d4c98dd3613",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "webviewer",
               "state": {
-                "file": "Paper/Drafts/Draft=Enhancing Existing Reality- A Theoretical Analysis of User-focused Mixed Reality Research.md",
-                "mode": "source",
-                "source": false
+                "url": "https://www.tandfonline.com/doi/full/10.1080/10447318.2023.2171761?casa_token=1hvcx5UC6e0AAAAA%3ADfxzwop8sZIbuIGmVDBTRMBvO7KDjIhcz1mVvkTEUI2DrkeUkCs_cC2T5RjsQT7MLjGQGP1Q2bxM",
+                "title": "The Effect of Audiovisual Spatial Design on User Experience of Bare-Hand Interaction in VR: International Journal of Human–Computer Interaction: Vol 40 , No 11 - Get Access",
+                "mode": "webview"
               },
-              "icon": "lucide-file",
-              "title": "Draft=Enhancing Existing Reality- A Theoretical Analysis of User-focused Mixed Reality Research"
-            }
-          },
-          {
-            "id": "dffba196fda4e2c3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "=Weekly Report/25-02-18 =PR= MR UX.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "25-02-18 =PR= MR UX"
+              "icon": "globe-2",
+              "title": "The Effect of Audiovisual Spatial Design on User Experience of Bare-Hand Interaction in VR: International Journal of Human–Computer Interaction: Vol 40 , No 11 - Get Access"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -287,22 +259,25 @@
   },
   "active": "eb5830ffd8d442cf",
   "lastOpenFiles": [
-    "Searching/Google Scholar.md",
-    "Searching/Perplexity - Deep Research - Audio Visual Spatial Perception.md",
-    "Searching/Google Scholar - Terms Record.md",
-    "Searching/Google Scholar - Similar Terms to PSE.md",
-    "Searching",
+    "Searching/Conference or Journal.md",
     "Paper/Maps/Papers to read.md",
+    "Daily Path of Thinking/25-03-02.md",
+    "Searching/Google Scholar - Alternatives to PSE.md",
+    "=Daily Record/25-02-W4.md",
+    "Searching/Perplexity - Deep Research - Audio Visual Spatial Perception.md",
+    "=Daily Record/25-02-W3.md",
+    "Daily Path of Thinking/25-02-22.md",
+    "Idea/Visual-Audio Spatial Perception.md",
+    "Searching/Google Scholar.md",
+    "Searching/Google Scholar - Terms Record.md",
+    "Searching",
     "=Weekly Report/25-02-18 =PR= MR UX.md",
     "=Weekly Report/25-02-24 =PR= Focus on my task while searching for papers.md",
     "Paper/Maps/Paper Information.md",
     "Paper/Maps/蒐集的論文.md",
-    "=Daily Record/25-02-W4.md",
-    "=Daily Record/25-02-W3.md",
     "Knowledge/Others/Academic search engine.md",
     "Paper/Notes/Enhancing Existing Reality- A Theoretical Analysis of User-focused Mixed Reality Research.md",
     "Paper/Drafts/Draft=Enhancing Existing Reality- A Theoretical Analysis of User-focused Mixed Reality Research.md",
-    "Daily Path of Thinking/25-02-22.md",
     "conflict-files-obsidian-git.md",
     "_Template/Weekly Report Template.md",
     "_Template/Daily Record Template.md",
@@ -310,13 +285,10 @@
     "Knowledge/Others/Terms.md",
     "Knowledge/Others/MRTK2.md",
     "Knowledge/Others",
-    "Idea/Visual-Audio Spatial Localization.md",
     "Idea/Q&A.md",
     "Daily Path of Thinking/25-02-21.md",
     "Daily Path of Thinking",
     "=Weekly Report/25-02-11 =PR= PSE in MR.md",
-    "=Weekly Report/25-02-07 =Paper=.md",
-    "=Weekly Report/25-02-05 =PR= Proposal 1.md",
     "=Daily Record",
     "Idea/Point of Subjective Equality",
     "=Weekly Report",
