@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Search for Some Terms Similar to PSE in Google Scholar.md",
+                "file": "Searching/Perplexity - Deep Research - Audio Visual Spatial Perception.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Search for Some Terms Similar to PSE in Google Scholar"
+              "title": "Perplexity - Deep Research - Audio Visual Spatial Perception"
             }
           },
           {
@@ -287,11 +287,14 @@
   },
   "active": "eb5830ffd8d442cf",
   "lastOpenFiles": [
-    "Search Terms in Google Scholar.md",
-    "Search for Some Terms Similar to PSE in Google Scholar.md",
+    "Searching/Google Scholar.md",
+    "Searching/Perplexity - Deep Research - Audio Visual Spatial Perception.md",
+    "Searching/Google Scholar - Terms Record.md",
+    "Searching/Google Scholar - Similar Terms to PSE.md",
+    "Searching",
+    "Paper/Maps/Papers to read.md",
     "=Weekly Report/25-02-18 =PR= MR UX.md",
     "=Weekly Report/25-02-24 =PR= Focus on my task while searching for papers.md",
-    "Paper/Maps/Papers to read.md",
     "Paper/Maps/Paper Information.md",
     "Paper/Maps/蒐集的論文.md",
     "=Daily Record/25-02-W4.md",
@@ -314,8 +317,6 @@
     "=Weekly Report/25-02-11 =PR= PSE in MR.md",
     "=Weekly Report/25-02-07 =Paper=.md",
     "=Weekly Report/25-02-05 =PR= Proposal 1.md",
-    "=Daily Record/25-02-W2.md",
-    "=Daily Record/25-02-W1.md",
     "=Daily Record",
     "Idea/Point of Subjective Equality",
     "=Weekly Report",
@@ -329,7 +330,6 @@
     "Knowledge/Notes/_Resources/Pasted image 20250115213621.png",
     "Paper/Drafts",
     "_Template",
-    "Paper/Notes/_Resources",
     "Knowledge/Notes/Resources/Pasted image 20250109233414.png"
   ]
 }
