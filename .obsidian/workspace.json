@@ -11,10 +11,14 @@
             "id": "8e9ee67fa07c6b80",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "=Daily Record/25-02/25-02-W4.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "25-02-W4"
             }
           }
         ]
@@ -164,18 +168,18 @@
   },
   "active": "8e9ee67fa07c6b80",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "=Weekly Report/25-02-W4 =PR=.md",
+    "Searching/Google Scholar - Alternatives to PSE.md",
+    "Searching/Conference or Journal.md",
     "Searching/_Organized by Topic.md",
+    "conflict-files-obsidian-git.md",
     "Searching/Perplexity - Deep Research - Audio Visual Spatial Perception.md",
     "Searching/Google Scholar - Terms Record.md",
     "Searching/Google Scholar.md",
-    "Searching/Google Scholar - Alternatives to PSE.md",
-    "Searching/Conference or Journal.md",
     "Searching",
     "Knowledge/Others/Academic search engine.md",
     "Idea/Visual-Audio Spatial Perception.md",
     "Daily Path of Thinking/25-03-02.md",
-    "=Weekly Report/25-02-W4 =PR=.md",
     "=Daily Record/25-02/25-02-W2.md",
     "=Daily Record/25-02/25-02-W3.md",
     "=Daily Record/25-02/25-02-W4.md",
