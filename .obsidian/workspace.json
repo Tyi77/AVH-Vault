@@ -1,98 +1,37 @@
 {
   "main": {
-    "id": "c18346319c9347e2",
+    "id": "936525d48c46f285",
     "type": "split",
     "children": [
       {
-        "id": "3e0661a928a15fe0",
+        "id": "b1f0a0deb5e72137",
         "type": "tabs",
         "children": [
           {
-            "id": "b7bf0c4d049ee9ce",
+            "id": "c26fead1de60cea7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Path of Thinking/25-02-22.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "25-02-22"
-            }
-          },
-          {
-            "id": "369fb5206c929786",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "=Weekly Report/25-02-24 =PR= Focus on my task while searching for papers.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "25-02-24 =PR= Focus on my task while searching for papers"
-            }
-          },
-          {
-            "id": "899dfea9faff938d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Paper/Notes/Enhancing Existing Reality- A Theoretical Analysis of User-focused Mixed Reality Research.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Enhancing Existing Reality- A Theoretical Analysis of User-focused Mixed Reality Research"
-            }
-          },
-          {
-            "id": "e09f6e6012ba2724",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Paper/Drafts/Draft=Enhancing Existing Reality- A Theoretical Analysis of User-focused Mixed Reality Research.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Draft=Enhancing Existing Reality- A Theoretical Analysis of User-focused Mixed Reality Research"
-            }
-          },
-          {
-            "id": "dffba196fda4e2c3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "=Weekly Report/25-02-18 =PR= MR UX.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "25-02-18 =PR= MR UX"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "c9d9fad5dced0a8c",
+    "id": "0e93e167c9514516",
     "type": "split",
     "children": [
       {
-        "id": "21c64170a9e7d752",
+        "id": "c1c45428fd80e70b",
         "type": "tabs",
         "children": [
           {
-            "id": "4bf5c361d4ab5e6a",
+            "id": "b5b8940f84f570e4",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -105,7 +44,7 @@
             }
           },
           {
-            "id": "c486172483aef5ed",
+            "id": "74dd257a68e7d6be",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -122,7 +61,7 @@
             }
           },
           {
-            "id": "1d771c90ba7bdc84",
+            "id": "feb4862d7e8d4d71",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -138,21 +77,21 @@
     "width": 300
   },
   "right": {
-    "id": "bb5c349994dd3e8d",
+    "id": "b7a3fe65504a22c6",
     "type": "split",
     "children": [
       {
-        "id": "69611c2b758f5149",
+        "id": "de2ac272802d7967",
         "type": "tabs",
         "children": [
           {
-            "id": "afc79a6b491b2aa7",
+            "id": "bea8bfa8fafdeaaa",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Paper/Notes/Modeling the Impact of Head-Body Rotations on Audio-Visual Spatial Perception for Virtual Reality Applications.md",
-                "collapseAll": false,
+                "file": "Paper/Drafts/Draft=Crossmodal influences on visual perception.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -161,74 +100,55 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Modeling the Impact of Head-Body Rotations on Audio-Visual Spatial Perception for Virtual Reality Applications"
+              "title": "Backlinks for Draft=Crossmodal influences on visual perception"
             }
           },
           {
-            "id": "bfb1872105872fb3",
+            "id": "140705b7b94fffac",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Paper/Notes/Modeling the Impact of Head-Body Rotations on Audio-Visual Spatial Perception for Virtual Reality Applications.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Modeling the Impact of Head-Body Rotations on Audio-Visual Spatial Perception for Virtual Reality Applications"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "c87ec12366424a63",
+            "id": "eef6cec79f951d52",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": false
+                "useHierarchy": true
               },
               "icon": "lucide-tags",
               "title": "Tags"
             }
           },
           {
-            "id": "217b2896267d56a1",
+            "id": "3b791a1120206273",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Paper/Notes/Modeling the Impact of Head-Body Rotations on Audio-Visual Spatial Perception for Virtual Reality Applications.md"
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Modeling the Impact of Head-Body Rotations on Audio-Visual Spatial Perception for Virtual Reality Applications"
-            }
-          },
-          {
-            "id": "3f4c7c18470d0f07",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
-          },
-          {
-            "id": "ce64c95bae90e4c1",
-            "type": "leaf",
-            "state": {
-              "type": "git-history-view",
-              "state": {},
-              "icon": "history",
-              "title": "History"
+              "title": "Outline"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 455.5,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
@@ -239,55 +159,56 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "369fb5206c929786",
+  "active": "c26fead1de60cea7",
   "lastOpenFiles": [
-    "=Weekly Report/25-02-18 =PR= MR UX.md",
     "=Weekly Report/25-02-24 =PR= Focus on my task while searching for papers.md",
-    "Paper/Notes/Enhancing Existing Reality- A Theoretical Analysis of User-focused Mixed Reality Research.md",
-    "Paper/Drafts/Draft=Enhancing Existing Reality- A Theoretical Analysis of User-focused Mixed Reality Research.md",
+    "=Weekly Report/25-02-18 =PR= MR UX.md",
     "Daily Path of Thinking/25-02-22.md",
-    "Paper/Maps/Paper Information.md",
-    "conflict-files-obsidian-git.md",
-    "_Template/Weekly Report Template.md",
-    "_Template/Daily Record Template.md",
-    "Paper/Notes/_Resources/Pasted image 20250214173955.png",
-    "Knowledge/Others/Terms.md",
-    "Knowledge/Others/MRTK2.md",
-    "Knowledge/Others",
-    "Idea/Visual-Audio Spatial Localization.md",
-    "Idea/Q&A.md",
     "Daily Path of Thinking/25-02-21.md",
     "Daily Path of Thinking",
+    "=Daily Record/25-02-W2.md",
+    "=Daily Record/25-02-W3.md",
+    "Test/FlexTok Resampling Images into 1D Token Sequences of Flexible Length.md",
+    "Test/FlexTok Resampling Images into 1D Token Sequences of Flexible Length 1.md",
+    "Test/PDF/FlexTok Resampling Images into 1D Token Sequences of Flexible Length.pdf",
+    "Test/PDF/Audio Augmented Reality A Systematic Review of Technologies Applications and Future Research Directions.pdf",
+    "Paper/Notes/Modeling the Impact of Head-Body Rotations on Audio-Visual Spatial Perception for Virtual Reality Applications.md",
+    "Knowledge/Others/MRTK2.md",
+    "Test/PDF",
+    "Test",
+    "Knowledge/Others/Terms.md",
+    "Paper/Notes/Enhancing Existing Reality- A Theoretical Analysis of User-focused Mixed Reality Research.md",
+    "_Template/Weekly Report Template.md",
+    "Knowledge/Others",
     "=Weekly Report/25-02-11 =PR= PSE in MR.md",
     "=Weekly Report/25-02-07 =Paper=.md",
     "=Weekly Report/25-02-05 =PR= Proposal 1.md",
-    "=Daily Record/25-02-W3.md",
-    "=Daily Record/25-02-W2.md",
     "=Daily Record/25-02-W1.md",
-    "Idea/Point of Subjective Equality/Collected Information.md",
-    "Idea/Features of Audio-Visual Spatial Localization.md",
-    "Paper/Maps/Papers to read.md",
-    "Paper/Maps/Paper List.md",
-    "Paper/Maps/Map=Paper.md",
-    "Paper/Maps/Papers I deep in.md",
-    "=Daily Record",
-    "Idea/Point of Subjective Equality",
-    "=Weekly Report",
-    "Idea/_Resources/Pasted image 20250201194926.png",
-    "Thought/Resources/Pasted image 20250201194841.png",
-    "Idea/_Resources",
-    "Paper/Notes/_Resources/Pasted image 20250109234409.png",
-    "Paper/Notes/_Resources/Pasted image 20250110000748.png",
-    "Paper/Notes/_Resources/Pasted image 20250114193924.png",
-    "Idea",
-    "Knowledge/Notes/_Resources/Pasted image 20250115213621.png",
-    "Paper/Drafts",
+    "=Weekly Report/25-02-07 - Paper -.md",
+    "Paper/Drafts/Draft=Enhancing Existing Reality- A Theoretical Analysis of User-focused Mixed Reality Research.md",
+    "Paper/Notes/_Resources/Pasted image 20250214173955.png",
+    "Paper/Drafts/Draft=Crossmodal influences on visual perception.md",
+    "Paper/Drafts/Draft=Causal inference in multisensory perception.md",
+    "Idea/Visual-Audio Spatial Localization.md",
+    "_Template/Daily Record Template.md",
+    "=Daily Record/25-02-11.md",
+    "=Daily Record/25-02-14.md",
+    "=Daily Record/25-02-13.md",
     "_Template",
+    "Paper/Notes/_Resources/Pasted image 20250114193924.png",
+    "Paper/Notes/_Resources/Pasted image 20250110000748.png",
+    "Paper/Notes/_Resources/Pasted image 20250109234409.png",
     "Paper/Notes/_Resources",
-    "Knowledge/Notes/Resources/Pasted image 20250109233414.png"
+    "Knowledge/Notes/_Resources/Pasted image 20250115213621.png",
+    "Knowledge/Notes/_Resources",
+    "Idea/_Resources/Pasted image 20250201194926.png",
+    "Idea/Point of Subjective Equality",
+    "Knowledge/Notes/Resources/Pasted image 20250115213621.png",
+    "Paper/Notes/Resources/Pasted image 20250114193924.png",
+    "Paper/Notes/Resources/Pasted image 20250109234409.png",
+    "Paper/Notes/Resources/Pasted image 20250110000748.png"
   ]
 }
