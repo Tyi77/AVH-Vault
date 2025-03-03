@@ -36,21 +36,49 @@
             }
           },
           {
-            "id": "22a17342176addc9",
+            "id": "440e8752c3f665ea",
             "type": "leaf",
             "state": {
-              "type": "webviewer",
+              "type": "markdown",
               "state": {
-                "url": "https://journals.sagepub.com/doi/full/10.1177/23312165231186040",
-                "title": "The Effect of Sound Localization on Auditory-Only and Audiovisual Speech Recognition in a Simulated Multitalker Environment - Sterling W. Sheffield, Harley J. Wheeler, Douglas S. Brungart, Joshua G. W. Bernstein, 2023",
-                "mode": "webview"
+                "file": "Searching/Conference or Journal.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "globe-2",
-              "title": "The Effect of Sound Localization on Auditory-Only and Audiovisual Speech Recognition in a Simulated Multitalker Environment - Sterling W. Sheffield, Harley J. Wheeler, Douglas S. Brungart, Joshua G. W. Bernstein, 2023"
+              "icon": "lucide-file",
+              "title": "Conference or Journal"
+            }
+          },
+          {
+            "id": "cb5c5cb78509f0ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "=Weekly Report/25-02-W4 =PR=.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "25-02-W4 =PR="
+            }
+          },
+          {
+            "id": "6904bd2236607999",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Searching/Google Scholar - Alternatives to PSE.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Google Scholar - Alternatives to PSE"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -195,16 +223,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "22a17342176addc9",
+  "active": "3460653617c712da",
   "lastOpenFiles": [
+    "Searching/_Organized by Topic.md",
     "Searching/Google Scholar - Alternatives to PSE.md",
+    "Searching/Conference or Journal.md",
+    "=Weekly Report/25-02-W4 =PR=.md",
+    "Searching/Google Scholar.md",
+    "_Template/Weekly Report Template.md",
+    "=Weekly Report/25-02-24 =PR= Focus on my task while searching for papers.md",
+    "=Weekly Report/25-02-05 =PR= Proposal 1.md",
     "=Daily Record/25-02/25-02-W4.md",
     "Searching/Perplexity - Deep Research - Audio Visual Spatial Perception.md",
-    "Paper/Maps/Paper Information.md",
+    "Paper/Maps/Paper List.md",
+    "Paper/Maps/Papers I deep in.md",
     "Search Terms in Google Scholar.md",
-    "Searching/Google Scholar.md",
     "Searching/Google Scholar - Terms Record.md",
-    "Searching/Conference or Journal.md",
     "Searching",
     "Idea/Visual-Audio Spatial Perception.md",
     "Daily Path of Thinking/25-03-02.md",
@@ -214,10 +248,7 @@
     "=Daily Record/25-02",
     "如何寫出有效的研究計畫書.md",
     "Paper/Maps/Papers to read.md",
-    "Paper/Maps/Paper List.md",
     "Knowledge/Others/Academic search engine.md",
-    "Paper/Maps/Papers I deep in.md",
-    "_Template/Weekly Report Template.md",
     "_Template/Paper Template.md",
     "_Template/Knowledge Template.md",
     "_Template/Daily Record Template.md",
@@ -228,9 +259,6 @@
     "Paper/Notes/_Resources/Pasted image 20250109234409.png",
     "Paper/Notes/_Resources",
     "Paper/Notes/Studying the Effects of Congruence of Auditory and Visual Stimuli on Virtual Reality Experiences.md",
-    "Paper/Notes/Modeling the Impact of Head-Body Rotations on Audio-Visual Spatial Perception for Virtual Reality Applications.md",
-    "Paper/Notes/Imperceptible manipulation of lateral camera motion for improved virtual reality applications.md",
-    "Paper/Notes/Enhancing Existing Reality- A Theoretical Analysis of User-focused Mixed Reality Research.md",
     "Paper/Notes",
     "Paper/Maps",
     "Paper/Drafts",
