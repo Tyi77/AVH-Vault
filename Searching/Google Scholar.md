@@ -1,1 +1,0 @@
-## Audio Visual Spatial Perception
