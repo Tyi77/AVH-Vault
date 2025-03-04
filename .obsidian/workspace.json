@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "=Weekly Report/25-02-W4 =PR=.md",
+                "file": "Idea/報告技巧.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "25-02-W4 =PR="
+              "title": "報告技巧"
             }
           },
           {
@@ -135,8 +135,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "b7a3fe65504a22c6",
@@ -226,9 +225,11 @@
   },
   "active": "0c113ac25040710c",
   "lastOpenFiles": [
+    "Idea/Q&A.md",
+    "Idea/報告技巧.md",
+    "=Weekly Report/25-02-W4 =PR=.md",
     "=Daily Record/25-03/25-03-W1.md",
     "Searching/Conference or Journal.md",
-    "=Weekly Report/25-02-W4 =PR=.md",
     "=Daily Record/25-02/25-02-W4.md",
     "=Daily Record/25-03",
     "Searching/Google Scholar - Alternatives to PSE.md",
@@ -256,8 +257,6 @@
     "Test/FlexTok Resampling Images into 1D Token Sequences of Flexible Length 1.md",
     "Test/PDF/FlexTok Resampling Images into 1D Token Sequences of Flexible Length.pdf",
     "Test/PDF/Audio Augmented Reality A Systematic Review of Technologies Applications and Future Research Directions.pdf",
-    "Paper/Notes/Modeling the Impact of Head-Body Rotations on Audio-Visual Spatial Perception for Virtual Reality Applications.md",
-    "Knowledge/Others/MRTK2.md",
     "Test/PDF",
     "Test",
     "Knowledge/Others",
