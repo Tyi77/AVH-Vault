@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[Paper List]]"
+  - "[[Paper/Maps/Paper List]]"
 ---
 ```dataview
 TABLE date, publication, p-date

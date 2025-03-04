@@ -1,0 +1,1 @@
+- [Pseudo-Haptics Survey: Human-Computer Interaction in Extended Reality and Teleoperation](https://doi.org/10.1109/ACCESS.2024.3409449)

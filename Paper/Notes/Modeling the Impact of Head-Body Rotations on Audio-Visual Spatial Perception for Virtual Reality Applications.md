@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[Paper List]]"
+  - "[[Paper/Maps/Paper List]]"
 date: 2025-01
 tags:
   - Paper

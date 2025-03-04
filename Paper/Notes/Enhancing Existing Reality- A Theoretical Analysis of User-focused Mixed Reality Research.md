@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[Paper List]]"
+  - "[[Paper/Maps/Paper List]]"
 date: 2025-02
 publication: Archives of Disgin Research
 p-date: 2024-11
