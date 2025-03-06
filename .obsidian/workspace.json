@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "936525d48c46f285",
+    "id": "3f92600a64f6ce01",
     "type": "split",
     "children": [
       {
-        "id": "705dce0b581b8433",
+        "id": "7af224f239eddd25",
         "type": "tabs",
         "children": [
           {
-            "id": "8e9ee67fa07c6b80",
+            "id": "1127fb7562e9b6da",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -22,35 +22,7 @@
             }
           },
           {
-            "id": "0c113ac25040710c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "=Weekly Report/25-02-W4 =PR= ToH Start.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "25-02-W4 =PR= ToH Start"
-            }
-          },
-          {
-            "id": "87e4517cdf1d9eaa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Project/Pseudo Haptics/Paper List.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Paper List"
-            }
-          },
-          {
-            "id": "255e2d3df4e9d210",
+            "id": "56cb30cf94ba5e00",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -64,21 +36,21 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "0e93e167c9514516",
+    "id": "a8a16e15fe80829a",
     "type": "split",
     "children": [
       {
-        "id": "c1c45428fd80e70b",
+        "id": "1fa2aef129974b45",
         "type": "tabs",
         "children": [
           {
-            "id": "b5b8940f84f570e4",
+            "id": "3f25751226164863",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -91,7 +63,7 @@
             }
           },
           {
-            "id": "74dd257a68e7d6be",
+            "id": "e027a25feaa8b381",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -108,7 +80,7 @@
             }
           },
           {
-            "id": "feb4862d7e8d4d71",
+            "id": "edf669dda70609ba",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -124,21 +96,20 @@
     "width": 300
   },
   "right": {
-    "id": "b7a3fe65504a22c6",
+    "id": "d05b0c3557612e5c",
     "type": "split",
     "children": [
       {
-        "id": "de2ac272802d7967",
+        "id": "aa2eedb4c0e8073e",
         "type": "tabs",
         "children": [
           {
-            "id": "bea8bfa8fafdeaaa",
+            "id": "7559750c5621d82a",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Paper/Drafts/Draft=Crossmodal influences on visual perception.md",
-                "collapseAll": true,
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -147,11 +118,11 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Draft=Crossmodal influences on visual perception"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "140705b7b94fffac",
+            "id": "bed9be357942dbf5",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -164,20 +135,22 @@
             }
           },
           {
-            "id": "eef6cec79f951d52",
+            "id": "cd342356083837b5",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
             }
           },
           {
-            "id": "3b791a1120206273",
+            "id": "260f46edf85d3209",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -190,8 +163,7 @@
               "title": "Outline"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -209,53 +181,49 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "87e4517cdf1d9eaa",
+  "active": "56cb30cf94ba5e00",
   "lastOpenFiles": [
+    "=Daily Record/25-03/25-03-W1.md",
+    "=Daily Record/25-02/25-02-W4.md",
+    "=Weekly Report/25-02-W4 =PR=.md",
+    "Project/Point of Subjective Equality/_Resources/Pasted image 20250201194926.png",
     "Project/Pseudo Haptics/Paper List.md",
+    "Project/Point of Subjective Equality/_Resources",
     "Project/Pseudo Haptics/Information of Pseudo Haptics.md",
-    "=Weekly Report/25-02-W4 =PR= ToH Start.md",
-    "_Template/Weekly Report Template.md",
-    "=Daily Record/25-02/25-02-W1.md",
-    "Daily Path of Thinking/25-02-21.md",
-    "Daily Path of Thinking/25-02-22.md",
-    "Daily Path of Thinking/25-03-02.md",
-    "Searching/Perplexity - Deep Research - Audio Visual Spatial Perception.md",
-    "Searching/Google Scholar - Terms Record.md",
-    "Searching/Google Scholar - Alternatives to PSE.md",
-    "Searching/Conference or Journal.md",
     "Project/Point of Subjective Equality/Collected Information.md",
     "Project/Point of Subjective Equality/Challenges and Response.md",
     "Project/Point of Subjective Equality/25-01 =Proposal 1=.md",
-    "Searching/Google Scholar.md",
-    "Searching/_Organized by Topic.md",
     "Project/報告技巧.md",
     "Project/Visual-Audio Spatial Perception.md",
-    "Project/Point of Subjective Equality/_Resources/Pasted image 20250201194926.png",
     "Project/Pseudo Haptics",
-    "=Daily Record/25-03/25-03-W1.md",
-    "=Daily Record/25-02/25-02-W4.md",
-    "=Weekly Report/25-02-24 =PR= Focus on my task while searching for papers.md",
-    "Idea/Q&A.md",
+    "Project/Point of Subjective Equality",
+    "Project",
+    "=Weekly Report/25-02-W4 =PR= ToH Start.md",
     "=Daily Record/25-03",
-    "conflict-files-obsidian-git.md",
+    "Searching/Google Scholar - Alternatives to PSE.md",
+    "Searching/_Organized by Topic.md",
+    "Searching/Google Scholar.md",
+    "Searching/Conference or Journal.md",
+    "Searching/Google Scholar - Terms Record.md",
+    "_Template/Weekly Report Template.md",
+    "=Weekly Report/25-02-24 =PR= Focus on my task while searching for papers.md",
+    "=Weekly Report/25-02-05 =PR= Proposal 1.md",
+    "Searching/Perplexity - Deep Research - Audio Visual Spatial Perception.md",
+    "Paper/Maps/Paper List.md",
+    "Paper/Maps/Papers I deep in.md",
+    "Search Terms in Google Scholar.md",
     "Searching",
-    "Knowledge/Others/Academic search engine.md",
-    "=Daily Record/25-02/25-02-W2.md",
+    "Idea/Visual-Audio Spatial Perception.md",
+    "Daily Path of Thinking/25-03-02.md",
     "=Daily Record/25-02",
-    "Daily Path of Thinking",
-    "Test/PDF/FlexTok Resampling Images into 1D Token Sequences of Flexible Length.pdf",
-    "Test/PDF/Audio Augmented Reality A Systematic Review of Technologies Applications and Future Research Directions.pdf",
-    "Test/PDF",
-    "Test",
-    "Knowledge/Others",
+    "_Template",
     "Paper/Notes/_Resources/Pasted image 20250214173955.png",
     "Paper/Notes/_Resources/Pasted image 20250114193924.png",
     "Paper/Notes/_Resources/Pasted image 20250110000748.png",
     "Paper/Notes/_Resources/Pasted image 20250109234409.png",
+    "Paper/Notes/_Resources",
+    "Paper/Notes",
     "Knowledge/Notes/_Resources/Pasted image 20250115213621.png",
-    "Knowledge/Notes/Resources/Pasted image 20250115213621.png",
-    "Paper/Notes/Resources/Pasted image 20250114193924.png",
-    "Paper/Notes/Resources/Pasted image 20250109234409.png",
-    "Paper/Notes/Resources/Pasted image 20250110000748.png"
+    "Idea/_Resources/Pasted image 20250201194926.png"
   ]
 }
