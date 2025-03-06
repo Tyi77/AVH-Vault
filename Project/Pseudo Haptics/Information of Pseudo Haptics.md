@@ -5,3 +5,7 @@
 	- Habituation or Adaptability：使用者習慣之後，錯覺的影響會減少
 # 定義
 - A perceptual illusion where visual and auditory stimuli create a sense of touch without physical force feedback.
+## 用法
+- weight perception
+- stiffness perception
+- texture perception
