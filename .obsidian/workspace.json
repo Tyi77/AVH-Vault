@@ -62,9 +62,23 @@
               "icon": "lucide-file",
               "title": "Information of Pseudo Haptics"
             }
+          },
+          {
+            "id": "c5d6c11b314c3c65",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Template/Short Paper Template.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Short Paper Template"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -182,12 +196,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "_Template/Short Paper Template.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Short Paper Template"
             }
           }
         ],
@@ -209,13 +224,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "87e4517cdf1d9eaa",
+  "active": "c5d6c11b314c3c65",
   "lastOpenFiles": [
+    "Project/Pseudo Haptics/Information of Pseudo Haptics.md",
+    "Project/Pseudo Haptics/Paper List.md",
     "_Template/Paper Template.md",
     "_Template/Weekly Report Template.md",
     "_Template/Short Paper Template.md",
-    "Project/Pseudo Haptics/Paper List.md",
-    "Project/Pseudo Haptics/Information of Pseudo Haptics.md",
     "=Weekly Report/25-02-W4 =PR= ToH Start.md",
     "=Daily Record/25-02/25-02-W1.md",
     "Daily Path of Thinking/25-02-21.md",
