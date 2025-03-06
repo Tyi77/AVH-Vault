@@ -49,8 +49,7 @@
               "title": "Information of Pseudo Haptics"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -168,13 +167,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/Pseudo Haptics/Paper List 1-5.md",
+                "file": "=Daily Record/25-03/25-03-W1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Paper List 1-5"
+              "title": "Outline of 25-03-W1"
             }
           }
         ],
@@ -196,10 +195,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "87e4517cdf1d9eaa",
+  "active": "8e9ee67fa07c6b80",
   "lastOpenFiles": [
-    "Project/Pseudo Haptics/Paper List 6-10.md",
     "Project/Pseudo Haptics/Paper List 1-5.md",
+    "Project/Pseudo Haptics/Paper List 6-10.md",
     "=Daily Record/25-03/25-03-W1.md",
     "=Weekly Report/25-02-W4 =PR= ToH Start.md",
     "_Template/Short Paper Template.md",
