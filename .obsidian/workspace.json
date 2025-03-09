@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "936525d48c46f285",
+    "id": "c18346319c9347e2",
     "type": "split",
     "children": [
       {
-        "id": "705dce0b581b8433",
+        "id": "3e0661a928a15fe0",
         "type": "tabs",
         "children": [
           {
-            "id": "8e9ee67fa07c6b80",
+            "id": "b7bf0c4d049ee9ce",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -22,7 +22,7 @@
             }
           },
           {
-            "id": "87e4517cdf1d9eaa",
+            "id": "beeecc4dfab38980",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -36,34 +36,35 @@
             }
           },
           {
-            "id": "255e2d3df4e9d210",
+            "id": "760c261a3ffd73c0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/Pseudo Haptics/Information of Pseudo Haptics.md",
+                "file": "Project/Pseudo Haptics/Paper List 6-10.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Information of Pseudo Haptics"
+              "title": "Paper List 6-10"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "0e93e167c9514516",
+    "id": "c9d9fad5dced0a8c",
     "type": "split",
     "children": [
       {
-        "id": "c1c45428fd80e70b",
+        "id": "21c64170a9e7d752",
         "type": "tabs",
         "children": [
           {
-            "id": "b5b8940f84f570e4",
+            "id": "4bf5c361d4ab5e6a",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -76,7 +77,7 @@
             }
           },
           {
-            "id": "74dd257a68e7d6be",
+            "id": "c486172483aef5ed",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -93,7 +94,7 @@
             }
           },
           {
-            "id": "feb4862d7e8d4d71",
+            "id": "1d771c90ba7bdc84",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -109,21 +110,21 @@
     "width": 300
   },
   "right": {
-    "id": "b7a3fe65504a22c6",
+    "id": "bb5c349994dd3e8d",
     "type": "split",
     "children": [
       {
-        "id": "de2ac272802d7967",
+        "id": "69611c2b758f5149",
         "type": "tabs",
         "children": [
           {
-            "id": "bea8bfa8fafdeaaa",
+            "id": "afc79a6b491b2aa7",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Paper/Drafts/Draft=Crossmodal influences on visual perception.md",
-                "collapseAll": true,
+                "file": "Paper/Notes/Modeling the Impact of Head-Body Rotations on Audio-Visual Spatial Perception for Virtual Reality Applications.md",
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -132,48 +133,69 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Draft=Crossmodal influences on visual perception"
+              "title": "Backlinks for Modeling the Impact of Head-Body Rotations on Audio-Visual Spatial Perception for Virtual Reality Applications"
             }
           },
           {
-            "id": "140705b7b94fffac",
+            "id": "bfb1872105872fb3",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Paper/Notes/Modeling the Impact of Head-Body Rotations on Audio-Visual Spatial Perception for Virtual Reality Applications.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Modeling the Impact of Head-Body Rotations on Audio-Visual Spatial Perception for Virtual Reality Applications"
             }
           },
           {
-            "id": "eef6cec79f951d52",
+            "id": "c87ec12366424a63",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": false
               },
               "icon": "lucide-tags",
               "title": "Tags"
             }
           },
           {
-            "id": "3b791a1120206273",
+            "id": "217b2896267d56a1",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "=Daily Record/25-03/25-03-W1.md",
+                "file": "Project/Pseudo Haptics/Paper List 6-10.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 25-03-W1"
+              "title": "Outline of Paper List 6-10"
+            }
+          },
+          {
+            "id": "3f4c7c18470d0f07",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "ce64c95bae90e4c1",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {},
+              "icon": "history",
+              "title": "History"
             }
           }
         ],
@@ -181,7 +203,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 455.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -192,56 +214,56 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8e9ee67fa07c6b80",
+  "active": "760c261a3ffd73c0",
   "lastOpenFiles": [
     "Project/Pseudo Haptics/Paper List 1-5.md",
     "Project/Pseudo Haptics/Paper List 6-10.md",
     "=Daily Record/25-03/25-03-W1.md",
-    "=Weekly Report/25-02-W4 =PR= ToH Start.md",
-    "_Template/Short Paper Template.md",
-    "Project/Pseudo Haptics/Information of Pseudo Haptics.md",
-    "_Template/Paper Template.md",
-    "_Template/Weekly Report Template.md",
-    "=Daily Record/25-02/25-02-W1.md",
-    "Daily Path of Thinking/25-02-21.md",
-    "Daily Path of Thinking/25-02-22.md",
-    "Daily Path of Thinking/25-03-02.md",
-    "Searching/Perplexity - Deep Research - Audio Visual Spatial Perception.md",
-    "Searching/Google Scholar - Terms Record.md",
+    "=Weekly Report/25-02/25-02-05 =PR= Proposal 1.md",
+    "=Weekly Report/25-03",
+    "_Archive/Daily Path of Thinking/25-02-21.md",
+    "=Weekly Report/25-02",
+    "_Archive",
+    "_Archive/Daily Path of Thinking/25-02-22.md",
+    "=Daily Record/25-02/25-02-W4.md",
     "Searching/Google Scholar - Alternatives to PSE.md",
-    "Searching/Conference or Journal.md",
+    "Searching/Perplexity - Deep Research - Audio Visual Spatial Perception.md",
+    "_Template/Short Paper Template.md",
+    "Searching/_Organized by Topic.md",
+    "Project/Point of Subjective Equality/_Resources/Pasted image 20250201194926.png",
+    "Project/Pseudo Haptics/Information of Pseudo Haptics.md",
+    "Project/Point of Subjective Equality/_Resources",
     "Project/Point of Subjective Equality/Collected Information.md",
     "Project/Point of Subjective Equality/Challenges and Response.md",
     "Project/Point of Subjective Equality/25-01 =Proposal 1=.md",
-    "Searching/Google Scholar.md",
-    "Searching/_Organized by Topic.md",
     "Project/報告技巧.md",
     "Project/Visual-Audio Spatial Perception.md",
-    "Project/Point of Subjective Equality/_Resources/Pasted image 20250201194926.png",
     "Project/Pseudo Haptics",
-    "=Daily Record/25-02/25-02-W4.md",
-    "=Weekly Report/25-02-24 =PR= Focus on my task while searching for papers.md",
-    "Idea/Q&A.md",
+    "Project/Point of Subjective Equality",
+    "Project",
+    "=Weekly Report/25-02/25-02-W4 =PR= ToH Start.md",
     "=Daily Record/25-03",
-    "Searching",
+    "=Daily Record/25-02/25-02-W1.md",
+    "Paper/Maps/Paper Information.md",
     "=Daily Record/25-02",
-    "Daily Path of Thinking",
-    "Test/PDF/FlexTok Resampling Images into 1D Token Sequences of Flexible Length.pdf",
-    "Test/PDF/Audio Augmented Reality A Systematic Review of Technologies Applications and Future Research Directions.pdf",
-    "Test/PDF",
-    "Test",
-    "Knowledge/Others",
+    "Daily Path of Thinking/25-03-02.md",
+    "Searching/Conference or Journal.md",
+    "Paper/Maps/Paper List.md",
+    "Paper/Maps/Papers to read.md",
+    "=Daily Record/25-02/25-02-W3.md",
+    "Idea/Visual-Audio Spatial Perception.md",
+    "Searching",
     "Paper/Notes/_Resources/Pasted image 20250214173955.png",
-    "Paper/Notes/_Resources/Pasted image 20250114193924.png",
-    "Paper/Notes/_Resources/Pasted image 20250110000748.png",
+    "Idea/_Resources/Pasted image 20250201194926.png",
+    "Thought/Resources/Pasted image 20250201194841.png",
     "Paper/Notes/_Resources/Pasted image 20250109234409.png",
+    "Paper/Notes/_Resources/Pasted image 20250110000748.png",
+    "Paper/Notes/_Resources/Pasted image 20250114193924.png",
     "Knowledge/Notes/_Resources/Pasted image 20250115213621.png",
-    "Knowledge/Notes/Resources/Pasted image 20250115213621.png",
-    "Paper/Notes/Resources/Pasted image 20250114193924.png",
-    "Paper/Notes/Resources/Pasted image 20250109234409.png",
-    "Paper/Notes/Resources/Pasted image 20250110000748.png"
+    "Knowledge/Notes/Resources/Pasted image 20250109233414.png"
   ]
 }
