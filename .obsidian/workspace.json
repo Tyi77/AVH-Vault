@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "Paper List 1-5"
             }
+          },
+          {
+            "id": "7e80863fa99a2b7a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -181,12 +195,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "56cb30cf94ba5e00",
+  "active": "7e80863fa99a2b7a",
   "lastOpenFiles": [
+    "Project/Pseudo Haptics/Paper List 1-5.md",
+    "conflict-files-obsidian-git.md",
+    "_Archive/Daily Path of Thinking/25-02-22.md",
+    "_Archive/Daily Path of Thinking/25-02-21.md",
+    "_Archive/Daily Path of Thinking",
+    "_Archive",
+    "=Weekly Report/25-02/25-02-W4 =PR= ToH Start.md",
+    "=Weekly Report/25-02/25-02-24 =PR= Focus on my task while searching for papers.md",
+    "=Weekly Report/25-02/25-02-18 =PR= MR UX.md",
+    "=Weekly Report/25-02/25-02-11 =PR= PSE in MR.md",
+    "=Weekly Report/25-02/25-02-07 =Paper=.md",
+    "=Weekly Report/25-02/25-02-05 =PR= Proposal 1.md",
+    "=Weekly Report/25-02",
     "Project/Pseudo Haptics/Information of Pseudo Haptics.md",
     "_Template/Short Paper Template.md",
     "Project/Pseudo Haptics/Paper List 6-10.md",
-    "Project/Pseudo Haptics/Paper List 1-5.md",
     "=Daily Record/25-03/25-03-W1.md",
     "=Daily Record/25-02/25-02-W4.md",
     "=Weekly Report/25-02-W4 =PR=.md",
@@ -206,24 +232,12 @@
     "Searching/Google Scholar - Alternatives to PSE.md",
     "Searching/_Organized by Topic.md",
     "Searching/Google Scholar.md",
-    "Searching/Conference or Journal.md",
-    "Searching/Google Scholar - Terms Record.md",
-    "_Template/Weekly Report Template.md",
-    "=Weekly Report/25-02-24 =PR= Focus on my task while searching for papers.md",
-    "=Weekly Report/25-02-05 =PR= Proposal 1.md",
-    "Searching/Perplexity - Deep Research - Audio Visual Spatial Perception.md",
-    "Paper/Maps/Paper List.md",
-    "Paper/Maps/Papers I deep in.md",
-    "Search Terms in Google Scholar.md",
     "Searching",
     "=Daily Record/25-02",
-    "_Template",
     "Paper/Notes/_Resources/Pasted image 20250214173955.png",
     "Paper/Notes/_Resources/Pasted image 20250114193924.png",
     "Paper/Notes/_Resources/Pasted image 20250110000748.png",
     "Paper/Notes/_Resources/Pasted image 20250109234409.png",
-    "Paper/Notes/_Resources",
-    "Paper/Notes",
     "Knowledge/Notes/_Resources/Pasted image 20250115213621.png",
     "Idea/_Resources/Pasted image 20250201194926.png"
   ]

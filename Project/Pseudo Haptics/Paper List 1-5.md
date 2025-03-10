@@ -1,6 +1,7 @@
 ##### [Pseudo-Haptics Survey: Human-Computer Interaction in Extended Reality and Teleoperation](https://doi.org/10.1109/ACCESS.2024.3409449)
 年份：2024
 刊登期刊/會議：IEEE Access (26頁)
+⭐
 
 =一句話總結=
 - 統整PHT的不同分類，和其近年來的研究內容
@@ -60,6 +61,7 @@
 刊登期刊/會議：IEEE Access
 
 =一句話總結=
+C/D Ratio 和 EMS 各自對 Weight Perception 的影響
 
 =研究目的=
 
@@ -73,10 +75,11 @@
 
 ---
 ##### [Haptic Perception, Mechanics, and Material Technologies for Virtual Reality](https://doi.org/10.1002/adfm.202008186)
-年份：
-刊登期刊/會議：
+年份：2021
+刊登期刊/會議：Advanced Functional Materials
 
 =一句話總結=
+材料科學類的觸覺感知
 
 =研究目的=
 
