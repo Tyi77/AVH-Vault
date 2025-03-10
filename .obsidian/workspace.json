@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "=Daily Record/25-03/25-03-W1.md",
+                "file": "Project/報告技巧.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "25-03-W1"
+              "title": "報告技巧"
+            }
+          },
+          {
+            "id": "dacef734d1dd456d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "=Weekly Report/25-03/25-03-W1 =PR=.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "25-03-W1 =PR="
             }
           },
           {
@@ -33,6 +47,34 @@
               },
               "icon": "lucide-file",
               "title": "Paper List 1-5"
+            }
+          },
+          {
+            "id": "cf274c743380b48c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Project/Pseudo Haptics/Paper List 6-10.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Paper List 6-10"
+            }
+          },
+          {
+            "id": "ad0e4e36b17c1694",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Project/Pseudo Haptics/Information of Pseudo Haptics.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Information of Pseudo Haptics"
             }
           }
         ],
@@ -181,10 +223,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "56cb30cf94ba5e00",
+  "active": "dacef734d1dd456d",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Project/Pseudo Haptics/Information of Pseudo Haptics.md",
+    "=Weekly Report/25-03/25-03-W1 =PR=.md",
+    "Project/Pseudo Haptics/Paper List 6-10.md",
     "Project/Pseudo Haptics/Paper List 1-5.md",
+    "Project/報告技巧.md",
+    "=Daily Record/25-03/25-03-W1.md",
+    "=Weekly Report/25-03",
+    "研究方向申請書.md",
+    "conflict-files-obsidian-git.md",
     "_Archive/Daily Path of Thinking/25-02-22.md",
     "_Archive/Daily Path of Thinking/25-02-21.md",
     "_Archive/Daily Path of Thinking",
@@ -196,10 +245,7 @@
     "=Weekly Report/25-02/25-02-07 =Paper=.md",
     "=Weekly Report/25-02/25-02-05 =PR= Proposal 1.md",
     "=Weekly Report/25-02",
-    "Project/Pseudo Haptics/Information of Pseudo Haptics.md",
     "_Template/Short Paper Template.md",
-    "Project/Pseudo Haptics/Paper List 6-10.md",
-    "=Daily Record/25-03/25-03-W1.md",
     "=Daily Record/25-02/25-02-W4.md",
     "=Weekly Report/25-02-W4 =PR=.md",
     "Project/Point of Subjective Equality/_Resources/Pasted image 20250201194926.png",
@@ -208,7 +254,6 @@
     "Project/Point of Subjective Equality/Collected Information.md",
     "Project/Point of Subjective Equality/Challenges and Response.md",
     "Project/Point of Subjective Equality/25-01 =Proposal 1=.md",
-    "Project/報告技巧.md",
     "Project/Visual-Audio Spatial Perception.md",
     "Project/Pseudo Haptics",
     "Project/Point of Subjective Equality",
@@ -216,10 +261,7 @@
     "=Weekly Report/25-02-W4 =PR= ToH Start.md",
     "=Daily Record/25-03",
     "Searching/Google Scholar - Alternatives to PSE.md",
-    "Searching/_Organized by Topic.md",
-    "Searching/Google Scholar.md",
     "Searching",
-    "=Daily Record/25-02",
     "Paper/Notes/_Resources/Pasted image 20250214173955.png",
     "Paper/Notes/_Resources/Pasted image 20250114193924.png",
     "Paper/Notes/_Resources/Pasted image 20250110000748.png",
