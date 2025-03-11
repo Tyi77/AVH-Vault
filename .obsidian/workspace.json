@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "=Daily Record/25-03/25-03-W1.md",
+                "file": "=Daily Record/25-03/25-03-W2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "25-03-W1"
+              "title": "25-03-W2"
             }
           },
           {
@@ -62,9 +62,22 @@
               "icon": "lucide-file",
               "title": "Information of Pseudo Haptics"
             }
+          },
+          {
+            "id": "1716a9996c0d4d2c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "研究方向申請書.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "研究方向申請書"
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -210,15 +223,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0cc9b9e6f478363a",
+  "active": "8e9ee67fa07c6b80",
   "lastOpenFiles": [
+    "=Weekly Report/25-03/25-03-W1 =PR=.md",
+    "=Daily Record/25-03/25-03-W2.md",
     "=Daily Record/25-03/25-03-W1.md",
+    "Project/Pseudo Haptics/Information of Pseudo Haptics.md",
     "研究方向申請書.md",
     "_Archive/Daily Path of Thinking/25-02-22.md",
     "_Archive/Daily Path of Thinking/25-02-21.md",
     "_Archive/Daily Path of Thinking",
     "_Archive",
-    "=Weekly Report/25-03/25-03-W1 =PR=.md",
     "=Weekly Report/25-03",
     "=Weekly Report/25-02/25-02-W4 =PR= ToH Start.md",
     "=Weekly Report/25-02/25-02-24 =PR= Focus on my task while searching for papers.md",
@@ -231,7 +246,6 @@
     "Project/Pseudo Haptics/Paper List 6-10.md",
     "=Weekly Report/25-02-W4 =PR= ToH Start.md",
     "_Template/Short Paper Template.md",
-    "Project/Pseudo Haptics/Information of Pseudo Haptics.md",
     "_Template/Paper Template.md",
     "_Template/Weekly Report Template.md",
     "=Daily Record/25-02/25-02-W1.md",
@@ -241,7 +255,6 @@
     "Searching/Perplexity - Deep Research - Audio Visual Spatial Perception.md",
     "Searching/Google Scholar - Terms Record.md",
     "Searching/Google Scholar - Alternatives to PSE.md",
-    "Searching/Conference or Journal.md",
     "Project/Point of Subjective Equality/_Resources/Pasted image 20250201194926.png",
     "Project/Pseudo Haptics",
     "=Daily Record/25-03",
