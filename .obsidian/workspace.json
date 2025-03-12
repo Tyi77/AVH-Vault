@@ -1,28 +1,28 @@
 {
   "main": {
-    "id": "936525d48c46f285",
+    "id": "3f92600a64f6ce01",
     "type": "split",
     "children": [
       {
-        "id": "705dce0b581b8433",
+        "id": "7af224f239eddd25",
         "type": "tabs",
         "children": [
           {
-            "id": "8e9ee67fa07c6b80",
+            "id": "1127fb7562e9b6da",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "=Daily Record/25-03/25-03-W2.md",
+                "file": "Project/報告技巧.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "25-03-W2"
+              "title": "報告技巧"
             }
           },
           {
-            "id": "0cc9b9e6f478363a",
+            "id": "dacef734d1dd456d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -36,7 +36,7 @@
             }
           },
           {
-            "id": "87e4517cdf1d9eaa",
+            "id": "56cb30cf94ba5e00",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -50,7 +50,21 @@
             }
           },
           {
-            "id": "255e2d3df4e9d210",
+            "id": "cf274c743380b48c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Project/Pseudo Haptics/Paper List 6-10.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Paper List 6-10"
+            }
+          },
+          {
+            "id": "ad0e4e36b17c1694",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -62,36 +76,23 @@
               "icon": "lucide-file",
               "title": "Information of Pseudo Haptics"
             }
-          },
-          {
-            "id": "1716a9996c0d4d2c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "研究方向申請書.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "研究方向申請書"
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "0e93e167c9514516",
+    "id": "a8a16e15fe80829a",
     "type": "split",
     "children": [
       {
-        "id": "c1c45428fd80e70b",
+        "id": "1fa2aef129974b45",
         "type": "tabs",
         "children": [
           {
-            "id": "b5b8940f84f570e4",
+            "id": "3f25751226164863",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -104,7 +105,7 @@
             }
           },
           {
-            "id": "74dd257a68e7d6be",
+            "id": "e027a25feaa8b381",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -121,7 +122,7 @@
             }
           },
           {
-            "id": "feb4862d7e8d4d71",
+            "id": "edf669dda70609ba",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -137,21 +138,20 @@
     "width": 300
   },
   "right": {
-    "id": "b7a3fe65504a22c6",
+    "id": "d05b0c3557612e5c",
     "type": "split",
     "children": [
       {
-        "id": "de2ac272802d7967",
+        "id": "aa2eedb4c0e8073e",
         "type": "tabs",
         "children": [
           {
-            "id": "bea8bfa8fafdeaaa",
+            "id": "7559750c5621d82a",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Paper/Drafts/Draft=Crossmodal influences on visual perception.md",
-                "collapseAll": true,
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -160,11 +160,11 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Draft=Crossmodal influences on visual perception"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "140705b7b94fffac",
+            "id": "bed9be357942dbf5",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -177,35 +177,35 @@
             }
           },
           {
-            "id": "eef6cec79f951d52",
+            "id": "cd342356083837b5",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
             }
           },
           {
-            "id": "3b791a1120206273",
+            "id": "260f46edf85d3209",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "=Daily Record/25-03/25-03-W1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 25-03-W1"
+              "title": "Outline"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -223,53 +223,50 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8e9ee67fa07c6b80",
+  "active": "dacef734d1dd456d",
   "lastOpenFiles": [
-    "=Weekly Report/25-03/25-03-W1 =PR=.md",
     "=Daily Record/25-03/25-03-W2.md",
-    "=Daily Record/25-03/25-03-W1.md",
     "Project/Pseudo Haptics/Information of Pseudo Haptics.md",
+    "=Weekly Report/25-03/25-03-W1 =PR=.md",
+    "Project/Pseudo Haptics/Paper List 6-10.md",
+    "Project/Pseudo Haptics/Paper List 1-5.md",
+    "Project/報告技巧.md",
+    "=Daily Record/25-03/25-03-W1.md",
+    "=Weekly Report/25-03",
     "研究方向申請書.md",
+    "conflict-files-obsidian-git.md",
     "_Archive/Daily Path of Thinking/25-02-22.md",
     "_Archive/Daily Path of Thinking/25-02-21.md",
     "_Archive/Daily Path of Thinking",
     "_Archive",
-    "=Weekly Report/25-03",
     "=Weekly Report/25-02/25-02-W4 =PR= ToH Start.md",
     "=Weekly Report/25-02/25-02-24 =PR= Focus on my task while searching for papers.md",
-    "=Weekly Report/25-02/25-02-07 =Paper=.md",
     "=Weekly Report/25-02/25-02-18 =PR= MR UX.md",
     "=Weekly Report/25-02/25-02-11 =PR= PSE in MR.md",
+    "=Weekly Report/25-02/25-02-07 =Paper=.md",
     "=Weekly Report/25-02/25-02-05 =PR= Proposal 1.md",
     "=Weekly Report/25-02",
-    "Project/Pseudo Haptics/Paper List 1-5.md",
-    "Project/Pseudo Haptics/Paper List 6-10.md",
-    "=Weekly Report/25-02-W4 =PR= ToH Start.md",
     "_Template/Short Paper Template.md",
-    "_Template/Paper Template.md",
-    "_Template/Weekly Report Template.md",
-    "=Daily Record/25-02/25-02-W1.md",
-    "Daily Path of Thinking/25-02-21.md",
-    "Daily Path of Thinking/25-02-22.md",
-    "Daily Path of Thinking/25-03-02.md",
-    "Searching/Perplexity - Deep Research - Audio Visual Spatial Perception.md",
-    "Searching/Google Scholar - Terms Record.md",
-    "Searching/Google Scholar - Alternatives to PSE.md",
+    "=Daily Record/25-02/25-02-W4.md",
+    "=Weekly Report/25-02-W4 =PR=.md",
     "Project/Point of Subjective Equality/_Resources/Pasted image 20250201194926.png",
+    "Project/Pseudo Haptics/Paper List.md",
+    "Project/Point of Subjective Equality/_Resources",
+    "Project/Point of Subjective Equality/Collected Information.md",
+    "Project/Point of Subjective Equality/Challenges and Response.md",
+    "Project/Point of Subjective Equality/25-01 =Proposal 1=.md",
+    "Project/Visual-Audio Spatial Perception.md",
     "Project/Pseudo Haptics",
+    "Project/Point of Subjective Equality",
+    "Project",
+    "=Weekly Report/25-02-W4 =PR= ToH Start.md",
     "=Daily Record/25-03",
     "Searching",
-    "=Daily Record/25-02",
-    "Daily Path of Thinking",
-    "Test/PDF/FlexTok Resampling Images into 1D Token Sequences of Flexible Length.pdf",
     "Paper/Notes/_Resources/Pasted image 20250214173955.png",
     "Paper/Notes/_Resources/Pasted image 20250114193924.png",
     "Paper/Notes/_Resources/Pasted image 20250110000748.png",
     "Paper/Notes/_Resources/Pasted image 20250109234409.png",
     "Knowledge/Notes/_Resources/Pasted image 20250115213621.png",
-    "Knowledge/Notes/Resources/Pasted image 20250115213621.png",
-    "Paper/Notes/Resources/Pasted image 20250114193924.png",
-    "Paper/Notes/Resources/Pasted image 20250109234409.png",
-    "Paper/Notes/Resources/Pasted image 20250110000748.png"
+    "Idea/_Resources/Pasted image 20250201194926.png"
   ]
 }
