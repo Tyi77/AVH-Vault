@@ -1,0 +1,12 @@
+- style of the pointer
+	- stick
+	- different styles of the virtual hand
+	- controller
+		- laser
+		- physical-hand like
+- rotation gain
+	- To generate the offset between the physical and the virtual hand
+- physical objects / virtual objects
+- Feedback of the touch
+	- with / without a sound
+	- with / without a vibration

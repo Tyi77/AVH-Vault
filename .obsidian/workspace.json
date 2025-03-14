@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1127fb7562e9b6da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Project/報告技巧.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "報告技巧"
-            }
-          },
-          {
             "id": "dacef734d1dd456d",
             "type": "leaf",
             "state": {
@@ -36,49 +22,69 @@
             }
           },
           {
-            "id": "56cb30cf94ba5e00",
+            "id": "e79f562b6d3ebe2e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/Pseudo Haptics/Paper List 1-5.md",
+                "file": "=Weekly To-do/25-03/25-03-W2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Paper List 1-5"
+              "title": "25-03-W2"
             }
-          },
-          {
-            "id": "cf274c743380b48c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Project/Pseudo Haptics/Paper List 6-10.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Paper List 6-10"
-            }
-          },
+          }
+        ]
+      },
+      {
+        "id": "520ae9f4fee5d590",
+        "type": "tabs",
+        "children": [
           {
             "id": "ad0e4e36b17c1694",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/Pseudo Haptics/Information of Pseudo Haptics.md",
+                "file": "Project/Fusion Project/Factors we can play with.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Information of Pseudo Haptics"
+              "title": "Factors we can play with"
+            }
+          },
+          {
+            "id": "15c0bf0b12bad09a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Project/Fusion Project/New Terms.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "New Terms"
+            }
+          },
+          {
+            "id": "4e0f3eca5d8da0da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Project/Fusion Project/New Terms.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "New Terms"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -223,17 +229,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dacef734d1dd456d",
+  "active": "4e0f3eca5d8da0da",
   "lastOpenFiles": [
-    "=Daily Record/25-03/25-03-W2.md",
-    "Project/Pseudo Haptics/Information of Pseudo Haptics.md",
+    "Paper/Maps/Paper List.md",
+    "Project/Fusion Project/New Terms.md",
+    "Project/Fusion Project/Factors we can play with.md",
     "=Weekly Report/25-03/25-03-W1 =PR=.md",
-    "Project/Pseudo Haptics/Paper List 6-10.md",
+    "=Weekly To-do/25-03/25-03-W2.md",
+    "=Daily Record/25-03/25-03-W2.md",
+    "=Weekly To-do/25-03",
+    "=Weekly To-do",
+    "_Template/Daily Record Template.md",
+    "Project/Pseudo Haptics/Information of Pseudo Haptics.md",
+    "Project/Fusion Project",
+    "碩士論文研究方向申請書.md",
+    "=Daily Record/25-03/25-03-W1.md",
     "Project/Pseudo Haptics/Paper List 1-5.md",
     "Project/報告技巧.md",
-    "=Daily Record/25-03/25-03-W1.md",
+    "Project/Pseudo Haptics/Paper List 6-10.md",
     "=Weekly Report/25-03",
-    "研究方向申請書.md",
     "conflict-files-obsidian-git.md",
     "_Archive/Daily Path of Thinking/25-02-22.md",
     "_Archive/Daily Path of Thinking/25-02-21.md",
@@ -252,16 +266,8 @@
     "Project/Point of Subjective Equality/_Resources/Pasted image 20250201194926.png",
     "Project/Pseudo Haptics/Paper List.md",
     "Project/Point of Subjective Equality/_Resources",
-    "Project/Point of Subjective Equality/Collected Information.md",
-    "Project/Point of Subjective Equality/Challenges and Response.md",
-    "Project/Point of Subjective Equality/25-01 =Proposal 1=.md",
-    "Project/Visual-Audio Spatial Perception.md",
     "Project/Pseudo Haptics",
     "Project/Point of Subjective Equality",
-    "Project",
-    "=Weekly Report/25-02-W4 =PR= ToH Start.md",
-    "=Daily Record/25-03",
-    "Searching",
     "Paper/Notes/_Resources/Pasted image 20250214173955.png",
     "Paper/Notes/_Resources/Pasted image 20250114193924.png",
     "Paper/Notes/_Resources/Pasted image 20250110000748.png",
