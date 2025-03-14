@@ -9,3 +9,9 @@
 body {
 	--file-line-width: 65rem;
 }
+
+.dataview .table-view-tbody tr {
+    border-top: 1px;
+    border-top-color: rgb(190, 190, 190);
+    border-top-style: dashed;
+}
