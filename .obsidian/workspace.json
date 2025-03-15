@@ -48,9 +48,21 @@
               "icon": "lucide-file",
               "title": "Paper List 6-10"
             }
+          },
+          {
+            "id": "efb439f9f6a0c7f4",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.9"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.9"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -218,7 +230,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "760c261a3ffd73c0",
+  "active": "efb439f9f6a0c7f4",
   "lastOpenFiles": [
     "Project/Pseudo Haptics/Paper List 1-5.md",
     "Project/Pseudo Haptics/Paper List 6-10.md",
