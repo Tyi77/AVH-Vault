@@ -50,18 +50,6 @@
             }
           },
           {
-            "id": "efb439f9f6a0c7f4",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.9"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.9"
-            }
-          },
-          {
             "id": "41160b5e3f4946ef",
             "type": "leaf",
             "state": {
@@ -76,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -246,19 +234,19 @@
   },
   "active": "41160b5e3f4946ef",
   "lastOpenFiles": [
+    "Project/Pseudo Haptics/Paper List 6-10.md",
+    "=Weekly To-do/25-03/25-03-W2.md",
     "conflict-files-obsidian-git.md",
     "碩士論文研究方向申請書.md",
     "Project/Fusion Project/Paper List.md",
     "Project/Fusion Project/New Terms.md",
     "Project/Fusion Project/Factors we can play with.md",
     "Project/Fusion Project",
-    "=Weekly To-do/25-03/25-03-W2.md",
     "=Weekly To-do/25-03",
     "=Weekly To-do",
     "=Weekly Report/25-03/25-03-W1 =PR=.md",
     "=Daily Record/25-03/25-03-W2.md",
     "Project/Pseudo Haptics/Paper List 1-5.md",
-    "Project/Pseudo Haptics/Paper List 6-10.md",
     "=Daily Record/25-03/25-03-W1.md",
     "=Weekly Report/25-02/25-02-05 =PR= Proposal 1.md",
     "=Weekly Report/25-03",
