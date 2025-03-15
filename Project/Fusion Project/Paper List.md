@@ -5,6 +5,7 @@
 =一句話總結=
 
 =研究目的=
+Hypothesis
 
 =研究方法=
 - 如何做實驗的？進行了什麼不同的步驟？
@@ -22,3 +23,8 @@
 =結論與未來建議=
 
 =個人評價=
+
+=學習的內容=
+- TUI (Tangible User Interface)
+	- 未來要多看使用真實物品來增進MR體驗的論文
+- Metaphoric vs Isomorphic hand interaction
