@@ -1,56 +1,41 @@
 {
   "main": {
-    "id": "c18346319c9347e2",
+    "id": "3f92600a64f6ce01",
     "type": "split",
     "children": [
       {
-        "id": "3e0661a928a15fe0",
+        "id": "64624c81b8beb997",
         "type": "tabs",
         "children": [
           {
-            "id": "41160b5e3f4946ef",
+            "id": "3c786d33475970ee",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "=Weekly To-do/25-03/25-03-W2.md",
+                "file": "碩士論文研究方向申請書.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "25-03-W2"
-            }
-          },
-          {
-            "id": "760c261a3ffd73c0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "=Daily Record/25-03/25-03-W2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "25-03-W2"
+              "title": "碩士論文研究方向申請書"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "c9d9fad5dced0a8c",
+    "id": "a8a16e15fe80829a",
     "type": "split",
     "children": [
       {
-        "id": "21c64170a9e7d752",
+        "id": "1fa2aef129974b45",
         "type": "tabs",
         "children": [
           {
-            "id": "4bf5c361d4ab5e6a",
+            "id": "3f25751226164863",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -63,7 +48,7 @@
             }
           },
           {
-            "id": "c486172483aef5ed",
+            "id": "e027a25feaa8b381",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -80,7 +65,7 @@
             }
           },
           {
-            "id": "1d771c90ba7bdc84",
+            "id": "edf669dda70609ba",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -96,20 +81,19 @@
     "width": 300
   },
   "right": {
-    "id": "bb5c349994dd3e8d",
+    "id": "d05b0c3557612e5c",
     "type": "split",
     "children": [
       {
-        "id": "69611c2b758f5149",
+        "id": "aa2eedb4c0e8073e",
         "type": "tabs",
         "children": [
           {
-            "id": "afc79a6b491b2aa7",
+            "id": "7559750c5621d82a",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Paper/Notes/Modeling the Impact of Head-Body Rotations on Audio-Visual Spatial Perception for Virtual Reality Applications.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,77 +103,56 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Modeling the Impact of Head-Body Rotations on Audio-Visual Spatial Perception for Virtual Reality Applications"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "bfb1872105872fb3",
+            "id": "bed9be357942dbf5",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Paper/Notes/Modeling the Impact of Head-Body Rotations on Audio-Visual Spatial Perception for Virtual Reality Applications.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Modeling the Impact of Head-Body Rotations on Audio-Visual Spatial Perception for Virtual Reality Applications"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "c87ec12366424a63",
+            "id": "cd342356083837b5",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": false
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
             }
           },
           {
-            "id": "217b2896267d56a1",
+            "id": "260f46edf85d3209",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/Pseudo Haptics/Paper List 6-10.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Paper List 6-10"
-            }
-          },
-          {
-            "id": "3f4c7c18470d0f07",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
-          },
-          {
-            "id": "ce64c95bae90e4c1",
-            "type": "leaf",
-            "state": {
-              "type": "git-history-view",
-              "state": {},
-              "icon": "history",
-              "title": "History"
+              "title": "Outline"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 455.5,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
@@ -200,56 +163,53 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "760c261a3ffd73c0",
+  "active": "3c786d33475970ee",
   "lastOpenFiles": [
-    "Project/Fusion Project/Give Me a Hand- Improving the Effectiveness of Near-field Augmented Reality Interactions By Avatarizing Users' End Effectors.md",
-    "Paper/Notes/Enhancing Existing Reality- A Theoretical Analysis of User-focused Mixed Reality Research.md",
-    "Paper/Drafts/Draft=Enhancing Existing Reality- A Theoretical Analysis of User-focused Mixed Reality Research.md",
-    "Paper/Maps/Paper List.md",
+    "如何寫出有效的研究計畫書.md",
     "Project/Fusion Project/Paper List.md",
-    "Project/Pseudo Haptics/Paper List 6-10.md",
-    "=Daily Record/25-03/25-03-W1.md",
-    "=Weekly To-do/25-03/25-03-W2.md",
-    "conflict-files-obsidian-git.md",
-    "碩士論文研究方向申請書.md",
+    "Project/Fusion Project/Give Me a Hand- Improving the Effectiveness of Near-field Augmented Reality Interactions By Avatarizing Users' End Effectors.md",
+    "Paper/Maps/Paper List.md",
     "Project/Fusion Project/New Terms.md",
+    "=Weekly To-do/25-03/25-03-W2.md",
+    "Project/報告技巧.md",
+    "Project/Visual-Audio Spatial Perception.md",
+    "碩士論文研究方向申請書.md",
+    "Project/Pseudo Haptics/Information of Pseudo Haptics.md",
+    "Project/Pseudo Haptics/Paper List 6-10.md",
+    "Project/Pseudo Haptics/Paper List 1-5.md",
+    "=Weekly Report/25-03/25-03-W1 =PR=.md",
     "Project/Fusion Project/Factors we can play with.md",
     "Project/Fusion Project",
     "=Weekly To-do/25-03",
     "=Weekly To-do",
-    "=Weekly Report/25-03/25-03-W1 =PR=.md",
     "=Daily Record/25-03/25-03-W2.md",
-    "Project/Pseudo Haptics/Paper List 1-5.md",
-    "=Weekly Report/25-02/25-02-05 =PR= Proposal 1.md",
+    "=Daily Record/25-03/25-03-W1.md",
     "=Weekly Report/25-03",
-    "_Archive/Daily Path of Thinking/25-02-21.md",
-    "=Weekly Report/25-02",
-    "_Archive",
+    "研究方向申請書.md",
+    "conflict-files-obsidian-git.md",
     "_Archive/Daily Path of Thinking/25-02-22.md",
-    "=Daily Record/25-02/25-02-W4.md",
-    "Searching/Google Scholar - Alternatives to PSE.md",
-    "Searching/Perplexity - Deep Research - Audio Visual Spatial Perception.md",
-    "_Template/Short Paper Template.md",
-    "Searching/_Organized by Topic.md",
+    "_Archive/Daily Path of Thinking/25-02-21.md",
+    "_Archive/Daily Path of Thinking",
+    "_Archive",
+    "=Weekly Report/25-02/25-02-W4 =PR= ToH Start.md",
+    "=Weekly Report/25-02/25-02-24 =PR= Focus on my task while searching for papers.md",
+    "=Weekly Report/25-02/25-02-18 =PR= MR UX.md",
+    "=Weekly Report/25-02/25-02-11 =PR= PSE in MR.md",
+    "=Weekly Report/25-02/25-02-07 =Paper=.md",
+    "=Weekly Report/25-02/25-02-05 =PR= Proposal 1.md",
+    "=Weekly Report/25-02",
     "Project/Point of Subjective Equality/_Resources/Pasted image 20250201194926.png",
-    "Project/Pseudo Haptics/Information of Pseudo Haptics.md",
     "Project/Point of Subjective Equality/_Resources",
-    "Project/Point of Subjective Equality/Collected Information.md",
-    "Project/Point of Subjective Equality/Challenges and Response.md",
     "Project/Pseudo Haptics",
     "Project/Point of Subjective Equality",
-    "Project",
     "Paper/Notes/_Resources/Pasted image 20250214173955.png",
-    "Idea/_Resources/Pasted image 20250201194926.png",
-    "Thought/Resources/Pasted image 20250201194841.png",
-    "Paper/Notes/_Resources/Pasted image 20250109234409.png",
-    "Paper/Notes/_Resources/Pasted image 20250110000748.png",
     "Paper/Notes/_Resources/Pasted image 20250114193924.png",
+    "Paper/Notes/_Resources/Pasted image 20250110000748.png",
+    "Paper/Notes/_Resources/Pasted image 20250109234409.png",
     "Knowledge/Notes/_Resources/Pasted image 20250115213621.png",
-    "Knowledge/Notes/Resources/Pasted image 20250109233414.png"
+    "Idea/_Resources/Pasted image 20250201194926.png"
   ]
 }
