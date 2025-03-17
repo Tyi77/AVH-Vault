@@ -10,3 +10,11 @@
 - Feedback of the touch
 	- with / without a sound
 	- with / without a vibration
+- Representation of the Augmented Avatars
+	- No Augmented Avatar | Iconic Augmented Avatar | Realistic Augmented Avatar
+- Intensity of the virtual light.
+	- Increase/Decrease the number of the virtual light sources.
+---
+## General Experiment Setting
+- 場景：一個弧形的裝置，裝置上間隔一段距離就有一個可以互動的物體(什麼物體)，它可以是（純虛擬 | 混合實與虛 | 純實）
+	- 變量：物體的方位角(Azimuth)
