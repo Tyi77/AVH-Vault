@@ -4,16 +4,44 @@
     "type": "split",
     "children": [
       {
-        "id": "0a2bdce1944e0249",
+        "id": "64624c81b8beb997",
         "type": "tabs",
         "children": [
           {
-            "id": "13719a691c6d8e81",
+            "id": "3c786d33475970ee",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/Fusion Project/paper/Give Me a Hand- Improving the Effectiveness of Near-field Augmented Reality Interactions By Avatarizing Users' End Effectors.md",
+                "file": "=Daily Record/25-03/25-03-W2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "25-03-W2"
+            }
+          },
+          {
+            "id": "c1689e2701c5b587",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "論文寫法.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "論文寫法"
+            }
+          },
+          {
+            "id": "1d018462894bddcb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Project/Fusion Project/Give Me a Hand- Improving the Effectiveness of Near-field Augmented Reality Interactions By Avatarizing Users' End Effectors.md",
                 "mode": "source",
                 "source": false
               },
@@ -22,63 +50,7 @@
             }
           },
           {
-            "id": "3a744385c7887861",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Knowledge/Notes/ANOVA.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ANOVA"
-            }
-          },
-          {
-            "id": "07af9ea955f44235",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "=Daily Record/25-03/25-03-W3.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "25-03-W3"
-            }
-          },
-          {
-            "id": "332c3cb1a0873553",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Project/Fusion Project/Ideas.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ideas"
-            }
-          },
-          {
-            "id": "1ca5217dd9d3a8a9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "=Weekly Report/25-03/25-03-W1 =PR=.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "25-03-W1 =PR="
-            }
-          },
-          {
-            "id": "2c7125f2af9d6a71",
+            "id": "559bdbf4ddea0696",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -90,9 +62,23 @@
               "icon": "lucide-file",
               "title": "25-03-W2 =PR="
             }
+          },
+          {
+            "id": "98a8fa009969a099",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Project/Fusion Project/Factors we can play with.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Factors we can play with"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -165,6 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Idea1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +161,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Idea1"
             }
           },
           {
@@ -183,11 +170,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Idea1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Idea1"
             }
           },
           {
@@ -211,12 +199,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Idea1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Idea1"
             }
           }
         ]
@@ -237,41 +226,41 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2c7125f2af9d6a71",
+  "active": "98a8fa009969a099",
   "lastOpenFiles": [
-    "=Weekly Report/25-03/25-03-W1 =PR=.md",
-    "=Weekly Report/25-03/25-03-W2 =PR=.md",
-    "Project/Fusion Project/Ideas.md",
-    "Knowledge/Notes/ANOVA.md",
+    "Idea1.md",
     "Project/Fusion Project/paper/Give Me a Hand- Improving the Effectiveness of Near-field Augmented Reality Interactions By Avatarizing Users' End Effectors.md",
-    "=Daily Record/25-03/25-03-W3.md",
-    "Project/Fusion Project/Factors we can play with.md",
-    "=Daily Record/25-03/25-03-W2.md",
-    "=Daily Record/25-03/25-03-W1.md",
-    "Project/Fusion Project/New Terms.md",
     "Project/Fusion Project/paper",
+    "Project/Fusion Project/Ideas.md",
+    "=Daily Record/25-03/25-03-W3.md",
+    "Project/Fusion Project/Give Me a Hand- Improving the Effectiveness of Near-field Augmented Reality Interactions By Avatarizing Users' End Effectors.md",
+    "=Weekly Report/25-03/25-03-W2 =PR=.md",
+    "Project/Fusion Project/Factors we can play with.md",
     "=Weekly To-do/25-03/25-03-W2.md",
-    "conflict-files-obsidian-git.md",
+    "=Weekly Report/25-03/25-03-W1 =PR=.md",
+    "=Daily Record/25-03/25-03-W2.md",
+    "Knowledge/Notes/ANOVA.md",
     "論文寫法.md",
+    "Knowledge/Notes/Endogenous vs. Exogenous.md",
+    "如何寫出有效的研究計畫書.md",
+    "碩士論文研究方向申請書.md",
     "Project/Fusion Project/Paper List.md",
     "Paper/Maps/Paper List.md",
+    "Project/Fusion Project/New Terms.md",
+    "Project/報告技巧.md",
+    "Project/Visual-Audio Spatial Perception.md",
+    "Project/Pseudo Haptics/Information of Pseudo Haptics.md",
+    "Project/Pseudo Haptics/Paper List 6-10.md",
+    "Project/Pseudo Haptics/Paper List 1-5.md",
+    "Project/Fusion Project",
     "=Weekly To-do/25-03",
     "=Weekly To-do",
-    "_Template/Daily Record Template.md",
-    "Project/Pseudo Haptics/Information of Pseudo Haptics.md",
-    "Project/Fusion Project",
-    "碩士論文研究方向申請書.md",
-    "Project/Pseudo Haptics/Paper List 1-5.md",
-    "Project/報告技巧.md",
-    "Project/Pseudo Haptics/Paper List 6-10.md",
+    "=Daily Record/25-03/25-03-W1.md",
     "=Weekly Report/25-03",
-    "_Archive/Daily Path of Thinking/25-02-22.md",
-    "_Archive/Daily Path of Thinking/25-02-21.md",
+    "研究方向申請書.md",
+    "conflict-files-obsidian-git.md",
     "_Archive/Daily Path of Thinking",
     "_Archive",
-    "=Weekly Report/25-02/25-02-W4 =PR= ToH Start.md",
-    "=Weekly Report/25-02/25-02-24 =PR= Focus on my task while searching for papers.md",
-    "=Weekly Report/25-02/25-02-18 =PR= MR UX.md",
     "=Weekly Report/25-02",
     "Project/Point of Subjective Equality/_Resources/Pasted image 20250201194926.png",
     "Project/Point of Subjective Equality/_Resources",
