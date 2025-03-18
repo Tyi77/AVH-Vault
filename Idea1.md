@@ -1,4 +1,0 @@
-- 球完全的apply pseudo haptics，使用 displacement gain 來讓重的物品移動較慢，輕的物體移動較快
-- 然後讓使用者往空中拋球，或在長桌子上往前推球
-	- 可能可以測使用者覺得物體比想像中的遠還是近
-	- 但這樣的想法就只跟 mass perception 有關，但跟 audio-visual spatial perception 沒什麼關係...
