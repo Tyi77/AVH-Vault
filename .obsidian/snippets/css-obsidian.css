@@ -9,3 +9,31 @@
 body {
 	--file-line-width: 65rem;
 }
+
+.dataview .table-view-tbody tr {
+    border-top: 1px;
+    border-top-color: rgb(190, 190, 190);
+    border-top-style: dashed;
+}
+
+/* 讓表格的邊角變圓 */
+table {
+    border-collapse: separate;
+    border-radius: 10px;
+    border-spacing: 0;
+    width: 100%;
+}
+
+thead {
+    background-color: #bfbfbf;
+}
+
+/* 設定表頭的第一個 th 單元格圓角 */
+thead tr th:first-child {
+    border-top-left-radius: 10px;
+}
+
+/* 設定表頭的最後一個 th 單元格圓角 */
+thead tr th:last-child {
+    border-top-right-radius: 10px;
+}

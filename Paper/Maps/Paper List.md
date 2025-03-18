@@ -5,5 +5,6 @@ up: "[[Map=Paper]]"
 TABLE p-date, publication, date
 FROM #Paper 
 WHERE file.name != "Paper Template"
-SORT p-date ASC
+SORT p-date DESC
+// SORT date DESC
 ```
