@@ -4,87 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "7af224f239eddd25",
+        "id": "4e8342206a44a957",
         "type": "tabs",
         "children": [
           {
-            "id": "dacef734d1dd456d",
+            "id": "c9d0874c17cd9adf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "=Weekly Report/25-03/25-03-W1 =PR=.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "25-03-W1 =PR="
-            }
-          },
-          {
-            "id": "e79f562b6d3ebe2e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "=Weekly To-do/25-03/25-03-W2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "25-03-W2"
+              "title": "New tab"
             }
           }
         ]
-      },
-      {
-        "id": "520ae9f4fee5d590",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ad0e4e36b17c1694",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Project/Fusion Project/Factors we can play with.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Factors we can play with"
-            }
-          },
-          {
-            "id": "15c0bf0b12bad09a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Project/Fusion Project/New Terms.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "New Terms"
-            }
-          },
-          {
-            "id": "4e0f3eca5d8da0da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Project/Fusion Project/New Terms.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "New Terms"
-            }
-          }
-        ],
-        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -229,13 +162,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4e0f3eca5d8da0da",
+  "active": "c9d0874c17cd9adf",
   "lastOpenFiles": [
-    "Paper/Maps/Paper List.md",
     "Project/Fusion Project/New Terms.md",
-    "Project/Fusion Project/Factors we can play with.md",
-    "=Weekly Report/25-03/25-03-W1 =PR=.md",
     "=Weekly To-do/25-03/25-03-W2.md",
+    "=Weekly Report/25-03/25-03-W1 =PR=.md",
+    "Paper/Maps/Paper List.md",
+    "Project/Fusion Project/Factors we can play with.md",
     "=Daily Record/25-03/25-03-W2.md",
     "=Weekly To-do/25-03",
     "=Weekly To-do",
