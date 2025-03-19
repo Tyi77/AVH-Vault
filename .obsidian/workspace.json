@@ -4,35 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "0a2bdce1944e0249",
+        "id": "115e3af225cf8597",
         "type": "tabs",
         "children": [
           {
-            "id": "e29f00972b4001f9",
+            "id": "d9e2f09e364da9d5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/Fusion Project/Factors we can play with.md",
+                "file": "=Weekly Report/25-03/25-03-W3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Factors we can play with"
-            }
-          },
-          {
-            "id": "26daf3452b0b4d49",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Template/Weekly Template.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Weekly Template"
+              "title": "25-03-W3"
             }
           }
         ]
@@ -180,8 +166,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e29f00972b4001f9",
+  "active": "d9e2f09e364da9d5",
   "lastOpenFiles": [
+    "=Weekly Report/25-03/25-03-W3.md",
+    "Project/Fusion Project/Factors we can play with.md",
+    "_Template/Weekly Template.md",
     "Project/Fusion Project/Babu老師想法整理.md",
     "Project/Fusion Project/Visual-Audio Spatial Perception.md",
     "如何寫出有效的研究計畫書.md",
@@ -204,10 +193,7 @@
     "_Archive/Daily Path of Thinking/25-02-21.md",
     "=Daily Record/25-03/25-03-W3.md",
     "=Weekly Report/25-03/25-03-W2 =PR=.md",
-    "_Template/Weekly Template.md",
     "=Weekly To-do/25-03/25-03-W2.md",
-    "Knowledge/Others/Terms.md",
-    "Knowledge/Others/MRTK2.md",
     "Project/Fusion Project/paper",
     "=Weekly To-do/25-03",
     "=Weekly To-do",
