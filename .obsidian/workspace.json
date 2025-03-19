@@ -8,35 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "13719a691c6d8e81",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Project/Fusion Project/paper/Give Me a Hand- Improving the Effectiveness of Near-field Augmented Reality Interactions By Avatarizing Users' End Effectors.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Give Me a Hand- Improving the Effectiveness of Near-field Augmented Reality Interactions By Avatarizing Users' End Effectors"
-            }
-          },
-          {
-            "id": "07af9ea955f44235",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "=Daily Record/25-03/25-03-W3.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "25-03-W3"
-            }
-          },
-          {
-            "id": "332c3cb1a0873553",
+            "id": "e29f00972b4001f9",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -50,49 +22,20 @@
             }
           },
           {
-            "id": "e29f00972b4001f9",
+            "id": "26daf3452b0b4d49",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Babu老師想法整理.md",
+                "file": "_Template/Weekly Template.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Babu老師想法整理"
-            }
-          },
-          {
-            "id": "1ca5217dd9d3a8a9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "=Weekly Report/25-03/25-03-W1 =PR=.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "25-03-W1 =PR="
-            }
-          },
-          {
-            "id": "2c7125f2af9d6a71",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Project/Fusion Project/New Terms.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "New Terms"
+              "title": "Weekly Template"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -149,8 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "d05b0c3557612e5c",
@@ -240,47 +182,47 @@
   },
   "active": "e29f00972b4001f9",
   "lastOpenFiles": [
-    "Project/Fusion Project/Factors we can play with.md",
-    "Babu老師想法整理.md",
-    "Project/Fusion Project/Paper List.md",
-    "Project/Fusion Project/New Terms.md",
-    "Project/Fusion Project/Ideas.md",
-    "=Daily Record/25-03/25-03-W3.md",
-    "=Weekly Report/25-03/25-03-W1 =PR=.md",
-    "Project/Fusion Project/paper/Give Me a Hand- Improving the Effectiveness of Near-field Augmented Reality Interactions By Avatarizing Users' End Effectors.md",
-    "Knowledge/Notes/ANOVA.md",
-    "=Weekly Report/25-03/25-03-W2 =PR=.md",
-    "=Daily Record/25-03/25-03-W2.md",
-    "=Daily Record/25-03/25-03-W1.md",
-    "Project/Fusion Project/paper",
-    "=Weekly To-do/25-03/25-03-W2.md",
-    "conflict-files-obsidian-git.md",
-    "論文寫法.md",
-    "Paper/Maps/Paper List.md",
-    "=Weekly To-do/25-03",
-    "=Weekly To-do",
-    "_Template/Daily Record Template.md",
-    "Project/Pseudo Haptics/Information of Pseudo Haptics.md",
-    "Project/Fusion Project",
+    "Project/Fusion Project/Babu老師想法整理.md",
+    "Project/Fusion Project/Visual-Audio Spatial Perception.md",
+    "如何寫出有效的研究計畫書.md",
+    "Untitled.md",
     "碩士論文研究方向申請書.md",
-    "Project/Pseudo Haptics/Paper List 1-5.md",
-    "Project/報告技巧.md",
+    "論文寫法.md",
     "Project/Pseudo Haptics/Paper List 6-10.md",
-    "=Weekly Report/25-03",
+    "Project/Pseudo Haptics/Paper List 1-5.md",
+    "Project/Pseudo Haptics/Information of Pseudo Haptics.md",
+    "Project/Point of Subjective Equality/Collected Information.md",
+    "Project/Point of Subjective Equality/Challenges and Response.md",
+    "Project/Point of Subjective Equality/25-01 =Proposal 1=.md",
+    "Project/_Searching/Google Scholar - Terms Record.md",
+    "Project/_Searching/Google Scholar - Alternatives to PSE.md",
+    "Project/_Searching/Conference or Journal.md",
+    "Project/_Searching/_Organized by Topic.md",
+    "Project/_Searching/Perplexity - Deep Research - Audio Visual Spatial Perception.md",
+    "報告技巧.md",
     "_Archive/Daily Path of Thinking/25-02-22.md",
     "_Archive/Daily Path of Thinking/25-02-21.md",
+    "=Daily Record/25-03/25-03-W3.md",
+    "=Weekly Report/25-03/25-03-W2 =PR=.md",
+    "_Template/Weekly Template.md",
+    "=Weekly To-do/25-03/25-03-W2.md",
+    "Knowledge/Others/Terms.md",
+    "Knowledge/Others/MRTK2.md",
+    "Project/Fusion Project/paper",
+    "=Weekly To-do/25-03",
+    "=Weekly To-do",
+    "Project/Fusion Project",
+    "=Weekly Report/25-03",
     "_Archive/Daily Path of Thinking",
     "_Archive",
-    "=Weekly Report/25-02/25-02-W4 =PR= ToH Start.md",
-    "=Weekly Report/25-02/25-02-24 =PR= Focus on my task while searching for papers.md",
     "=Weekly Report/25-02",
     "Project/Point of Subjective Equality/_Resources/Pasted image 20250201194926.png",
     "Project/Point of Subjective Equality/_Resources",
     "Project/Pseudo Haptics",
-    "Paper/Notes/_Resources/Pasted image 20250214173955.png",
-    "Paper/Notes/_Resources/Pasted image 20250114193924.png",
-    "Paper/Notes/_Resources/Pasted image 20250110000748.png",
-    "Paper/Notes/_Resources/Pasted image 20250109234409.png",
+    "Project/_Paper/Notes/_Resources/Pasted image 20250214173955.png",
+    "Project/_Paper/Notes/_Resources/Pasted image 20250114193924.png",
+    "Project/_Paper/Notes/_Resources/Pasted image 20250110000748.png",
+    "Project/_Paper/Notes/_Resources/Pasted image 20250109234409.png",
     "Knowledge/Notes/_Resources/Pasted image 20250115213621.png",
     "Idea/_Resources/Pasted image 20250201194926.png"
   ]

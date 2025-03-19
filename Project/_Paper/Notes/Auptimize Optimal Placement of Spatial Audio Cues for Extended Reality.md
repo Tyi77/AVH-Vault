@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[Paper/Maps/Paper List]]"
+  - "[[Project/_Paper/Maps/Paper List]]"
 date: 2024-12
 publication: UIST
 p-date: 2024-10

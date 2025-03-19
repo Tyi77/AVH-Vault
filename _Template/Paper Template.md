@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[Paper/Maps/Paper List]]"
+  - "[[Project/_Paper/Maps/Paper List]]"
 date: 
 publication: 
 p-date: 
