@@ -1,0 +1,5 @@
+- 先以VR的角度做，再把現實狀況考慮進來，思考MR中的內容
+- 當三個不同的感官不一致時，要如何透過PSE的技巧來確認使用者感知到的一致點在哪裡？
+- VR中的空間感知問題
+	- 不同的Avatar會如何影響空間感知
+- Depth perception, Distance Perception, spatial localization, spatial updating
