@@ -28,5 +28,4 @@ Hypothesis
 - TUI (Tangible User Interface)
 	- 未來要多看使用真實物品來增進MR體驗的論文
 - Metaphoric vs Isomorphic hand interaction
-
 #### Give me a Hand
