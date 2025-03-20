@@ -41,16 +41,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Template/Knowledge Template.md",
+                "file": "Project/Fusion Project/Babu老師想法整理.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Knowledge Template"
+              "title": "Babu老師想法整理"
+            }
+          },
+          {
+            "id": "18cb3895a0d8eec8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Knowledge/Notes/Latin Square Design.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Latin Square Design"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -198,15 +212,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "756d83644e76a802",
+  "active": "18cb3895a0d8eec8",
   "lastOpenFiles": [
-    "Knowledge/Notes/Closed-loop vs Open-loop Tasks.md",
+    "Project/Fusion Project/paper/Give Me a Hand- Improving the Effectiveness of Near-field Augmented Reality Interactions By Avatarizing Users' End Effectors.md",
+    "Knowledge/Notes/Latin Square Design.md",
+    "如何寫出有效的研究計畫書.md",
     "Project/Fusion Project/Babu老師想法整理.md",
+    "=Weekly Report/25-03/25-03-W1 =PR=.md",
+    "=Weekly Report/25-03/25-03-W2 =PR=.md",
+    "Knowledge/Notes/Closed-loop vs Open-loop Tasks.md",
+    "_Template/Knowledge Template.md",
     "=Daily Record/25-03/25-03-W3.md",
     "=Weekly Report/25-03/25-03-W3.md",
     "_Template/Weekly Template.md",
     "_Template/Daily Record Template.md",
-    "如何寫出有效的研究計畫書.md",
     "報告技巧.md",
     "碩士論文研究方向申請書.md",
     "論文寫法.md",
@@ -227,11 +246,6 @@
     "Project/_Paper/Notes/Imperceptible manipulation of lateral camera motion for improved virtual reality applications.md",
     "Project/_Paper/Notes/Enhancing Existing Reality- A Theoretical Analysis of User-focused Mixed Reality Research.md",
     "Project/_Paper/Notes/Detection Thresholds for Rotation and Translation Gains in 360  Video-based Telepresence Systems.md",
-    "Project/_Paper/Notes/Crossmodal influences on visual perception.md",
-    "Project/_Paper/Notes/Causal inference in multisensory perception.md",
-    "Project/_Paper/Notes/Auptimize Optimal Placement of Spatial Audio Cues for Extended Reality.md",
-    "Project/_Paper/Maps/Papers I deep in.md",
-    "Project/_Paper/Maps/Paper List.md",
     "Project/_Paper/Notes",
     "Project/_Paper/Maps",
     "Project/_Paper/Drafts",

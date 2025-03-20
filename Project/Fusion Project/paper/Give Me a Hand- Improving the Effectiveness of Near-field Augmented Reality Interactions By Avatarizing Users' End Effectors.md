@@ -11,7 +11,10 @@ tags:
 # Linked Paper
 # Knowledge
 # Key Idea
+-  3（增強手部表示）×2（障礙物密度）×2（障礙物大小）×2（虛擬光強度）的多因素設計
+- Measures: Performance (計算碰撞錯誤次數)、Perceived Real Hand Visibility、Perceived Usability
 # What I learned
+- 
 # Q&A
 ---
 ## Introduction
