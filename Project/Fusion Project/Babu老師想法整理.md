@@ -5,7 +5,7 @@
 - 用一根桿子去觸碰半圓形排列的物體 (Use a rod to touch objects arranged in a semicircle.)
 - Depth perception, Distance Perception, spatial localization, spatial updating
 ## 一句話統整
-- 多個物體半圓形排列，當其視覺刺激、聽覺刺激、觸覺刺激不一致時，人們會怎麼去評估知覺上的一致點(PSE)
+- 多個物體半圓形排列，當其視覺刺激、聽覺刺激、觸覺刺激位置上不一致時，人們會怎麼去評估知覺上的一致點 (PSE)
 - 可操控的變因
 	- Translation Gain
 	- 
