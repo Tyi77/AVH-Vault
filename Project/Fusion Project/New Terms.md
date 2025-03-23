@@ -12,6 +12,6 @@
 - Multimodal Spatial Perception
 	- [Study of Multimodal Interfaces and the Improvements on Teleoperation](https://doi.org/10.1109/ACCESS.2020.2990080)
 	- [Auditory stimuli degrade visual performance in virtual reality](https://doi.org/10.1038/s41598-020-69135-3)
-- Clibration/Training
+- Calibration/Training
 	- (私心放)[Audiovisual Training in Virtual Reality Improves Auditory Spatial Adaptation in Unilateral Hearing Loss Patients](https://doi.org/10.3390/jcm12062357)
 	- 
