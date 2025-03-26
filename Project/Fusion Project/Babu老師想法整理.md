@@ -18,7 +18,3 @@
 	- 其中有很多的變因可以控制(這部分再請教授重點補充目前您和Babu老師已給的內容)
 - Multimodal fashion
 - localize the position
-
-- 可操控的變因
-	- Translation Gain
-	- 

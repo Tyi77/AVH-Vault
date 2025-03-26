@@ -1,0 +1,8 @@
+- Factors identified in Rohith and Roshan's two papers.
+	- Physicality of the pegs: P, V+P, V
+	- Translation Gain of the Hand Avatar: with or without
+	- Interaction Technique: Pinch-to-grasp or Stick-on-touch
+	- Augmented Avatar Representations: no, iconic, realistic
+	- Virtual Light Intensity
+	- Density of the objects
+	- Size of the objects

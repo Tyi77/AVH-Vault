@@ -20,6 +20,11 @@ Hypothesis
 		- Because of the force of the opposition that are provided by the thumb
 	- 效率：stick-on-touch > pinch-to-grasp
 
+| 變項         | 誰表現好                               | 誰表現差                         | 說明                            |
+| ---------- | ---------------------------------- | ---------------------------- | ----------------------------- |
+| Accuracy   | 虛擬 pegs、Co-located avatar、Pinch 技巧 | 實體 pegs、Gain avatar、Stick 技巧 | 視覺資訊越明確，越好控制                  |
+| Efficiency | Stick 技巧（快）                        | Gain avatar、Pinch 技巧（慢）      | 快不一定準，但 Stick 技巧只用一根手指，較快     |
+| Usability  | Co-located avatar 最好               | Gain avatar、No avatar 较差     | 有 avatar 時，使用者更清楚自己在做什麼、感覺更自然 |
 =結論與未來建議=
 
 =個人評價=

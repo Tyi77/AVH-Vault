@@ -4,4 +4,4 @@
 	- 可能可以測使用者物體被拋出後，覺得物體投出距離**比想像中的遠還是近**
 	- 這樣的想法一定跟 mass perception 有關，但跟 audio-visual spatial perception 好像關係不大
 # Idea 2
-- 
+- 因為 Gain-based avatar 在 Accuracy, Efficiency 和 Usability 都比較差，而MR很在意這三種measure，所以我建議不要把 Gain-based avatar 放進研究中

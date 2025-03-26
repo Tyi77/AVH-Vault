@@ -1,3 +1,12 @@
+## Factors identified in Rohith and Roshan's two papers.
+- Physicality of the pegs: P, V+P, V
+- Translation Gain of the Hand Avatar: with or without
+- Interaction Technique: Pinch-to-grasp or Stick-on-touch
+- Augmented Avatar Representations: no, iconic, realistic
+- Virtual Light Intensity
+- Density of the objects
+- Size of the objects
+---
 - style of the pointer
 	- stick
 	- different styles of the virtual hand
@@ -18,8 +27,5 @@
 	- 客觀像準確度之類的，主觀像可用性問卷、Interview
 ---
 - Between-Subject 和 Within-Subject 的差別
-- between-subject 裡的每一組的人數、人的特性等變因應該要被控制成一樣
+	- between-subject 裡的每一組的人數、人的特性等變因應該要被控制成一樣
 ---
-## General Experiment Setting
-- 場景：一個弧形的裝置，裝置上間隔一段距離就有一個可以互動的物體(什麼物體)，它可以是（純虛擬 | 混合實與虛 | 純實）
-	- 變量：物體的方位角(Azimuth)
