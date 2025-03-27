@@ -25,6 +25,8 @@
 	- Increase/Decrease the number of the virtual light sources.
 - 客觀或主觀的指標
 	- 客觀像準確度之類的，主觀像可用性問卷、Interview
+	- 主觀
+		- PSSUQ: Usability
 ---
 - Between-Subject 和 Within-Subject 的差別
 	- between-subject 裡的每一組的人數、人的特性等變因應該要被控制成一樣
