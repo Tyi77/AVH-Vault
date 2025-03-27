@@ -1,0 +1,1 @@
+- 實驗PSE數值時，要多少個數據點才夠，讓psychometric function能更符合真實情況？
