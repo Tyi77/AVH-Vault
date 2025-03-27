@@ -8,4 +8,4 @@
 # Idea 3 (Semi-circular arrangement)
 - Spatial displacement/incongruence between AVH stimuli
 - 有人做過了，[[Studying the Effects of Congruence of Auditory and Visual Stimuli on Virtual Reality Experiences]]
-- 
+- 那 translation-gain 和 spatial localization 呢？
