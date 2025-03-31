@@ -6,6 +6,6 @@
 # Idea 2
 - VR 中使用 pseudo-haptics 的技術操控 mass perception 時，不同重量的物體會有不同的位移量，那對於使用者來說，他所定位到的位置是...
 # Idea 3 (Semi-circular arrangement)
-- Spatial displacement/incongruence between AVH stimuli
+- Spatial displacement/incongruence between AV stimuli
 - 有人做過了，[[Studying the Effects of Congruence of Auditory and Visual Stimuli on Virtual Reality Experiences]]
 - 那 translation-gain 和 spatial localization 呢？
