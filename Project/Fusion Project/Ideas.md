@@ -9,3 +9,5 @@
 - Spatial displacement/incongruence between AV stimuli
 - 有人做過了，[[Studying the Effects of Congruence of Auditory and Visual Stimuli on Virtual Reality Experiences]]
 - 那 translation-gain 和 spatial localization 呢？
+# Idea 4
+- 鋼琴有不同的按鍵，電子琴本身不會發出聲音，因此可以用來操控會發出跟不會發出的聲音的差別
