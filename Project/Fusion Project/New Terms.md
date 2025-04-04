@@ -1,0 +1,17 @@
+- perceptuomotor calibration
+- depth perception
+- spatial updating
+- spatial localization
+- perception-action with avatars in XR (VR, AR, MR).
+## Paper List
+- Spatial Updating
+	- [Spatial updating in virtual reality for reproducing object locations in vista space—Boundaries, landmarks, and idiothetic cues](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2023.1144861/full)
+	- [Updating the remembered position of targets following passive lateral translation](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0316469)
+	- [Spatial updating of allocentric landmark information in real-time and memory-guided reaching](https://www.sciencedirect.com/science/article/pii/S0010945219304277?dgcid=api_sd_search-api-endpoint)
+	- [Teleporting through virtual environments: Effects of path scale and environment scale on spatial updating](https://doi.org/10.1109/TVCG.2020.2973051)
+- Multimodal Spatial Perception
+	- [Study of Multimodal Interfaces and the Improvements on Teleoperation](https://doi.org/10.1109/ACCESS.2020.2990080)
+	- [Auditory stimuli degrade visual performance in virtual reality](https://doi.org/10.1038/s41598-020-69135-3)
+- Calibration/Training
+	- (私心放)[Audiovisual Training in Virtual Reality Improves Auditory Spatial Adaptation in Unilateral Hearing Loss Patients](https://doi.org/10.3390/jcm12062357)
+	- 

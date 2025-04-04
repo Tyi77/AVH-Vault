@@ -1,0 +1,33 @@
+## Factors identified in Rohith and Roshan's two papers.
+- Physicality of the pegs: P, V+P, V
+- Translation Gain of the Hand Avatar: with or without
+- Interaction Technique: Pinch-to-grasp or Stick-on-touch
+- Augmented Avatar Representations: no, iconic, realistic
+- Virtual Light Intensity
+- Density of the objects
+- Size of the objects
+---
+- style of the pointer
+	- stick
+	- different styles of the virtual hand
+	- controller
+		- laser
+		- physical-hand like
+- rotation gain
+	- To generate the offset between the physical and the virtual hand
+- physical objects / virtual objects
+- Feedback of the touch
+	- with / without a sound
+	- with / without a vibration
+- Representation of the Augmented Avatars
+	- No Augmented Avatar | Iconic Augmented Avatar | Realistic Augmented Avatar
+- Intensity of the virtual light.
+	- Increase/Decrease the number of the virtual light sources.
+- 客觀或主觀的指標
+	- 客觀像準確度之類的，主觀像可用性問卷、Interview
+	- 主觀
+		- PSSUQ: Usability
+---
+- Between-Subject 和 Within-Subject 的差別
+	- between-subject 裡的每一組的人數、人的特性等變因應該要被控制成一樣
+---
