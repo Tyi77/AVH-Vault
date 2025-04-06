@@ -11,3 +11,4 @@
 - 那 translation-gain 和 spatial localization 呢？
 # Idea 4
 - 鋼琴有不同的按鍵，電子琴本身不會發出聲音，因此可以用來操控會發出跟不會發出的聲音的差別
+- 當琴鍵按下去之後
