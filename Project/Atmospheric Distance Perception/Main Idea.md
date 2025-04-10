@@ -7,3 +7,7 @@
 	- imaginary walking
 		- 詢問使用者是否走的到？
 	- 三角測量的方式triangible measure
+## Mist Settings
+> Particle System
+- The Velocity of the mist Flow
+- The Visibility of the mist
