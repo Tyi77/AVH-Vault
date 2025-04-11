@@ -1,0 +1,11 @@
+- 標準化霧的量度
+- 遊戲參數如何對應物理參數
+- 參考製造霧的論文
+- 尋找大氣中霧的參數
+- 場景condition的定義
+- 參數不要太多
+- 濕度、濃度、風速、水珠顆粒大小
+- 光線會有散射的情況
+	- lighting probe
+	- volume rendering
+	- participating media
