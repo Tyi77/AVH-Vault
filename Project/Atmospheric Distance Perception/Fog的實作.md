@@ -12,3 +12,8 @@
 	- 濕度：
 	- 濃度/可見度/可透光度：
 	- 流動速度：
+- 光的一些vu
+## 論文閱讀
+- Why fog increases the perceived speed
+	- Fog是用一個decrease數學模型模擬出來的
+	- 這個明天再來仔細看
