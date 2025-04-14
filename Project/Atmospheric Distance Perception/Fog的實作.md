@@ -2,7 +2,7 @@
 	- URP
 		- 2020.3 - 已經有fog的實作只是要看裡面的參數在物理意義上代表什麼
 		- 2022 - 在VR上的支援可能比2020的還多
-		- Unity6 - 最新的Unity版本
+		- ~~Unity6 - 最新的Unity版本~~ (決定不用這個版本，還不太穩定)
 	- HDRP
 		- 有現成的 Fog Volume Shader 可用
 			- 但問題是 Quest 3 是 Stand alone 的 VR，效能限制無法使用 HDRP
