@@ -1,0 +1,7 @@
+- Two things to do 
+	- Fog
+		- How to simulate the fog?
+		- How to bind the physical properties of real fog to game simulation parameters?
+		- Which features do we use in the research?
+- Distance Measurement Methods
+	- How does the user report an object at a far distance?
