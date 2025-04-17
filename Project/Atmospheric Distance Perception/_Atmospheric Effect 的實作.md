@@ -12,23 +12,33 @@
 ## Sky Box
 - 我覺得可以使用 Physical Sky Box 以真實的模擬自然界天空的場景
 - Physical Sky Box 的設置
+	- 原本的，不用勾選override
 - Cloud 的設置
+	- 關閉 Cloud layer
 ## Fog的實作
 > [2020.3社群的實作](https://www.reddit.com/r/Unity3D/comments/rioi8d/released_a_free_pseudovolumetric_textureless/?utm_source=chatgpt.com)
 - 在真實世界中會影響 Fog 的參數
 	- 濕度、氣壓、氣溫、地形、風速、凝結核
-- Fog 在真實物理意義上對應的遊戲參數
-	- 濕度/濃度/可見度/可透光度：Fog Attenuation Distance
 - 相關參數
 	- Fog本身
-		- 濕度/濃度/能見度(Visibility)
+		- **能見度(Visibility)**
 			- 能清楚見到的距離 (Fog Attenuation Distance)
-		- 顆粒的顏色(Color)
+				- Attenuation Length 在物理上的定義為光的強度衰減至原本強度的 1/e 時所需要的距離。此強度大約是36.8%，而被吸收的強度大約是63.2%。
+				- 此參數的設計照著這樣的定義
+		- **顆粒的顏色(Color)**
 			- Color Mode - Sky Color
 			- Volumetric Fog
 				- Albedo - Change the color here
 	- Light Source
-		- 光的強度：Day/Night
+		- **光的強度：Day/Night**
+			- 照著 Physical Sky Box 的設置
+#### 濕度
+- 濕度是怎麼做計算的？
+	- 
+- Unity有辦法精確到說我濕度數值多少，分別代表哪個數值多少嗎？
+	- 不行，頂多做能見度的計算
+- 那有辦法把濕度對應到能見度的數值嗎？
+	- Unity那個是過了
 #### 論文閱讀
 - Why fog increases the perceived speed
 	- Fog是用一個decrease數學模型模擬出來的
