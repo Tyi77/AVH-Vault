@@ -15,16 +15,18 @@
 - Cloud 的設置
 ## Fog的實作
 > [2020.3社群的實作](https://www.reddit.com/r/Unity3D/comments/rioi8d/released_a_free_pseudovolumetric_textureless/?utm_source=chatgpt.com)
+- 在真實世界中會影響 Fog 的參數
+	- 濕度、氣壓、氣溫、地形、風速、凝結核
 - Fog 在真實物理意義上對應的遊戲參數
-	- 濕度：
-	- 濃度/可見度/可透光度：
-	- 流動速度：
+	- 濕度/濃度/可見度/可透光度：Fog Attenuation Distance
 - 相關參數
 	- Fog本身
-		- 能見度(Visibility)
+		- 濕度/濃度/能見度(Visibility)
 			- 能清楚見到的距離 (Fog Attenuation Distance)
 		- 顆粒的顏色(Color)
-			- Color Mode - Tint
+			- Color Mode - Sky Color
+			- Volumetric Fog
+				- Albedo - Change the color here
 	- Light Source
 		- 光的強度：Day/Night
 #### 論文閱讀
