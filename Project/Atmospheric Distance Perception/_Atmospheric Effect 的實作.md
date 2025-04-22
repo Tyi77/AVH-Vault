@@ -46,7 +46,7 @@
 	- Fog是用一個decrease數學模型模擬出來的
 	- 這個明天再來仔細看
 - ==Babu老師的論文==
-	- 跟測量方法有
+	- 跟測量方法有關
 ## Rain的實作
 - 相關參數
 	- droplit size、speed
