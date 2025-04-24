@@ -24,7 +24,10 @@
   ![[Pasted image 20250424150525.png]]
 	- 這邊的飽和曲線就是點出在固定的大氣氣壓下，水蒸氣壓為多少時，溫度為多少時空中的水氣達到飽和，相對濕度達到100%，水氣開始凝結成水滴
 	- 而此溫度就是露點溫度
- -  心理濕度公式（Psychrometric equation）
-	 - $$e = e' - \gamma (T_d - T_w)\ ,\quad \text{RH} = \frac{e}{e_s(T_d)} \times 100$$
-	 - $e^′$：飽和水氣壓 at $T_w$（可查表）
+-  心理濕度公式（Psychrometric equation）
+	- $$e = e' - \gamma (T_d - T_w)\ ,\quad \text{RH} = \frac{e}{e_s(T_d)} \times 100$$
+	- $T_d$​：乾球溫度（Dry-bulb temperature, °C）
+	- $T_w$​：濕球溫度（Wet-bulb temperature, °C）
+	- $e^′$：飽和水氣壓 at $T_w$（可查表）
 	- $\gamma$：心理常數，約為 0.00066 × P（P 為氣壓，單位 hPa）
+	- $e_s$：乾球溫度下的飽和水氣壓
