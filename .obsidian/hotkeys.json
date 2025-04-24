@@ -85,7 +85,7 @@
       "key": "`"
     }
   ],
-  "editor:cycle-list-checklist": [
+  "editor:toggle-bullet-list": [
     {
       "modifiers": [
         "Mod",
