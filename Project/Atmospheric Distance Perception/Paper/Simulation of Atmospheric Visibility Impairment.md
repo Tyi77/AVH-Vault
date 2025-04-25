@@ -1,0 +1,18 @@
+- 合成影像：**Unity** 或 **Unreal Engine**：SYNTHIA、Virtual KITTI、Sim4CV、CARLA
+- Koschmieder’s Law（科施密德定律）$$L(λ)=L_0​(λ)⋅e^{−b(λ)⋅d}+A(λ)⋅(1−e^{−b(λ)⋅d})$$	
+	- $L(λ)$ : 觀察到的亮度
+	- $L_0​(λ)$ : 清晰場景的亮度
+	- $A(λ)$ : 地平線天空亮度
+	- $b(λ)$ : 消光係數（extinction coefficient）
+	- $d$ : 觀察距離
+	- $\lambda$ : 光波波長（可為 RGB）
+- Duntley’s Law（唐特利定律）$$L(λ)=L_0​(λ)⋅e^{−b(λ)⋅d}+\frac{L_a​(λ)}{b(λ)}​⋅(1−e^{−b(λ)⋅d})$$
+	- $L_a​(λ)$: 空氣本身的亮度（吸收後的背景光）
+- 光的指數衰減
+	- 來自此微分方程 $$\frac{dL(x)}{dx}​=−b⋅L(x)$$ 其通解為 $$L(x)=L_0\ e^{−bx}$$
+		- $L_0$ : 為一個常數，放在這裡可以代表光完全沒衰減的那個==起始值==
+- 上面的公式都是 **輻射傳輸方程（Radiative Transfer Equation, RTE）** 的簡化版
+- 消光是什麼
+	- Extinction= Absorption + Scattering
+		- 吸收+散射
+- Mie 散射
