@@ -1,18 +1,36 @@
 - 合成影像：**Unity** 或 **Unreal Engine**：SYNTHIA、Virtual KITTI、Sim4CV、CARLA
-- Koschmieder’s Law（科施密德定律）$$L(λ)=L_0​(λ)⋅e^{−b(λ)⋅d}+A(λ)⋅(1−e^{−b(λ)⋅d})$$	
-	- $L(λ)$ : 觀察到的亮度
-	- $L_0​(λ)$ : 清晰場景的亮度
-	- $A(λ)$ : 地平線天空亮度
-	- $b(λ)$ : 消光係數（extinction coefficient）
-	- $d$ : 觀察距離
-	- $\lambda$ : 光波波長（可為 RGB）
-- Duntley’s Law（唐特利定律）$$L(λ)=L_0​(λ)⋅e^{−b(λ)⋅d}+\frac{L_a​(λ)}{b(λ)}​⋅(1−e^{−b(λ)⋅d})$$
-	- $L_a​(λ)$: 空氣本身的亮度（吸收後的背景光）
+- Koschmieder’s Law（科施密德定律）
+	- 定義：$$L(λ)=L_0​(λ)⋅e^{−b(λ)⋅d}+A(λ)⋅(1−e^{−b(λ)⋅d})$$	
+		- $L(λ)$ : 觀察到的亮度
+		- $L_0​(λ)$ : 清晰場景的亮度
+		- $A(λ)$ : 地平線天空亮度
+		- $b(λ)$ : 消光係數（extinction coefficient）
+		- $d$ : 觀察距離
+		- $\lambda$ : 光波波長（可為 RGB）
+	- 需要的條件 (PP. 4-5)
+		- This law applies only to ==horizontal vision.== otherwise, the extinction coefficient b(λ) cannot be considered as a constant along the sight path.
+		- It applies only to ==non-absorbing atmosphere==. In other words, if the atmospheric absorption should be taken into account, this law cannot be used.
+		- It assumes that the surface of the earth is considered as a ==uniform horizontal plane==
+			- 確保背景亮度(Ambient Light)一致
+		- The ==extinction coefficient (with respect to a specific light wavelength) is constant== in the horizontal plane along the sight path.
+			- 假設空氣是均勻的
+		- The linear dimensions of the object are small in comparison to its distance from the observer.
+			- 確保觀測目標不影響大氣均勻性
+- Duntley’s Law（唐特利定律
+	- 定義：$$L(λ)=L_0​(λ)⋅e^{−b(λ)⋅d}+\frac{L_a​(λ)}{b(λ)}​⋅(1−e^{−b(λ)⋅d})$$
+		- $L_a​(λ)$: 空氣本身的亮度（吸收後的背景光）
 - 光的指數衰減
 	- 來自此微分方程 $$\frac{dL(x)}{dx}​=−b⋅L(x)$$ 其通解為 $$L(x)=L_0\ e^{−bx}$$
+		- $L(x)$ : 為達到觀察者剩餘的光強度
 		- $L_0$ : 為一個常數，放在這裡可以代表光完全沒衰減的那個==起始值==
+		- $b$ : 消光係數
+		- $x$ : 光從目標到觀察者的距離
 - 上面的公式都是 **輻射傳輸方程（Radiative Transfer Equation, RTE）** 的簡化版
 - 消光是什麼
 	- Extinction= Absorption + Scattering
 		- 吸收+散射
+	- 消光係數如何得出
+		- 簡易版本
+			- $v = -\cfrac{\ln{0.05}}{b(\lambda)\big|_{\lambda=550\,nm}}$
+			- $b(λ)=\cfrac{−ln(0.05)​}{v}≈\cfrac{3}{v}​$
 - Mie 散射
