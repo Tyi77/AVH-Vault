@@ -1,0 +1,9 @@
+- depth information
+- 3d -> 2d images
+- Quantification
+- density of the fog : extinction coefficient
+	- attenuate
+	- visibility
+	- particle / volume ratio
+- cloud simulation
+- s
