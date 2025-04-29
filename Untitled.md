@@ -6,4 +6,12 @@
 	- visibility
 	- particle / volume ratio
 - cloud simulation
-- s
+- motivation
+	- light/strong snow simulation
+- scattering of the fog particles
+- density(particles in the volume), color of the targets(contrast), emit/no-emit, what proportion is occluded by the fog.
+	- proportion is occluded by the fog: one part of the target
+- Targets
+	- Colors
+	- Transparency
+- 
