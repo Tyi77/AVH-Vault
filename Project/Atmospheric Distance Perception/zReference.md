@@ -1,4 +1,5 @@
 ## Paper
+### Atmospheric Effect
 - https://dl.acm.org/doi/10.1145/3385955.3407933
 	- 實驗場景
 		- 使用者可以看到自己真實的身體，而環境為綠幕製成的虛擬山谷
@@ -19,3 +20,6 @@
 	- **量度方式的理解**
 	- 他為什麼要有參考物
 - https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.1061917/full
+### Distance Measurement Method
+- [Distance perception in real and virtual environments](https://dl.acm.org/doi/abs/10.1145/1077399.1077402)
+- 
