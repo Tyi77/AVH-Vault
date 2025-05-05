@@ -34,3 +34,102 @@
 			- $v = -\cfrac{\ln{0.05}}{b(\lambda)\big|_{\lambda=550\,nm}}$
 			- $b(λ)=\cfrac{−ln(0.05)​}{v}≈\cfrac{3}{v}​$
 - Mie 散射
+---
+## Abstract
+- 目標：解決深度模型在不同天氣場景底下，缺乏高品質訓練資料的問題
+- 解決方案：以模擬的方式，從清晰場景生成不同天氣的圖片
+- 包含薄霧（mist）、濃霧（fog）、自然霾（natural haze）、煙霧（smog）與亞洲沙塵（Asian dust）
+## Introduction
+- 其他人的問題
+	- 過於簡化的物理模型，缺乏考慮「大氣顆粒吸收」的物理現象
+	- 違反了Koschmieder's Law的前提
+	- 視覺上不自然、色調不對、亮度不一致
+- 此論文的方法
+	- 從大氣科學出發檢視模型問題
+	- 利用這些模型建立高品質的合成影像
+## Related Work
+### Existing Studies for Atmospheric Visibility Impairment Simulation
+- 大部分都是使用 Koschmieder's Law 來實踐霧氣的模擬
+- 其他論文的缺點
+	- 深度圖不精確
+	- 天空亮度估計不對
+### Our Motivations and Contribution
+- 綜觀大氣能見度劣化模擬的研究，有三大問題
+	- 未清楚區別霧氣(Fog)和霾(Haze)：兩者的物理性質不同
+		- 霧氣不會吸收光線只會散射光線，霾會吸收且散射光線
+	- 未察覺使用 Koschmieder 定律的限制條件
+	- 所有現有模擬工作幾乎都只針對「霧」(Fog)
+- 三大問題的貢獻
+	- 區別霧氣、霾：透過「消光係數(Extinction Coefficient)」
+		- 以光譜來看
+			- 霧氣在不同的光波下的吸收程度是一樣的
+			- 但霾在不同光波下的吸收程度是不一樣的
+			- 因此在設定消光系數時，霧氣不需考慮光的波長，霾需考慮光的波長
+		- 以吸收/散射來看
+			- 霧氣的吸收可以忽略不計，但霾不行
+	- 明確列出 Koschmieder's Law 的適用條件
+		- 若需考慮「吸收效應」，則需使用 Duntley's Law (他們是第一人引用 Duntley's Law 進入電腦領域的人)
+	- 模擬五種常見能見度劣化現象
+		- Mist, Fog, Haze, Natural Haze, Smog, Asian Dust
+## KOSCHMIEDER’S LAW AND DUNTLEY’S LAW
+- $$b(λ)=b_{Rayleigh}​(λ)+b_{scat​}(λ)+b_{abs-gas}​(λ)+b_{abs-aero}​(λ)$$
+	- $b_{Rayleigh}​(λ)$：氣體分子造成的雷利散射（造成藍天）
+	- $b_{scat}(λ)$：氣膠粒子造成的光散射
+	- $b_{abs-gas}(λ)$：氣體的吸收成分
+	- $b_{abs-aero}(λ)$：氣膠粒子的吸收成分
+- 在應用上，常會使用一個更直觀的指標「能見度（visibility）」來替代消光係數。所謂的「能見度」或「氣象視程」，與消光係數的關係如下$$v=-\cfrac{ln(0.05)​​}{b(λ)_{|λ=550nm}}​\ \ \ \ \  \ \ \ \ \  \ \ \ \ (3)$$
+- Duntley's Law 可以補足「大氣顆粒需考慮吸收」的條件
+## SCHEMES FOR ATMOSPHERIC VISIBILITY IMPAIRMENT SIMULATION
+- 通常 $b_{Rayleigh}​(λ)$ 可以忽略不計
+	- $b(λ)=b_{scat​}(λ)+b_{abs-gas}​(λ)+b_{abs-aero}​(λ)$
+- Mist
+	- Mist跟Fog的差別在於能見度，以能見度1000m為分界
+	- Mist跟Fog因為主要是由水氣所組成，所以可以忽略吸收項
+		- 因此 $b(\lambda)=b_{scat}(\lambda)$
+	- 由於霧中水滴尺寸明顯大於光線波長，因此 $b_{scat}(\lambda)$ 不具波長依賴性，可用幾何光學直接近似散射
+		- $b_{scat}(\lambda)=b_{scat}$ : 消光係數變成一個常數
+	- 因為沒有吸收，所以可以直接由 Koschmieder's Law 近似，而b可以直接透過設定visibility來取值
+- Fog
+	- 用更Mist一樣的模擬公式
+	- Homogeneous Fog vs Heterogeneous Fog
+		- b 的數值
+			- homogeneous: b不變
+			- heterogeneous fog: b 乘上 Perlin 雜訊
+- Natural Haze
+	- 通常出現在空氣乾燥的情況下，灰塵與煙塵顆粒累積在空氣中時，造成的乳白色半透明的現象
+	- 與霧（fog）不同，**自然霾的消光係數具有波長依賴性**
+	- Natural Haze 和 Smog 的差別
+		- Natural Haze 是自然現象，沒有工業汙染
+		- Smog 是工業汙染後的結果
+	- 數學建模
+		- $b_{scat}(\lambda) = b^{NH}_{scat}(\lambda) = C⋅λ^{−γ}$
+			- 波長依賴性，所以 $\lambda$ 還在
+		- 算出C和 $\gamma$
+		- ==疑問==：為什麼C是那樣算？如何從式子3推導而來？
+	- 因為吸收忽略不計，所以還是使用 Koschmieder's Law
+- Smog
+	- 當霾因工業廢棄排放變得更加濃厚時，裡面有許多氮氣化霧、硫氧化物等廢棄物顆粒，也有各種煙塵、塵土粒子和次微米粒子，這種現象就叫做Smog
+		- Smog = Smoke + Fog
+	- 會呈現紅棕色、黃棕色：因為短波長(如藍光)被吸收，長波長穿透(如紅光)的原因
+	- 需要使用全部的b
+	- 因為包含吸收，需要使用 Duntley's Law
+- Asian Dust
+	- 黃沙組成，由強風與沙塵暴造成
+	- 根據觀測，在沙塵日，大氣中如 **Mg²⁺、K⁺、Na⁺、Ca²⁺** 等礦物離子濃度，**遠高於正常日與煙霧日**，而氮氧化物與平常日相近
+		- 因此 $b_{abs-gas}(\lambda)$ 可以忽略不計
+		- $b(\lambda) = b_{scat}(\lambda) + b_{abs-aero}(\lambda)$
+- 還有三個參數沒提及到
+	- 背景天空亮度：隨機500選一張來用
+	- 原本的亮度圖、深度圖：It depends on which platform I end up using.
+		- 深度圖：RenderDoc: Graphics Debugging Tool
+## 實驗分析
+- 如果Fog本來就不用考慮吸收問題，那他做的fog跟別人有什麼差別？
+	- 深度取得方式較好
+	- 霧場景豐富度高，不只有均勻霧
+- 客觀上的分數比別人高 (AuthESI)
+- 主觀上也比別人高
+	- 找六位受試者做五組試驗
+	- 每組：從FRIDA+和AVID-Fog個隨機取樣100張照片
+	- 結果在 Fig 7
+## 問題
+- 他所提及的物理公式有提供相對應的reference，我還沒看以確認其合理性
