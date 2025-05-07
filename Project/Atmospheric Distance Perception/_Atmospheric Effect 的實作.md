@@ -9,6 +9,7 @@
 			- 但問題是 Quest 3 是 Stand alone 的 VR，效能限制無法使用 HDRP
 				- 但有機會是在 PC 上跑遊戲，但是以Streaming的方式在 quest 3 上顯現
 			- 或是改為用實驗室中舊版的 HTC Vive Pro 或 HTC Vive Cosmos Elite
+- WRF (Weather Research and Forecasting Model)
 ## Sky Box
 - 我覺得可以使用 ==Physical Sky Box== 以真實的模擬自然界天空的場景
 - Physical Sky Box 的設置
