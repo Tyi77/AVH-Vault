@@ -19,7 +19,8 @@
 ## Fog的實作
 > [2020.3社群的實作](https://www.reddit.com/r/Unity3D/comments/rioi8d/released_a_free_pseudovolumetric_textureless/?utm_source=chatgpt.com)
 - 在真實世界中會影響 Fog 的參數
-	- 濕度、氣壓、氣溫、地形、風速、凝結核
+	- ==濕度、氣壓、氣溫、地形、風速、凝結核==
+	- ==**Humidity, Temperature, Vapor Pressure, Wind Velocity**==
 - 相關參數
 	- Fog本身
 		- **能見度(Visibility)**
