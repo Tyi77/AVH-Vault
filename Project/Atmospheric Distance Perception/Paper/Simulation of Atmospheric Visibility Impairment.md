@@ -1,3 +1,4 @@
+> [[Simulation of Atmospheric Visibility Impairment - presentation]]
 - 合成影像：**Unity** 或 **Unreal Engine**：SYNTHIA、Virtual KITTI、Sim4CV、CARLA
 - Koschmieder’s Law（科施密德定律）
 	- 定義：$$L(λ)=L_0​(λ)⋅e^{−b(λ)⋅d}+A(λ)⋅(1−e^{−b(λ)⋅d})$$	
