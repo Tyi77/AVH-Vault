@@ -88,6 +88,7 @@
 	- Mist跟Fog因為主要是由水氣所組成，所以可以忽略吸收項
 		- 因此 $b(\lambda)=b_{scat}(\lambda)$
 	- 由於霧中水滴尺寸明顯大於光線波長，因此 $b_{scat}(\lambda)$ 不具波長依賴性，可用幾何光學直接近似散射
+		- Since fog droplets are significantly larger than the wavelength of light, $b_{scat}(\lambda)$ is wavelength-independent and can be approximated using geometric optics.
 		- $b_{scat}(\lambda)=b_{scat}$ : 消光係數變成一個常數
 	- 因為沒有吸收，所以可以直接由 Koschmieder's Law 近似，而b可以直接透過設定visibility來取值
 - Fog
