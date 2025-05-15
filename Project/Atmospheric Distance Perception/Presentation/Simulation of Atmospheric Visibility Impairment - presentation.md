@@ -16,6 +16,8 @@
 ## Analysis
 - 客觀的圖片
 - 主觀的圖片
-## 心得
-- 這個方法可能不是用於3D的場景
+## Feedback
+- 這個方法可能不適用於3D的場景
 - Fog是不會動的
+- motion parallax
+- 要看看是否只有符合360 video
