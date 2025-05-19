@@ -24,7 +24,7 @@
 - 在真實世界中會影響 Fog 的參數
 	- ==濕度、氣壓、氣溫、地形、風速、凝結核==
 	- ==**Humidity, Temperature, Vapor Pressure, Wind Velocity**==
-- 相關參數
+- **相關參數**
 	- Fog本身
 		- **能見度(Visibility)**
 			- 能清楚見到的距離 (Fog Attenuation Distance)
@@ -37,6 +37,7 @@
 	- Light Source
 		- **光的強度：Day/Night**
 			- 照著 Physical Sky Box 的設置
+	- such as atmospheric particle density, object color, object emissivity, and the proportion of occlusion.
 - ==Fog的話，因為重力，所以靠近地面的地方會比較濃厚，靠近天空會比較淡==
 #### 濕度
 - 濕度是怎麼做計算的？
