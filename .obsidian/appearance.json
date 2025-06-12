@@ -1,7 +1,8 @@
 {
   "baseFontSizeAction": true,
-  "baseFontSize": 18,
-  "enabledCssSnippets": [
-    "css-obsidian"
-  ]
+  "baseFontSize": 16,
+  "enabledCssSnippets": [],
+  "cssTheme": "Obsidian Nord",
+  "theme": "system",
+  "accentColor": ""
 }
