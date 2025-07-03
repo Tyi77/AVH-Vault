@@ -1,0 +1,9 @@
+- Babu教授指定要用的Measure Methods，所以不用再找方法了
+	- Imagine Time Walking (Time-to-walk)
+	- Triangulation
+- 專注於場景建構就好
+- 可能的實驗設計
+	- 真實場景vs虛擬場景
+		- 在真實的NYCU圖書館或大樓做實驗，並建構3D模型至虛擬場景中，再做一次實驗
+		- 需要參考的論文(Tommy)
+			- Distance Perception in Real and Virtual Environments (在`papers`資料夾中)
