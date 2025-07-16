@@ -7,3 +7,4 @@
 	- **l**：光程長度 (cm)
 	- **c**：濃度 (mol L⁻¹)
 	- **I₀、Iₜ**：分別為入射光與透射光強度。
+- 公式：$dI/I = b \cdot dx$ ( $I$: Intensity, $x$: The distance from here, $b$: extinction coefficient)
