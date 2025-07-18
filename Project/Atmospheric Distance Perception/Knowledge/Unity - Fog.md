@@ -17,5 +17,49 @@ tags:
 ## 數學公式程式來源
 - **Fog override**
 	- D:\77Unity\Lab\Project\2022-3-HDRP\Library\PackageCache\com.unity.render-pipelines.high-definition@14.0.12\Runtime\Lighting\AtmosphericScattering\ **Fog.cs**
-- public **MinFloatParameter**(float value, float min, bool overrideState = false)
+#### Fog Attenuation Distance 的發掘過程
+- Fog Attenuation Distance 是 Mean Free Path 
+	```csharp
+// Fog.cs
+/// <summary>Fog mean free path.</summary>
+[DisplayInfo(name = "Fog Attenuation Distance")]
+public MinFloatParameter meanFreePath = new MinFloatParameter(400.0f, 1.0f);
+```
+- 將meanFreePath和其他參數（albedo, anisotropy）封裝起來
+	```csharp
+// Fog.cs
+LocalVolumetricFogArtistParameters param = new LocalVolumetricFogArtistParameters(albedo.value, meanFreePath.value, anisotropy.value);
+```
+- 把meanFreePath放進struct中（也就是前面的param），然後再變成extinction
+	```csharp
+// LocalVolumetricFog.cs
+public partial struct LocalVolumetricFogArtistParameters {
+	...
+	/// <summary>Mean free path, in meters: [1, inf].</summary>
+	public float meanFreePath; // Should be chromatic - this is an optimization!
+	...
+	public LocalVolumetricFogArtistParameters(Color color, float _meanFreePath, float _anisotropy) {
+		meanFreePath = _meanFreePath; // Tyi77: Set the parameter.
+	}
+	...
+}
+...
+internal LocalVolumetricFogEngineData ConvertToEngineData()
+{
+	LocalVolumetricFogEngineData data = new LocalVolumetricFogEngineData();
+
+	data.extinction = VolumeRenderingUtils.ExtinctionFromMeanFreePath(meanFreePath);
+...
+}
+
+// HDRenderPipeline.VolumetricLighting.cs
+	public static float ExtinctionFromMeanFreePath(float meanFreePath)
+	{
+		return 1.0f / meanFreePath;
+	}
+	public static Vector3 ScatteringFromExtinctionAndAlbedo(float extinction, Vector3 albedo)
+	{
+		return extinction * albedo;
+	}
+```
 
