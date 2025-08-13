@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"f155036c8ff73f88","type":"text","text":"Fog Override (Fog.cs)","x":-125,"y":-30,"width":225,"height":60,"color":"2"},
+		{"id":"7c5b1167e0dac77f","type":"text","text":"Base Height (`baseHeight`)","x":160,"y":0,"width":280,"height":60,"color":"1"},
+		{"id":"062a5207c70baaff","type":"text","text":"Maximum Height (`maximumHeight`)","x":160,"y":140,"width":280,"height":60,"color":"1"},
+		{"id":"d6c63ebb30fe63a7","x":315,"y":260,"width":250,"height":60,"color":"4","type":"text","text":"The top of the fog"},
+		{"id":"c026673058fd069d","x":440,"y":80,"width":250,"height":60,"color":"4","type":"text","text":"The bottom of the fog"},
+		{"id":"51b7496942512c6c","type":"text","text":"Fog Attenuation Distance (`meanFreePath`)","x":175,"y":-200,"width":250,"height":60,"color":"1"},
+		{"id":"e69288fbf261e35c","x":511,"y":-200,"width":250,"height":60,"color":"2","type":"text","text":""}
+	],
+	"edges":[
+		{"id":"20be7db1402a42d2","fromNode":"f155036c8ff73f88","fromSide":"right","toNode":"51b7496942512c6c","toSide":"left"},
+		{"id":"81dab250dbb8bcf0","fromNode":"7c5b1167e0dac77f","fromSide":"bottom","toNode":"c026673058fd069d","toSide":"top"},
+		{"id":"4001da00e05a27bc","fromNode":"062a5207c70baaff","fromSide":"bottom","toNode":"d6c63ebb30fe63a7","toSide":"top"},
+		{"id":"0d8bd76497e43c2e","fromNode":"51b7496942512c6c","fromSide":"right","toNode":"e69288fbf261e35c","toSide":"left"}
+	]
+}
