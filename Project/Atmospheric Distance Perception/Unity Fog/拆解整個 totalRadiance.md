@@ -1,3 +1,9 @@
+> `Gemini 2.5 Pro`
+> (Prompt)
+> 請以工程師的角度拆解並解釋這段程式碼：totalRadiance += transmittance * scattering * (phase * blendValue.rgb + probeRadiance);
+>
+> 要能告訴我每一個變數往回追溯的所有function和變數是什麼？跟Unity Editor中的哪個變數有關？
+
 好的，沒有問題。身為工程師，我們來對 `totalRadiance += transmittance * scattering * (phase * blendValue.rgb + probeRadiance);` 這行程式碼進行一次最徹底的「逆向工程」，追溯每一個變數的完整生命週期，並將它們與 Unity Editor 中的參數一一對應。
 
 這行程式碼是體積渲染方程積分式的核心實現，發生在 `VolumetricLighting.compute` 的主迴圈中，其目的是計算單一「體素薄片」所貢獻的光量，並將其累加。
@@ -8,7 +14,7 @@
 
 #### 1. `totalRadiance`
 
-- **定義**: 一個 `float3` 變數，作為累加器使用 1。它的初始值為 0 2。在迴圈的每一步，它都會累加上當前體素薄片貢獻的亮度，最終成為該視線路徑上的總「Fog Luminance」。
+- **定義**: 一個 `float3` 變數，作為累加器使用 1。它的初始值為 0。在迴圈的每一步，它都會累加上當前體素薄片貢獻的亮度，最終成為該視線路徑上的總「Fog Luminance」。
     
 - **追溯**: 它的值完全由 `+=` 運算子右側的所有變數決定。
     

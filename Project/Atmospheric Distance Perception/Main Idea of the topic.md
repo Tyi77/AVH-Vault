@@ -13,3 +13,9 @@
 - The Velocity of the mist Flow
 - The Visibility of the mist
 - The Color of the mist
+## Target
+- Hypothesis Equation.
+- Know the implementation of Unity.
+- Check Visibility
+	- Whether the transformation equation between the visibility and the extinction is usable?
+		- No. Because that visibility just only consider the horizontal vision but no vertical vision.
