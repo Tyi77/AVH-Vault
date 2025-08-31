@@ -1,0 +1,7 @@
+- `_VBufferDensity`
+	- .rgb: scattering的顏色
+	- .a: extinction coefficient
+- `_VBufferLighting`
+	- .rgb
+- `volfog`
+	- 
