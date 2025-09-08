@@ -1,0 +1,3 @@
+- final color 在哪裡?
+	- `AtmosphericScattering.hlsl` `EvaluateAtmosphericScattering`
+	- 
