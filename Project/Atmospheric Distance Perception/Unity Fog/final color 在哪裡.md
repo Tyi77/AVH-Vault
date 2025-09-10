@@ -14,6 +14,15 @@
 	- `OpaqueAtmosphericScattering.shader` 一定會被呼叫到。如果場景中沒有物體，那就會以天空為物體，深度資訊就會是無窮遠，而此相關函數可以處理無窮遠這種特例的情況。
 	- 不同的Frag() Function 是依據是否有MSAA和PBR來分的。目前一定沒有PBR，因為Unity還沒Implement出來。而MSAA需要硬體資源再開才好。因此目前設定是沒有MSAA和PBR的純 Frag() Function。
 ## 3. `EvaluateAtmosphericScattering()` 裡在做什麼？
+- `fogFragDist`: 目標與camera的直線距離
+- 如果 Fog Override 有被啟用，執行以下程式碼
+	- `volFog`: 計算後的顏色
+	- `expFogStart`: 它儲存了 V-Buffer 所能及的最遠距離。所有超出這個距離的像素，都需要用下面的「遠處霧」來補足
+	- 如果 Volumetric Fog 有被啟用，執行以下程式碼
+		- SampleVBuffer(): 重點function，建造Height Fog 的核心funtion
+		- DelinearizeRGBA(): 把線性顏色值轉換回顯示用的顏色空間
+	- 如果 `distDelta > 0` (i.e. 像素的距離超出了體積霧的範圍`expFogStart`)
+		- 
 
 
 ---
