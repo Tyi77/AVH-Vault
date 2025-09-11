@@ -22,7 +22,8 @@
 		- SampleVBuffer(): 重點function，建造Height Fog 的核心funtion
 		- DelinearizeRGBA(): 把線性顏色值轉換回顯示用的顏色空間
 	- 如果 `distDelta > 0` (i.e. 像素的距離超出了體積霧的範圍`expFogStart`)
-		- 
+### 整理資訊
+- 如果Volumetric Fog沒有被啟用的話，因為`expFogStart`都會是0，所以一定會執行fall back的那段程式碼。
 
 
 ---
