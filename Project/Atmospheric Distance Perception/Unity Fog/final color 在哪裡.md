@@ -24,16 +24,31 @@
 	- 如果 `distDelta > 0` (i.e. 像素的距離超出了體積霧的範圍`expFogStart`)
 ### 整理資訊
 - 如果Volumetric Fog沒有被啟用的話，因為`expFogStart`都會是0，所以一定會執行fall back的那段程式碼。
+## 4. `SampleVBuffer()`
 
+| 參數名稱                     | 類型                      | 描述                                            |
+| ------------------------ | ----------------------- | --------------------------------------------- |
+| TEXTURE3D_ARGS(tex, smp) | Texture3D, SamplerState | 要取樣的 3D 體積紋理 (_VBufferLighting) 及其取樣器狀態。      |
+| positionNDC              | float4                  | 螢幕空間的正規化裝置座標 (Normalized Device Coordinates)。 |
+| viewDist                 | float                   | 視點到片元的距離。                                     |
+| viewportSize             | float4                  | 包含 VBuffer 檢視區大小資訊 (寬、高、寬的倒數、高的倒數)。           |
+| viewportScale            | float3                  | VBuffer 檢視區的縮放比例。                             |
+| viewportLimit            | float3                  | VBuffer 檢視區的邊界限制。                             |
+| distanceEncodingParams   | float4                  | 用於將線性距離編碼為非線性 VBuffer 深度的參數。                  |
+| distanceDecodingParams   | float4                  | 用於將 VBuffer 深度解碼回線性距離的參數。                     |
+| useTrilinear             | bool                    | 是否使用三線性過濾。                                    |
+| useBicubic               | bool                    | 是否使用雙三次方過濾進行重建。                               |
+| useAnisotropy            | bool                    | 是否考慮非等向性散射。                                   |
 
+---
 ---
 `ShaderPassForward.hlsl -> `EvaluateAtmosphericScattering()`
 
-| 參數名稱 | 類型 | 描述 |
-| :--- | :--- | :--- |
-| renderGraph | RenderGraph | Render Graph 系統的實例，用於排程和執行此渲染通道。 |
-| hdCamera | HDCamera | 當前正在渲染的攝影機。它提供了所有攝影機相關的資訊，如視圖/投影矩陣、畫面設定 (Frame Settings) 和螢幕尺寸。 |
-| colorBuffer | TextureHandle | 主顏色緩衝區。這是此通道的主要輸入與輸出目標，包含了在它之前已經渲染好的不透明物體顏色。 | 
-| depthTexture | TextureHandle | 深度紋理。包含了場景的深度資訊，用於在 Shader 中重建每個像素的世界座標。 | 
-| volumetricLighting | TextureHandle | 體積光照緩衝區。這是一個 3D 紋理 (V-Buffer)，儲存了由 VolumetricLightingPass 計算出的、在空間中每個點的光照和散射資訊。這是霧效果的主要資料來源。 | 
-| depthBuffer | TextureHandle | 硬體深度/模板緩衝區。用於深度測試，確保霧效果只在現有幾何體上渲染。 |
+| 參數名稱               | 類型            | 描述                                                                                           |     |
+| :----------------- | :------------ | :------------------------------------------------------------------------------------------- | --- |
+| renderGraph        | RenderGraph   | Render Graph 系統的實例，用於排程和執行此渲染通道。                                                             |     |
+| hdCamera           | HDCamera      | 當前正在渲染的攝影機。它提供了所有攝影機相關的資訊，如視圖/投影矩陣、畫面設定 (Frame Settings) 和螢幕尺寸。                              |     |
+| colorBuffer        | TextureHandle | 主顏色緩衝區。這是此通道的主要輸入與輸出目標，包含了在它之前已經渲染好的不透明物體顏色。                                                 |     |
+| depthTexture       | TextureHandle | 深度紋理。包含了場景的深度資訊，用於在 Shader 中重建每個像素的世界座標。                                                     |     |
+| volumetricLighting | TextureHandle | 體積光照緩衝區。這是一個 3D 紋理 (V-Buffer)，儲存了由 VolumetricLightingPass 計算出的、在空間中每個點的光照和散射資訊。這是霧效果的主要資料來源。 |     |
+| depthBuffer        | TextureHandle | 硬體深度/模板緩衝區。用於深度測試，確保霧效果只在現有幾何體上渲染。                                                           |     |
