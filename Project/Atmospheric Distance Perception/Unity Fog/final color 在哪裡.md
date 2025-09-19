@@ -1,5 +1,5 @@
 - final color 在哪裡?
-	- `AtmosphericScattering.hlsl` `EvaluateAtmosphericScattering`
+	- `AtmosphericScattering.hlsl/EvaluateAtmosphericScattering`
 ## 1. 把 Fog 相關參數打包進`ShaderVariablesGlobal cb` 中
 - `HDRenderPipeline.cs` 裡面的內容，直到`Fog.UpdateShaderVariablesGlobalCB()`
 	- `HDRenderPipeline.cs/Render()`->**ExecuteAOVRenderRequests()**->ExecuteRenderRequest()->UpdateGlobalConstantBuffers()->UpdateShaderVariablesGlobalCB()->Fog.UpdateShaderVariablesGlobalCB()
