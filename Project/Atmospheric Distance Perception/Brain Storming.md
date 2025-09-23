@@ -1,2 +1,3 @@
 - 建構完霧氣之後，就要開始跟真實世界的場景做對應
 - Fog 跟 Smoke 的差別是什麼
+- Visibility 跟 eye height 不是真正有關，真正有關係的是 extinction coefficient
