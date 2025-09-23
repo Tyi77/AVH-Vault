@@ -26,3 +26,6 @@
 ### Distance Measurement Method
 - [Distance perception in real and virtual environments](https://dl.acm.org/doi/abs/10.1145/1077399.1077402)
 - [Methods for measuring egocentric distance perception in visual modality](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.1061917/full)
+- Prof. Babu 給的兩個教授
+	- https://scholar.google.com/citations?hl=en&user=nEkOy0sAAAAJ&view_op=list_works&sortby=pubdate
+	- https://scholar.google.com/citations?hl=en&user=5i8mmnUAAAAJ&view_op=list_works&sortby=pubdate
