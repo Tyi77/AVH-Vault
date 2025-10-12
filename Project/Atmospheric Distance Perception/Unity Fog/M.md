@@ -1,1 +1,2 @@
 - 更改Fog.cs，讓meanfreepath從MinFloatParameter變成Vector3Parameter
+- 真的有必要更改meanfreepath嗎?從一份論文一份簡報來看
