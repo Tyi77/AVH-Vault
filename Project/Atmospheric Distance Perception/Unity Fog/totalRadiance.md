@@ -1,1 +1,11 @@
-- 內容
+- 他在 VolumetricLighting.compute 的 FillVolumetricLightingBuffer 中。在第 591 行的 for 迴圈中。在第771行有 totalRadiance 的累加公式
+- posInput.positionSS 是 Screen Space 的 xy 座標
+- transmittance
+	- exp(-opticalDepth) 得來的
+	- optical depth
+		- 真正的 optical depth 值是 blendValue.a
+			- blendValue.a 由 extinction * dt 得來的
+			- dt 是 voxel 的長度
+		- transmittance 是由 voxel start 的 optical depth 得來的
+- scattering (scattering coefficient)
+	- extinction * albedo
