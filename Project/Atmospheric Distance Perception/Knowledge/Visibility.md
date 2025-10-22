@@ -1,1 +1,2 @@
 - Fog 不變動，但每個人的 visibility 應該要是不一樣的。因為 eye height 不同，導致每個人的 extinction coefficient 會不同，因此 visibility 就會不同。
+- 直接使用那篇論文的visibility就可以了
