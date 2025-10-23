@@ -1,0 +1,5 @@
+- Contrast 的公式
+	- $B_R - B_R' = (B_0 - B_0') e^{-\sigma_0 R}$
+	- $C_0 = \cfrac{B_0-B_0'}{B_0'}$
+	- $C_R = Co\cdot \cfrac{B_0'}{B_R'} e^{-\sigma_0 R}$
+- 
