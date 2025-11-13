@@ -1,0 +1,5 @@
+- Just talk about that equation.
+- Put saturation in our study.
+- Put hue in our study.
+- Different types of objects.
+- Different fog types.
