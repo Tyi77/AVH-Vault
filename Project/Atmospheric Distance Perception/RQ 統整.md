@@ -1,0 +1,8 @@
+- VR中有霧的天氣之下，實際距離與人感受到的距離間的關係是是甚麼？會被什麼因素影響？
+- 有可能的因素
+	- Visibility
+		- extinction coefficient (消光係數) ($\sigma$)
+			- 真實的霧氣通常會是
+		- inherent contrast (內部對比度) ($C_0$)
+		- The threshold of the apparent contrast (明顯對比度的閾值) ($\varepsilon$)
+- 目標：找出這些參數常用的數值
