@@ -1,0 +1,4 @@
+- 有好多的前提
+	- Horizontal Vision
+	- Homogeneous Fog
+	- x 跟 x' 是很接近的，因此大氣散射光對這兩束光的影響是一樣的，所以那部份的數學式子才可以相互抵消
