@@ -20,7 +20,7 @@
 ---
 ## 三個變數所屬於的範疇
 extinction coefficient : 霧氣、物理學
-inherent contrast : 霧氣(背景亮度)+感知物體、物理學
+inherent contrast (C_0) : 霧氣(背景亮度)+感知物體、物理學
 epsilon : 霧氣(背景亮度)+感知物體(物體大小)+人眼、心理學
 ## 三個變數互相影響的關係圖
 $\sigma$ -> $C_0$
@@ -37,3 +37,8 @@ $C_0$ , $\sigma$ -> $\varepsilon$
 ## Meteorological Range 和 Visual Range 的差別
 meteorological range 是客觀的物理量，是被定義出來的，可由儀器偵測
 visual range 是主觀的心理物理量，會與個人本身的特性而有不同的數值
+
+獨立變數：distance(Fig13, 14), extinction
+視覺上的差異(pilot study) (gird search)
+紅綠燈(路上的東西)
+駕駛、航空、海上
