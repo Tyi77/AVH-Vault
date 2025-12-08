@@ -62,3 +62,5 @@ visual range 是主觀的心理物理量，會與個人本身的特性而有不�
 - Fig13, 14查圖
 	- 查出來的 epsilon 應該要再乘以二才對，才會符合95%的辨識率
 	- 常寬比不能超過 7:1
+- Koschmieder's Model
+	- https://youtu.be/HeJO7AErEiU
