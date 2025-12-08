@@ -38,7 +38,27 @@ $C_0$ , $\sigma$ -> $\varepsilon$
 meteorological range 是客觀的物理量，是被定義出來的，可由儀器偵測
 visual range 是主觀的心理物理量，會與個人本身的特性而有不同的數值
 
+---
 獨立變數：distance(Fig13, 14), extinction
 視覺上的差異(pilot study) (gird search)
 紅綠燈(路上的東西)
 駕駛、航空、海上
+
+---
+- 公式中的變數
+	- 應變數：感知距離
+	- 自變數：
+		- 物體
+			- 實際距離
+			- 本身亮度 (fix)
+			- 本身大小
+		- Extinction
+		- 背景亮度 (fix)
+- 決定好 extinction 後，可以決定 Visbility
+- 搜尋paradigm那篇是否有被citation
+	- 他們所使用的 extinction 是多少
+- 先決定 extinction、distance、物體亮度，然後推論出 visibility
+- 背景亮度可以從extinction得出嗎?
+- Fig13, 14查圖
+	- 查出來的 epsilon 應該要再乘以二才對，才會符合95%的辨識率
+	- 常寬比不能超過 7:1
