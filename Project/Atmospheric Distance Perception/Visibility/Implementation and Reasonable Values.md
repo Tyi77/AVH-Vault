@@ -1,0 +1,9 @@
+- Implementation
+	- Object Luminance and Background Luminance
+		- 有用 Gemini 幫我產生可以偵測 Luminance 的code。
+		- camera 上的 script 才是我要的 lumiannce，environmentprobe 上的內容是 color space 的 luminance ，所以這是不對的
+- Reasonable Values
+	- Extinction
+	- Distance
+	- Luminance (Object + background luminance)
+	- Object Size
