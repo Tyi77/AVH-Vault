@@ -1,9 +1,13 @@
 - Implementation
 	- Object Luminance and Background Luminance
 		- 有用 Gemini 幫我產生可以偵測 Luminance 的code。
-		- camera 上的 script 才是我要的 lumiannce，environmentprobe 上的內容是 color space 的 luminance ，所以這是不對的
+		- camera 上的 script 才是我要的 lumiannce，environmentprobe 上的內容是 color space 的 luminance ，不是我要的
 - Reasonable Values
 	- Extinction
 	- Distance
 	- Luminance (Object + background luminance)
 	- Object Size
+---
+## Epsilon
+- 不能再使用 Luminance 了，因為真實世界的 Luminance 和虛擬世界的 Luminance 是不一樣的，所以需要其他針對電腦科學所建立的 Luminance<->Epsilon 數學模型。
+- 重要的論文：A Model of Visual Adaptation for Realistic Image Synthesis
