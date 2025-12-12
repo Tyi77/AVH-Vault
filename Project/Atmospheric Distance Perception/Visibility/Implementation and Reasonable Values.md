@@ -11,3 +11,6 @@
 ## Epsilon
 - 不能再使用 Luminance 了，因為真實世界的 Luminance 和虛擬世界的 Luminance 是不一樣的，所以需要其他針對電腦科學所建立的 Luminance<->Epsilon 數學模型。
 - 重要的論文：A Model of Visual Adaptation for Realistic Image Synthesis
+- distance -> visual angle
+	- ![[Pasted image 20251212163740.png]]
+- 韋伯定律：$\Delta B / B = k$ 。當背景亮度超過一定的亮度後，對比度與背景亮度的比值會是個常數，也就是線性的變化。
