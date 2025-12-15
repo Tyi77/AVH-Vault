@@ -15,3 +15,19 @@
 	- ![[Pasted image 20251212163740.png]]
 - 韋伯定律：$\Delta B / B = k$ 。當背景亮度超過一定的亮度後，對比度與背景亮度的比值會是個常數，也就是線性的變化。
 - Quest 3 的螢幕亮度最大約為 100 nits
+---
+## Implementation
+- Extinction (✅)
+	- 我希望獲取場景物件中的「Sky and Fog Global Volume」，並取出其「Fog Attenuation Distance」、「Maximum Height」
+- Distance and Visual Angle (✅)
+	- Distance
+		- The horizontal distance between the object and the camera.
+	- Visual Angle (Radius)
+		- $\theta = 2 × arctan\left( \dfrac{size}{2 × distance}\right)$
+- Contrast
+## Functions
+- How to get epsilon ... How
+	-  How to get luminance?
+---
+- 顏色要對一下
+- Functions那邊要放真正的function上去
