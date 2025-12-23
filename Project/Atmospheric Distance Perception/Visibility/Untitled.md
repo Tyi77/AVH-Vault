@@ -64,3 +64,8 @@ visual range 是主觀的心理物理量，會與個人本身的特性而有不�
 	- 常寬比不能超過 7:1
 - Koschmieder's Model
 	- https://youtu.be/HeJO7AErEiU
+---
+## RQ
+- How does visibility affect the relationship between actual distance and perceived distance within foggy VR scenes?
+- How does extinction coefficient affect the relationship between actual distance and perceived distance within foggy VR scenes?
+- How do different distance measurement methods affect the relationship between actual distance and perceived distance within foggy VR scenes?
