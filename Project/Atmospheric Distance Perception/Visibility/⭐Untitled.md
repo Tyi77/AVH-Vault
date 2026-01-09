@@ -69,3 +69,13 @@ visual range 是主觀的心理物理量，會與個人本身的特性而有不�
 - How does visibility affect the relationship between actual distance and perceived distance within foggy VR scenes?
 - How does extinction coefficient affect the relationship between actual distance and perceived distance within foggy VR scenes?
 - How do different distance measurement methods affect the relationship between actual distance and perceived distance within foggy VR scenes?
+---
+## MOR 的做法
+就是用MOR代表visibility，這也是大氣報告所使用的visibility的背後公式，變數只有 $\sigma$
+==FACTORS==
+- $\sigma$ , $D_a$ , "measure methods", "different scenes"
+- 如何算calibration的trials
+==Procedure==
+- 
+- 找出不同的measure methods的calibration方法
+==Calibration==
