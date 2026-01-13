@@ -76,6 +76,5 @@ visual range 是主觀的心理物理量，會與個人本身的特性而有不�
 - $\sigma$ , $D_a$ , "measure methods", "different scenes"
 - 如何算calibration的trials
 ==Procedure==
-- 
 - 找出不同的measure methods的calibration方法
 ==Calibration==
